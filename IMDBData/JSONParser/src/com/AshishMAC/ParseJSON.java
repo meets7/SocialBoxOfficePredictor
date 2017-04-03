@@ -14,7 +14,7 @@ public class ParseJSON {
 			System.out.println(" ParseJSON <directory-location-containing-Movie-List-Text-File>");
 			System.exit(1);
 		} 
-		String path = args[0];
+		String path = args[0];int count=0;
 		BufferedReader br = null;String line;
 		File file =new File(path+"/MovieList.txt");
 		File file2 = new File(path+"/MovieDetail.csv");
@@ -36,22 +36,35 @@ public class ParseJSON {
         try {
             br = new BufferedReader(new InputStreamReader(new FileInputStream(file), "Cp1252"), 100);
             while ((line = br.readLine()) != null) {
+            	String boxOffice= "N/A",title =line,id ="N/A",actors ="N/A",directors ="N/A",release ="N/A",contentRating ="N/A",votes ="N/A",genre ="N/A",Rating ="N/A",plot ="N/A";
         		String movie_name=line;
         		String result = getURLContent ("http://www.omdbapi.com/?t="+movie_name.replace(" ","%20"));
         		JSONObject obj = new JSONObject(result);
-        		String title = obj.getString("Title").replaceAll(",",";");
-        		String id= obj.getString("imdbID").replaceAll(",",";");
-        		String actors= obj.getString("Actors").replaceAll(",",";");
-        		String directors= obj.getString("Director").replaceAll(",",";");
-        		String release= obj.getString("Released").replaceAll(",",";");
-        		String contentRating= obj.getString("Rated").replaceAll(",",";");
-        		String boxOffice= obj.getString("BoxOffice").replaceAll(",",";");
-        		String votes= obj.getString("imdbVotes").replaceAll(",",";");
-        		String genre= obj.getString("Genre").replaceAll(",",";");
-        		String Rating= obj.getString("imdbRating").replaceAll(",",";");
-        		String plot= obj.getString("Plot").replaceAll(",",";");
-
-
+        		count=count+1;
+        		System.out.println(count+":"+movie_name);
+        		if (obj.has("Title")) {
+        			title = obj.getString("Title").replaceAll(",",";");
+        			if (obj.has("imdbID")) {
+        				id= obj.getString("imdbID").replaceAll(",",";");}
+        			if (obj.has("Actors")) {
+        				actors= obj.getString("Actors").replaceAll(",",";");}
+        			if (obj.has("Director")) {
+        				directors= obj.getString("Director").replaceAll(",",";");}
+        			if (obj.has("Released")) {
+        				release= obj.getString("Released").replaceAll(",",";");}
+        			if (obj.has("Rated")) {
+        			contentRating= obj.getString("Rated").replaceAll(",",";");}
+        			if (obj.has("BoxOffice")) {
+        				boxOffice= obj.getString("BoxOffice").replaceAll(",",";");}
+        			if (obj.has("imdbVotes")) {
+        			votes= obj.getString("imdbVotes").replaceAll(",",";");}
+        			if (obj.has("Genre")) {
+        			genre= obj.getString("Genre").replaceAll(",",";");}
+        			if (obj.has("imdbRating")) {
+        			Rating= obj.getString("imdbRating").replaceAll(",",";");}
+        			if (obj.has("Plot")) {
+        			plot= obj.getString("Plot").replaceAll(",",";");}
+        		}
                 sb.append(title);sb.append(',');
                 sb.append(id);sb.append(',');
                 sb.append(actors);sb.append(',');
