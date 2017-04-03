@@ -1,0 +1,8 @@
+For rows 0 to 10. First movie in the movies_year.csv is zero.
+python youtubeData.py movies_year.csv 0 10
+
+Thereafter, if you need to add more movies to movies_stats.csv, change the last arguments to 10 25.
+
+python youtubeData.py movies_year.csv 10 25.
+
+This will add data to the csv from row 10 to row 25 (zero-indexed).

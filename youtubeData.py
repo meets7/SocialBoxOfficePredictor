@@ -13,7 +13,7 @@ if __name__ == "__main__":
     writeCSV = csv.writer(open("movies_stats.csv","ab")) # change to wb to overwrite, ab to append
 
     for i in range(startrow, endrow): # 0 to 7, 7 to 10 and so on ..
-        if i == 0:      # add this row only if we starting from first row of dataframe
+        if i == 0:      # add this row only if we starting from first row of data frame
             writeCSV.writerow(["movie_title", "year", "view_count", "like_count", "dislike_count"])
         movieTitleDF = data['movie_title'].iloc[i]
         movieYearDF = data['title_year'].iloc[i]
