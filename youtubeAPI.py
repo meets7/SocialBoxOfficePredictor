@@ -20,7 +20,6 @@ def youtubeSearch(searchtext):
         search_videos.append(search_result["id"]["videoId"])
     video_ids = ",".join(search_videos)
 
-    # Call the videos.list method to retrieve location details for each video.
     video_response = youtube.videos().list(
         id = video_ids,
         part = 'statistics'
