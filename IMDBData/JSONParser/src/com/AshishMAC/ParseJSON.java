@@ -26,6 +26,9 @@ public class ParseJSON {
         sb.append("Director");sb.append(',');
         sb.append("Released");sb.append(',');
         sb.append("Rated");sb.append(',');
+        sb.append("BoxOffice");sb.append(',');
+        sb.append("IMDB Votes");sb.append(',');
+        sb.append("Genre");sb.append(',');
         sb.append("imdbRating");sb.append(',');
         sb.append("Plot");sb.append(',');
         sb.append('\n');
@@ -42,6 +45,9 @@ public class ParseJSON {
         		String directors= obj.getString("Director").replaceAll(",",";");
         		String release= obj.getString("Released").replaceAll(",",";");
         		String contentRating= obj.getString("Rated").replaceAll(",",";");
+        		String boxOffice= obj.getString("BoxOffice").replaceAll(",",";");
+        		String votes= obj.getString("imdbVotes").replaceAll(",",";");
+        		String genre= obj.getString("Genre").replaceAll(",",";");
         		String Rating= obj.getString("imdbRating").replaceAll(",",";");
         		String plot= obj.getString("Plot").replaceAll(",",";");
 
@@ -52,6 +58,9 @@ public class ParseJSON {
                 sb.append(directors);sb.append(',');
                 sb.append(release);sb.append(',');
                 sb.append(contentRating);sb.append(',');
+                sb.append(boxOffice);sb.append(',');
+                sb.append(votes);sb.append(',');
+                sb.append(genre);sb.append(',');
                 sb.append(Rating);sb.append(',');
                 sb.append(plot);sb.append(',');
                 sb.append('\n');
