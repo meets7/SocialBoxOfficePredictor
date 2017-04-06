@@ -1,100 +1,5044 @@
 movie_title,title_year
-AvatarŒæ,2009
-Pirates of the Caribbean: At World's EndŒæ,2007
-SpectreŒæ,2015
-The Dark Knight RisesŒæ,2012
-Star Wars: Episode VII - The Force AwakensŒæ            ,2015
-John CarterŒæ,2012
-Spider-Man 3Œæ,2007
-TangledŒæ,2010
-Avengers: Age of UltronŒæ,2015
-Harry Potter and the Half-Blood PrinceŒæ,2009
-Batman v Superman: Dawn of JusticeŒæ,2016
-Superman ReturnsŒæ,2006
-Quantum of SolaceŒæ,2008
-Pirates of the Caribbean: Dead Man's ChestŒæ,2006
-The Lone RangerŒæ,2013
-Man of SteelŒæ,2013
-The Chronicles of Narnia: Prince CaspianŒæ,2008
-The AvengersŒæ,2012
-Pirates of the Caribbean: On Stranger TidesŒæ,2011
-Men in Black 3Œæ,2012
-The Hobbit: The Battle of the Five ArmiesŒæ,2014
-The Amazing Spider-ManŒæ,2012
-Robin HoodŒæ,2010
-The Hobbit: The Desolation of SmaugŒæ,2013
-The Golden CompassŒæ,2007
-King KongŒæ,2005
-TitanicŒæ,1997
-Captain America: Civil WarŒæ,2016
-BattleshipŒæ,2012
-Jurassic WorldŒæ,2015
-SkyfallŒæ,2012
-Spider-Man 2Œæ,2004
-Iron Man 3Œæ,2013
-Alice in WonderlandŒæ,2010
-X-Men: The Last StandŒæ,2006
-Monsters UniversityŒæ,2013
-Transformers: Revenge of the FallenŒæ,2009
-Transformers: Age of ExtinctionŒæ,2014
-Oz the Great and PowerfulŒæ,2013
-The Amazing Spider-Man 2Œæ,2014
-TRON: LegacyŒæ,2010
-Cars 2Œæ,2011
-Green LanternŒæ,2011
-Toy Story 3Œæ,2010
-Terminator SalvationŒæ,2009
-Furious 7Œæ,2015
-World War ZŒæ,2013
-X-Men: Days of Future PastŒæ,2014
-Star Trek Into DarknessŒæ,2013
-Jack the Giant SlayerŒæ,2013
-The Great GatsbyŒæ,2013
-Prince of Persia: The Sands of TimeŒæ,2010
-Pacific RimŒæ,2013
-Transformers: Dark of the MoonŒæ,2011
-Indiana Jones and the Kingdom of the Crystal SkullŒæ,2008
-The Good DinosaurŒæ,2015
-BraveŒæ,2012
-Star Trek BeyondŒæ,2016
-WALLŒ‡EŒæ,2008
-Rush Hour 3Œæ,2007
-2012Œæ,2009
-A Christmas CarolŒæ,2009
-Jupiter AscendingŒæ,2015
-The Legend of TarzanŒæ,2016
-"The Chronicles of Narnia: The Lion, the Witch and the WardrobeŒæ",2005
-X-Men: ApocalypseŒæ,2016
-The Dark KnightŒæ,2008
-UpŒæ,2009
-Monsters vs. AliensŒæ,2009
-Iron ManŒæ,2008
-HugoŒæ,2011
-Wild Wild WestŒæ,1999
-The Mummy: Tomb of the Dragon EmperorŒæ,2008
-Suicide SquadŒæ,2016
-Evan AlmightyŒæ,2007
-Edge of TomorrowŒæ,2014
-WaterworldŒæ,1995
-G.I. Joe: The Rise of CobraŒæ,2009
-Inside OutŒæ,2015
-The Jungle BookŒæ,2016
-Iron Man 2Œæ,2010
-Snow White and the HuntsmanŒæ,2012
-MaleficentŒæ,2014
-Dawn of the Planet of the ApesŒæ,2014
-The LoversŒæ,2015
-47 RoninŒæ,2013
-Captain America: The Winter SoldierŒæ,2014
-Shrek Forever AfterŒæ,2010
-TomorrowlandŒæ,2015
-Big Hero 6Œæ,2014
-Wreck-It RalphŒæ,2012
-The Polar ExpressŒæ,2004
-Independence Day: ResurgenceŒæ,2016
-How to Train Your DragonŒæ,2010
-Terminator 3: Rise of the MachinesŒæ,2003
-Guardians of the GalaxyŒæ,2014
-InterstellarŒæ,2014
-InceptionŒæ,2010
-Godzilla ResurgenceŒæ,2016
+AvataråÊ,2009
+Pirates of the Caribbean: At World's EndåÊ,2007
+SpectreåÊ,2015
+The Dark Knight RisesåÊ,2012
+Star Wars: Episode VII - The Force AwakensåÊ            ,
+John CarteråÊ,2012
+Spider-Man 3åÊ,2007
+TangledåÊ,2010
+Avengers: Age of UltronåÊ,2015
+Harry Potter and the Half-Blood PrinceåÊ,2009
+Batman v Superman: Dawn of JusticeåÊ,2016
+Superman ReturnsåÊ,2006
+Quantum of SolaceåÊ,2008
+Pirates of the Caribbean: Dead Man's CheståÊ,2006
+The Lone RangeråÊ,2013
+Man of SteelåÊ,2013
+The Chronicles of Narnia: Prince CaspianåÊ,2008
+The AvengersåÊ,2012
+Pirates of the Caribbean: On Stranger TidesåÊ,2011
+Men in Black 3åÊ,2012
+The Hobbit: The Battle of the Five ArmiesåÊ,2014
+The Amazing Spider-ManåÊ,2012
+Robin HoodåÊ,2010
+The Hobbit: The Desolation of SmaugåÊ,2013
+The Golden CompassåÊ,2007
+King KongåÊ,2005
+TitanicåÊ,1997
+Captain America: Civil WaråÊ,2016
+BattleshipåÊ,2012
+Jurassic WorldåÊ,2015
+SkyfallåÊ,2012
+Spider-Man 2åÊ,2004
+Iron Man 3åÊ,2013
+Alice in WonderlandåÊ,2010
+X-Men: The Last StandåÊ,2006
+Monsters UniversityåÊ,2013
+Transformers: Revenge of the FallenåÊ,2009
+Transformers: Age of ExtinctionåÊ,2014
+Oz the Great and PowerfulåÊ,2013
+The Amazing Spider-Man 2åÊ,2014
+TRON: LegacyåÊ,2010
+Cars 2åÊ,2011
+Green LanternåÊ,2011
+Toy Story 3åÊ,2010
+Terminator SalvationåÊ,2009
+Furious 7åÊ,2015
+World War ZåÊ,2013
+X-Men: Days of Future PaståÊ,2014
+Star Trek Into DarknessåÊ,2013
+Jack the Giant SlayeråÊ,2013
+The Great GatsbyåÊ,2013
+Prince of Persia: The Sands of TimeåÊ,2010
+Pacific RimåÊ,2013
+Transformers: Dark of the MoonåÊ,2011
+Indiana Jones and the Kingdom of the Crystal SkullåÊ,2008
+The Good DinosauråÊ,2015
+BraveåÊ,2012
+Star Trek BeyondåÊ,2016
+WALLåáEåÊ,2008
+Rush Hour 3åÊ,2007
+2012åÊ,2009
+A Christmas CarolåÊ,2009
+Jupiter AscendingåÊ,2015
+The Legend of TarzanåÊ,2016
+"The Chronicles of Narnia: The Lion, the Witch and the WardrobeåÊ",2005
+X-Men: ApocalypseåÊ,2016
+The Dark KnightåÊ,2008
+UpåÊ,2009
+Monsters vs. AliensåÊ,2009
+Iron ManåÊ,2008
+HugoåÊ,2011
+Wild Wild WeståÊ,1999
+The Mummy: Tomb of the Dragon EmperoråÊ,2008
+Suicide SquadåÊ,2016
+Evan AlmightyåÊ,2007
+Edge of TomorrowåÊ,2014
+WaterworldåÊ,1995
+G.I. Joe: The Rise of CobraåÊ,2009
+Inside OutåÊ,2015
+The Jungle BookåÊ,2016
+Iron Man 2åÊ,2010
+Snow White and the HuntsmanåÊ,2012
+MaleficentåÊ,2014
+Dawn of the Planet of the ApesåÊ,2014
+The LoversåÊ,2015
+47 RoninåÊ,2013
+Captain America: The Winter SoldieråÊ,2014
+Shrek Forever AfteråÊ,2010
+TomorrowlandåÊ,2015
+Big Hero 6åÊ,2014
+Wreck-It RalphåÊ,2012
+The Polar ExpressåÊ,2004
+Independence Day: ResurgenceåÊ,2016
+How to Train Your DragonåÊ,2010
+Terminator 3: Rise of the MachinesåÊ,2003
+Guardians of the GalaxyåÊ,2014
+InterstellaråÊ,2014
+InceptionåÊ,2010
+Godzilla ResurgenceåÊ,2016
+The Hobbit: An Unexpected JourneyåÊ,2012
+The Fast and the FuriousåÊ,2001
+The Curious Case of Benjamin ButtonåÊ,2008
+X-Men: First ClassåÊ,2011
+The Hunger Games: Mockingjay - Part 2åÊ,2015
+The Sorcerer's ApprenticeåÊ,2010
+PoseidonåÊ,2006
+Alice Through the Looking GlassåÊ,2016
+Shrek the ThirdåÊ,2007
+WarcraftåÊ,2016
+Terminator GenisysåÊ,2015
+The Chronicles of Narnia: The Voyage of the Dawn TreaderåÊ,2010
+Pearl HarboråÊ,2001
+TransformersåÊ,2007
+AlexanderåÊ,2004
+Harry Potter and the Order of the PhoenixåÊ,2007
+Harry Potter and the Goblet of FireåÊ,2005
+HancockåÊ,2008
+I Am LegendåÊ,2007
+Charlie and the Chocolate FactoryåÊ,2005
+RatatouilleåÊ,2007
+Batman BeginsåÊ,2005
+Madagascar: Escape 2 AfricaåÊ,2008
+Night at the Museum: Battle of the SmithsonianåÊ,2009
+X-Men Origins: WolverineåÊ,2009
+The Matrix RevolutionsåÊ,2003
+FrozenåÊ,2013
+The Matrix ReloadedåÊ,2003
+Thor: The Dark WorldåÊ,2013
+Mad Max: Fury RoadåÊ,2015
+Angels & DemonsåÊ,2009
+ThoråÊ,2011
+BoltåÊ,2008
+G-ForceåÊ,2009
+Wrath of the TitansåÊ,2012
+Dark ShadowsåÊ,2012
+Mission: Impossible - Rogue NationåÊ,2015
+The WolfmanåÊ,2010
+The Legend of TarzanåÊ,2016
+Bee MovieåÊ,2007
+Kung Fu Panda 2åÊ,2011
+The Last AirbenderåÊ,2010
+Mission: Impossible IIIåÊ,2006
+White House DownåÊ,2013
+Mars Needs MomsåÊ,2011
+Flushed AwayåÊ,2006
+PanåÊ,2015
+Mr. Peabody & ShermanåÊ,2014
+TroyåÊ,2004
+Madagascar 3: Europe's Most WantedåÊ,2012
+Die Another DayåÊ,2002
+GhostbustersåÊ,2016
+ArmageddonåÊ,1998
+Men in Black IIåÊ,2002
+BeowulfåÊ,2007
+Kung Fu Panda 3åÊ,2016
+Mission: Impossible - Ghost ProtocolåÊ,2011
+Rise of the GuardiansåÊ,2012
+Fun with Dick and JaneåÊ,2005
+The Last SamuraiåÊ,2003
+Exodus: Gods and KingsåÊ,2014
+Star TrekåÊ,2009
+Spider-ManåÊ,2002
+How to Train Your Dragon 2åÊ,2014
+Gods of EgyptåÊ,2016
+StealthåÊ,2005
+WatchmenåÊ,2009
+Lethal Weapon 4åÊ,1998
+HulkåÊ,2003
+G.I. Joe: RetaliationåÊ,2013
+SaharaåÊ,2005
+Final Fantasy: The Spirits WithinåÊ,2001
+Captain America: The First AvengeråÊ,2011
+The World Is Not EnoughåÊ,1999
+Master and Commander: The Far Side of the WorldåÊ,2003
+The Twilight Saga: Breaking Dawn - Part 2åÊ,2012
+Happy Feet 2åÊ,2011
+The Incredible HulkåÊ,2008
+Miami ViceåÊ            ,
+The BFGåÊ,2016
+The RevenantåÊ,2015
+TurboåÊ,2013
+RangoåÊ,2011
+Penguins of MadagascaråÊ,2014
+The Bourne UltimatumåÊ,2007
+Kung Fu PandaåÊ,2008
+Ant-ManåÊ,2015
+The Hunger Games: Catching FireåÊ,2013
+The Twilight Saga: Breaking Dawn - Part 2åÊ,2012
+HomeåÊ,2015
+War of the WorldsåÊ,2005
+Bad Boys IIåÊ,2003
+Puss in BootsåÊ,2011
+SaltåÊ,2010
+NoahåÊ,2014
+The Adventures of TintinåÊ,2011
+Harry Potter and the Prisoner of AzkabanåÊ,2004
+AustraliaåÊ,2008
+After EarthåÊ,2013
+DinosauråÊ,2000
+Harry Potter and the Deathly Hallows: Part IIåÊ,2011
+Night at the Museum: Secret of the TombåÊ,2014
+MegamindåÊ,2010
+Harry Potter and the Sorcerer's StoneåÊ,2001
+R.I.P.D.åÊ,2013
+Godzilla ResurgenceåÊ,2016
+Pirates of the Caribbean: The Curse of the Black PearlåÊ,2003
+Harry Potter and the Deathly Hallows: Part IåÊ,2010
+The Hunger Games: Mockingjay - Part 1åÊ,2014
+The Da Vinci CodeåÊ,2006
+Rio 2åÊ,2014
+X-Men 2åÊ,2003
+Fast FiveåÊ,2011
+Sherlock Holmes: A Game of ShadowsåÊ,2011
+Clash of the TitansåÊ,2010
+Total RecallåÊ,1990
+The 13th WarrioråÊ,1999
+The Bourne LegacyåÊ,2012
+Batman & RobinåÊ,1997
+How the Grinch Stole ChristmasåÊ,2000
+The Day After TomorrowåÊ,2004
+Mission: Impossible IIåÊ,2000
+The Perfect StormåÊ,2000
+Fantastic 4: Rise of the Silver SurferåÊ,2007
+Life of PiåÊ,2012
+Ghost RideråÊ,2007
+Jason BourneåÊ,2016
+Charlie's Angels: Full ThrottleåÊ,2003
+PrometheusåÊ,2012
+Stuart Little 2åÊ,2002
+ElysiumåÊ,2013
+The Chronicles of RiddickåÊ,2004
+RoboCopåÊ,2014
+Speed RaceråÊ,2008
+How Do You KnowåÊ,2010
+Knight and DayåÊ,2010
+OblivionåÊ,2013
+Star Wars: Episode III - Revenge of the SithåÊ,2005
+Star Wars: Episode II - Attack of the ClonesåÊ,2002
+"Monsters, Inc.åÊ",2001
+The WolverineåÊ,2013
+Star Wars: Episode I - The Phantom MenaceåÊ,1999
+The CroodsåÊ,2013
+Asterix at the Olympic GamesåÊ,2008
+WindtalkersåÊ,2002
+The Huntsman: Winter's WaråÊ,2016
+Teenage Mutant Ninja TurtlesåÊ,2014
+GravityåÊ,2013
+Dante's PeakåÊ,1997
+Teenage Mutant Ninja Turtles: Out of the ShadowsåÊ,2016
+Fantastic FouråÊ,2015
+Night at the MuseumåÊ,2006
+San AndreasåÊ,2015
+Tomorrow Never DiesåÊ,1997
+The PatriotåÊ,2000
+Ocean's TwelveåÊ,2004
+Mr. & Mrs. SmithåÊ,2005
+InsurgentåÊ,2015
+The AviatoråÊ,2004
+Gulliver's TravelsåÊ,2010
+The Green HornetåÊ,2011
+The A-TeamåÊ            ,
+300: Rise of an EmpireåÊ,2014
+The SmurfsåÊ,2011
+Home on the RangeåÊ,2004
+AllegiantåÊ,2016
+Real SteelåÊ,2011
+The Smurfs 2åÊ,2013
+Speed 2: Cruise ControlåÊ,1997
+Ender's GameåÊ,2013
+Live Free or Die HardåÊ,2007
+The Lord of the Rings: The Fellowship of the RingåÊ,2001
+Around the World in 80 DaysåÊ,2004
+AliåÊ,2001
+The Cat in the HatåÊ,2003
+"I, RobotåÊ",2004
+Kingdom of HeavenåÊ,2005
+Stuart LittleåÊ,1999
+The Princess and the FrogåÊ,2009
+The MartianåÊ,2015
+"10,000 B.C.åÊ            ",
+The IslandåÊ,2005
+Town & CountryåÊ,2001
+Gone in Sixty SecondsåÊ,2000
+GladiatoråÊ,2000
+Minority ReportåÊ,2002
+Harry Potter and the Chamber of SecretsåÊ,2002
+Casino RoyaleåÊ,2006
+Planet of the ApesåÊ,2001
+Terminator 2: Judgment DayåÊ,1991
+Public EnemiesåÊ,2009
+American GangsteråÊ,2007
+True LiesåÊ,1994
+The Taking of Pelham 1 2 3åÊ,2009
+Little FockersåÊ,2010
+The Other GuysåÊ,2010
+EraseråÊ,1996
+Django UnchainedåÊ,2012
+The Hunchback of Notre DameåÊ,1996
+The Emperor's New GrooveåÊ,2000
+The Expendables 2åÊ,2012
+National TreasureåÊ,2004
+EragonåÊ,2006
+Where the Wild Things AreåÊ,2009
+PanåÊ,2015
+EpicåÊ,2013
+The TouriståÊ,2010
+End of DaysåÊ,1999
+Blood DiamondåÊ,2006
+The Wolf of Wall StreetåÊ,2013
+Batman ForeveråÊ,1995
+Starship TroopersåÊ,1997
+Cloud AtlasåÊ,2012
+Legend of the Guardians: The Owls of Ga'HooleåÊ,2010
+CatwomanåÊ,2004
+HerculesåÊ,2014
+Treasure PlanetåÊ,2002
+Land of the LoståÊ,2009
+The Expendables 3åÊ,2014
+Point BreakåÊ,2015
+Son of the MaskåÊ,2005
+In the Heart of the SeaåÊ,2015
+The Adventures of Pluto NashåÊ,2002
+Green ZoneåÊ,2010
+The Peanuts MovieåÊ,2015
+The Spanish PrisoneråÊ,1997
+The Mummy ReturnsåÊ,2001
+Gangs of New YorkåÊ,2002
+The Flowers of WaråÊ,2011
+Surf's UpåÊ,2007
+The Stepford WivesåÊ,2004
+Black Hawk DownåÊ,2001
+The CampaignåÊ,2012
+The Fifth ElementåÊ,1997
+Sex and the City 2åÊ,2010
+The Road to El DoradoåÊ,2000
+Ice Age: Continental DriftåÊ,2012
+CinderellaåÊ,2015
+The Lovely BonesåÊ,2009
+Finding NemoåÊ,2003
+The Lord of the Rings: The Return of the KingåÊ,2003
+The Lord of the Rings: The Two TowersåÊ,2002
+Seventh SonåÊ,2014
+Lara Croft: Tomb RaideråÊ,2001
+TranscendenceåÊ,2014
+Jurassic Park IIIåÊ,2001
+Rise of the Planet of the ApesåÊ,2011
+The Spiderwick ChroniclesåÊ,2008
+A Good Day to Die HardåÊ,2013
+The AlamoåÊ,2004
+The IncrediblesåÊ,2004
+Cutthroat IslandåÊ,1995
+Percy Jackson & the Olympians: The Lightning ThiefåÊ,2010
+Men in BlackåÊ,1997
+Toy Story 2åÊ,1999
+UnstoppableåÊ,2010
+Rush Hour 2åÊ,2001
+What Lies BeneathåÊ,2000
+Cloudy with a Chance of MeatballsåÊ,2009
+Ice Age: Dawn of the DinosaursåÊ,2009
+The Secret Life of Walter MittyåÊ,2013
+Charlie's AngelsåÊ,2000
+The DepartedåÊ,2006
+MulanåÊ,1998
+Tropic ThunderåÊ,2008
+The Girl with the Dragon TattooåÊ,2011
+Die Hard with a VengeanceåÊ,1995
+Sherlock HolmesåÊ,2009
+Ben-HuråÊ,2016
+Atlantis: The Lost EmpireåÊ,2001
+Alvin and the Chipmunks: The Road ChipåÊ,2015
+ValkyrieåÊ,2008
+You Don't Mess with the ZohanåÊ,2008
+PixelsåÊ,2015
+A.I. Artificial IntelligenceåÊ,2001
+The Haunted MansionåÊ,2003
+ContactåÊ,1997
+Hollow ManåÊ,2000
+The InterpreteråÊ,2005
+Percy Jackson: Sea of MonstersåÊ,2013
+Lara Croft Tomb Raider: The Cradle of LifeåÊ,2003
+Now You See Me 2åÊ,2016
+The SaintåÊ,1997
+Spy GameåÊ,2001
+Mission to MarsåÊ,2000
+RioåÊ,2011
+Bicentennial ManåÊ,1999
+VolcanoåÊ,1997
+The Devil's OwnåÊ,1997
+K-19: The WidowmakeråÊ,2002
+Fantastic FouråÊ,2015
+Conan the BarbarianåÊ,1982
+Cinderella ManåÊ,2005
+The Nutcracker in 3DåÊ,2010
+SeabiscuitåÊ,2003
+TwisteråÊ,1996
+The Fast and the FuriousåÊ,2001
+Cast AwayåÊ,2000
+Happy FeetåÊ,2006
+The Bourne SupremacyåÊ,2004
+Air Force OneåÊ,1997
+Ocean's ElevenåÊ,2001
+The Three MusketeersåÊ,2011
+Hotel TransylvaniaåÊ,2012
+EnchantedåÊ,2007
+HannibalåÊ            ,
+Safe HouseåÊ,2012
+102 DalmatiansåÊ,2000
+Tower HeiståÊ,2011
+The HolidayåÊ,2006
+Enemy of the StateåÊ,1998
+It's ComplicatedåÊ,2009
+Ocean's ThirteenåÊ,2007
+Open SeasonåÊ,2006
+DivergentåÊ,2014
+Enemy at the GatesåÊ,2001
+The RundownåÊ,2003
+Last Action HeroåÊ,1993
+Memoirs of a GeishaåÊ,2005
+The Fast and the Furious: Tokyo DriftåÊ,2006
+Arthur ChristmasåÊ,2011
+Meet Joe BlackåÊ,1998
+Collateral DamageåÊ,2002
+All That JazzåÊ,1979
+Mirror MirroråÊ,2012
+Scott Pilgrim vs. the WorldåÊ,2010
+The CoreåÊ,2003
+Nutty Professor II: The KlumpsåÊ,2000
+Scooby-DooåÊ,2002
+DreddåÊ,2012
+ClickåÊ,2006
+CreepshowåÊ,1982
+Cats & Dogs: The Revenge of Kitty GaloreåÊ,2010
+JumperåÊ,2008
+Hellboy II: The Golden ArmyåÊ,2008
+ZodiacåÊ,2007
+The 6th DayåÊ,2000
+Bruce AlmightyåÊ,2003
+The ExpendablesåÊ,2010
+Mission: ImpossibleåÊ,1996
+The Hunger GamesåÊ,2012
+The Hangover Part IIåÊ,2011
+Batman ReturnsåÊ,1992
+Over the HedgeåÊ,2006
+Lilo & StitchåÊ,2002
+Charlotte's WebåÊ,2006
+Deep ImpactåÊ,1998
+RED 2åÊ,2013
+The Longest YardåÊ,2005
+Alvin and the Chipmunks: ChipwreckedåÊ,2011
+Grown Ups 2åÊ,2013
+Get SmartåÊ,2008
+Something's Gotta GiveåÊ,2003
+Shutter IslandåÊ,2010
+Four ChristmasesåÊ,2008
+RobotsåÊ,2005
+Face/OffåÊ,1997
+Bedtime StoriesåÊ,2008
+Road to PerditionåÊ,2002
+Just Go with ItåÊ,2011
+DaredevilåÊ            ,
+Con AiråÊ,1997
+Eagle EyeåÊ,2008
+Cold MountainåÊ,2003
+The Book of EliåÊ,2010
+FlubberåÊ,1997
+The HauntingåÊ,1999
+Space JamåÊ,1996
+The Pink PantheråÊ,2006
+The Day the Earth Stood StillåÊ,2008
+Conspiracy TheoryåÊ,1997
+FuryåÊ,2014
+Six Days Seven NightsåÊ,1998
+Yogi BearåÊ,2010
+Spirit: Stallion of the CimarronåÊ,2002
+ZookeeperåÊ,2011
+Lost in SpaceåÊ,1998
+The Manchurian CandidateåÊ,2004
+DÌ©jÌÊ VuåÊ,1997
+Hotel Transylvania 2åÊ,2015
+BewitchedåÊ            ,
+Fantasia 2000åÊ,1999
+The Time MachineåÊ,2002
+Mighty Joe YoungåÊ,1998
+SwordfishåÊ,2001
+The Legend of ZorroåÊ,2005
+What Dreams May ComeåÊ,1998
+Little NickyåÊ,2000
+The Brothers GrimmåÊ,2005
+Mars Attacks!åÊ,1996
+EvolutionåÊ,2015
+The EdgeåÊ,1997
+SurrogatesåÊ,2009
+Thirteen DaysåÊ,2000
+DaylightåÊ,1996
+Walking with Dinosaurs 3DåÊ,2013
+Battlefield EarthåÊ,2000
+Looney Tunes: Back in ActionåÊ,2003
+NineåÊ,2009
+TimelineåÊ,2003
+The PostmanåÊ,1997
+Babe: Pig in the CityåÊ,1998
+The Last Witch HunteråÊ,2015
+Red PlanetåÊ,2000
+Arthur and the InvisiblesåÊ,2006
+OceansåÊ,2009
+A Sound of ThunderåÊ,2005
+PompeiiåÊ,2014
+Top Cat BeginsåÊ,2015
+A Beautiful MindåÊ,2001
+The Lion KingåÊ,1994
+Journey 2: The Mysterious IslandåÊ,2012
+Cloudy with a Chance of Meatballs 2åÊ,2013
+Red DragonåÊ,2002
+HidalgoåÊ,2004
+Jack and JillåÊ,2011
+2 Fast 2 FuriousåÊ,2003
+The Little PrinceåÊ,2015
+The InvasionåÊ,2007
+The Adventures of Rocky & BullwinkleåÊ,2000
+The Secret Life of PetsåÊ,2016
+The League of Extraordinary GentlemenåÊ,2003
+Despicable Me 2åÊ,2013
+Independence DayåÊ,1996
+The Lost World: Jurassic ParkåÊ,1997
+MadagascaråÊ,2005
+Children of MenåÊ,2006
+X-MenåÊ,2000
+WantedåÊ,2008
+The RockåÊ,1996
+Ice Age: The MeltdownåÊ,2006
+50 First DatesåÊ,2004
+HairsprayåÊ,2007
+Exorcist: The BeginningåÊ,2004
+Inspector GadgetåÊ,1999
+Now You See MeåÊ,2013
+Grown UpsåÊ,2010
+The TerminalåÊ,2004
+ConstantineåÊ            ,
+Hotel for DogsåÊ,2009
+Vertical LimitåÊ,2000
+Charlie Wilson's WaråÊ,2007
+Shark TaleåÊ,2004
+DreamgirlsåÊ,2006
+LifeåÊ            ,
+Be CoolåÊ,2005
+MunichåÊ,2005
+Tears of the SunåÊ,2003
+KillersåÊ,2010
+The Man from U.N.C.L.E.åÊ,2015
+SpanglishåÊ,2004
+Monster HouseåÊ,2006
+BanditsåÊ,2001
+First KnightåÊ,1995
+Anna and the KingåÊ,1999
+ImmortalsåÊ,2011
+HostageåÊ,2005
+Titan A.E.åÊ,2000
+Hollywood HomicideåÊ,2003
+SoldieråÊ,1998
+CarriersåÊ,2009
+MonkeyboneåÊ,2001
+Flight of the PhoenixåÊ,2004
+UnbreakableåÊ,2000
+MinionsåÊ,2015
+Sucker PunchåÊ,2011
+Snake EyesåÊ,1998
+SphereåÊ,1998
+The Angry Birds MovieåÊ,2016
+Fool's GoldåÊ,2008
+Funny PeopleåÊ,2009
+The KingdomåÊ,2007
+Talladega Nights: The Ballad of Ricky BobbyåÊ,2006
+Dr. Dolittle 2åÊ,2001
+BraveheartåÊ,1995
+JarheadåÊ,2005
+The Simpsons MovieåÊ,2007
+The MajesticåÊ,2001
+DrivenåÊ,2001
+Two BrothersåÊ,2004
+The VillageåÊ,2004
+Doctor DolittleåÊ,1998
+SignsåÊ,2002
+Shrek 2åÊ,2004
+CarsåÊ,2006
+Runaway BrideåÊ,1999
+xXxåÊ,2002
+The SpongeBob Movie: Sponge Out of WateråÊ,2015
+RansomåÊ,1996
+Inglourious BasterdsåÊ,2009
+HookåÊ,1991
+HerculesåÊ,2014
+Die Hard 2åÊ,1990
+S.W.A.T.åÊ,2003
+Sleepy HollowåÊ            ,
+Vanilla SkyåÊ,2001
+Lady in the WateråÊ,2006
+AVP: Alien vs. PredatoråÊ,2004
+Alvin and the Chipmunks: The SqueakquelåÊ,2009
+We Were SoldiersåÊ,2002
+Olympus Has FallenåÊ,2013
+Star Trek: InsurrectionåÊ,1998
+Battle Los AngelesåÊ,2011
+Big FishåÊ,2003
+WolfåÊ,1994
+War HorseåÊ,2011
+The Monuments MenåÊ,2014
+The AbyssåÊ,1989
+Wall Street: Money Never SleepsåÊ,2010
+Dracula UntoldåÊ,2014
+The SiegeåÊ,1998
+StarduståÊ,2007
+Seven Years in TibetåÊ,1997
+The DilemmaåÊ,2011
+Bad CompanyåÊ,2002
+DoomåÊ,2005
+I SpyåÊ,2002
+Underworld: AwakeningåÊ,2012
+Rock of AgesåÊ,2012
+Hart's WaråÊ,2002
+Killer EliteåÊ,2011
+RollerballåÊ,2002
+Ballistic: Ecks vs. SeveråÊ,2002
+Hard RainåÊ,1998
+Osmosis JonesåÊ,2001
+Legends of Oz: Dorothy's ReturnåÊ,2013
+BlackhatåÊ,2015
+Sky Captain and the World of TomorrowåÊ,2004
+Basic Instinct 2åÊ,2006
+Escape PlanåÊ,2013
+The Legend of HerculesåÊ,2014
+The Sum of All FearsåÊ,2002
+The Twilight Saga: EclipseåÊ,2010
+The ScoreåÊ,2001
+Despicable MeåÊ,2010
+Money TrainåÊ,1995
+Ted 2åÊ,2015
+AgoraåÊ,2009
+Mystery MenåÊ,1999
+Hall PassåÊ,2011
+The InsideråÊ,1999
+The Finest HoursåÊ,2016
+Body of LiesåÊ,2008
+Dinner for SchmucksåÊ,2010
+Abraham Lincoln: Vampire HunteråÊ,2012
+EntrapmentåÊ,1999
+Last Man StandingåÊ            ,
+The X FilesåÊ,1998
+The Last LegionåÊ,2007
+Saving Private RyanåÊ,1998
+Need for SpeedåÊ,2014
+What Women WantåÊ,2000
+Ice AgeåÊ,2002
+DreamcatcheråÊ,2003
+LincolnåÊ,2012
+The MatrixåÊ,1999
+Apollo 13åÊ,1995
+Total RecallåÊ,1990
+The Santa Clause 2åÊ,2002
+Les MisÌ©rablesåÊ,2012
+You've Got MailåÊ,1998
+Step BrothersåÊ,2008
+The Mask of ZorroåÊ,1998
+Due DateåÊ,2010
+UnbrokenåÊ,2014
+Space CowboysåÊ,2000
+CliffhangeråÊ,1993
+Broken ArrowåÊ,1996
+The KidåÊ,2000
+World Trade CenteråÊ,2006
+Mona Lisa SmileåÊ,2003
+The DictatoråÊ,2012
+Eyes Wide ShutåÊ,1999
+AnnieåÊ,2014
+FocusåÊ,2015
+This Means WaråÊ,2012
+Blade: TrinityåÊ,2004
+Red DawnåÊ,1984
+Primary ColorsåÊ,1998
+Resident Evil: RetributionåÊ,2012
+Death RaceåÊ,2008
+The Long Kiss GoodnightåÊ,1996
+Proof of LifeåÊ,2000
+Zathura: A Space AdventureåÊ,2005
+Fight ClubåÊ,1999
+We Are MarshallåÊ,2006
+The MissingåÊ            ,
+Hudson HawkåÊ,1991
+Lucky NumbersåÊ,2000
+"I, FrankensteinåÊ",2014
+Oliver TwiståÊ,2005
+ElektraåÊ,2005
+Sin City: A Dame to Kill ForåÊ,2014
+Random HeartsåÊ,1999
+EvereståÊ,2015
+Perfume: The Story of a MurdereråÊ,2006
+Austin Powers in GoldmemberåÊ,2002
+Astro BoyåÊ,2009
+Jurassic ParkåÊ,1993
+Wyatt EarpåÊ,1994
+Clear and Present DangeråÊ,1994
+Dragon BladeåÊ,2015
+LittlemanåÊ,2006
+U-571åÊ,2000
+The American PresidentåÊ,1995
+The Love GuruåÊ,2008
+3000 Miles to GracelandåÊ,2001
+The Hateful EightåÊ,2015
+Blades of GloryåÊ,2007
+HopåÊ,2011
+300åÊ,2006
+Meet the FockersåÊ,2004
+Marley & MeåÊ,2008
+The Green MileåÊ,1999
+Wild HogsåÊ,2007
+Chicken LittleåÊ,2005
+Gone GirlåÊ,2014
+The Bourne IdentityåÊ,2002
+GoldenEyeåÊ,1995
+The General's DaughteråÊ,1999
+The Truman ShowåÊ,1998
+The Prince of EgyptåÊ,1998
+Daddy Day CareåÊ,2003
+2 GunsåÊ,2013
+Cats & DogsåÊ,2001
+The Italian JobåÊ,2003
+Two Weeks NoticeåÊ,2002
+AntzåÊ,1998
+Couples RetreatåÊ,2009
+Days of ThunderåÊ,1990
+Cheaper by the Dozen 2åÊ,2005
+The Scorch TrialsåÊ,2015
+Eat Pray LoveåÊ,2010
+The Family ManåÊ,2000
+REDåÊ,2010
+Any Given SundayåÊ,1999
+The Horse WhispereråÊ,1998
+CollateralåÊ,2004
+The Scorpion KingåÊ,2002
+Ladder 49åÊ,2004
+Jack ReacheråÊ,2012
+Deep Blue SeaåÊ,1999
+This Is ItåÊ,2009
+ContagionåÊ,2011
+Kangaroo JackåÊ,2003
+CoralineåÊ,2009
+The HappeningåÊ,2008
+Man on FireåÊ,2004
+The Shaggy DogåÊ,2006
+Starsky & HutchåÊ,2004
+Jingle All the WayåÊ,1996
+HellboyåÊ,2004
+A Civil ActionåÊ,1998
+ParaNormanåÊ,2012
+The JackalåÊ,1997
+PaycheckåÊ,2003
+Up Close & PersonalåÊ,1996
+The Tale of DespereauxåÊ,2008
+Rules of EngagementåÊ            ,
+The TuxedoåÊ,2002
+Under Siege 2: Dark TerritoryåÊ,1995
+Jack Ryan: Shadow RecruitåÊ,2014
+JoyåÊ,2015
+London Has FallenåÊ,2016
+Alien: ResurrectionåÊ,1997
+ShooteråÊ,2007
+The BoxtrollsåÊ,2014
+Practical MagicåÊ,1998
+The Lego MovieåÊ,2014
+Miss Congeniality 2: Armed and FabulousåÊ,2005
+Reign of FireåÊ,2002
+Gangster SquadåÊ,2013
+Year OneåÊ,2009
+InvictusåÊ,2009
+State of PlayåÊ,2009
+DuplicityåÊ,2009
+My Favorite MartianåÊ,1999
+The SentinelåÊ,2006
+Planet 51åÊ,2009
+Star Trek: NemesisåÊ,2002
+Intolerable CrueltyåÊ,2003
+Trouble with the CurveåÊ,2012
+Edge of DarknessåÊ,2010
+The RelicåÊ,1997
+Analyze ThatåÊ,2002
+Righteous KillåÊ,2008
+Mercury RisingåÊ,1998
+The SoloiståÊ,2009
+The Legend of Bagger VanceåÊ,2000
+Almost FamousåÊ,2000
+Garfield 2åÊ,2006
+xXx: State of the UnionåÊ,2005
+PrieståÊ,2011
+Sinbad: Legend of the Seven SeasåÊ,2003
+Event HorizonåÊ,1997
+The AvengersåÊ,2012
+DragonflyåÊ,2002
+The Black DahliaåÊ,2006
+FlyboysåÊ,2006
+The Last CastleåÊ,2001
+SupernovaåÊ,2000
+Winter's TaleåÊ,2014
+The Mortal Instruments: City of BonesåÊ,2013
+Meet DaveåÊ,2008
+Dark WateråÊ,2005
+EdtvåÊ,1999
+InkheartåÊ,2008
+The SpiritåÊ,2008
+MortdecaiåÊ,2015
+In the Name of the King: A Dungeon Siege TaleåÊ,2007
+Beyond BordersåÊ,2003
+Xi you ji zhi: Sun Wukong san da Baigu JingåÊ,2016
+The Great RaidåÊ,2005
+DeadpoolåÊ,2016
+Holy ManåÊ,1998
+American SniperåÊ,2014
+GoosebumpsåÊ,2015
+"Sabrina, the Teenage WitchåÊ            ",
+Just Like HeavenåÊ,2005
+The Flintstones in Viva Rock VegasåÊ,2000
+Rambo IIIåÊ,1988
+LeatherheadsåÊ,2008
+The Ridiculous 6åÊ,2015
+Did You Hear About the Morgans?åÊ,2009
+The InternshipåÊ,2013
+Resident Evil: AfterlifeåÊ,2010
+Red TailsåÊ,2012
+Sex and the CityåÊ            ,
+The Devil's AdvocateåÊ,1997
+That's My BoyåÊ,2012
+DragonHeartåÊ,1996
+After the SunsetåÊ,2004
+Ghost Rider: Spirit of VengeanceåÊ,2011
+Captain Corelli's MandolinåÊ,2001
+Anger ManagementåÊ            ,
+The PacifieråÊ,2005
+Walking TallåÊ,2004
+Forrest GumpåÊ,1994
+Alvin and the ChipmunksåÊ,2007
+Meet the ParentsåÊ,2000
+PocahontasåÊ,1995
+SupermanåÊ,1978
+The Nutty ProfessoråÊ,1996
+HitchåÊ,2005
+George of the JungleåÊ,1997
+American WeddingåÊ,2003
+Captain PhillipsåÊ,2013
+Date NightåÊ,2010
+CasperåÊ,1995
+The EqualizeråÊ,2014
+Maid in ManhattanåÊ,2002
+Crimson TideåÊ,1995
+The Pursuit of HappynessåÊ,2006
+FlightplanåÊ,2005
+DisclosureåÊ,1994
+City of AngelsåÊ,1998
+Kill Bill: Vol. 1åÊ,2003
+BowfingeråÊ,1999
+Stargate SG-1åÊ            ,
+Kill Bill: Vol. 2åÊ,2004
+Tango & CashåÊ,1989
+Death Becomes HeråÊ,1992
+Shanghai NoonåÊ,2000
+Executive DecisionåÊ,1996
+Mr. Popper's PenguinsåÊ,2011
+The Forbidden KingdomåÊ,2008
+Free BirdsåÊ,2013
+Alien 3åÊ,1992
+EvitaåÊ,1996
+RoninåÊ,1998
+The Ghost and the DarknessåÊ,1996
+PaddingtonåÊ,2014
+The WatchåÊ,2012
+The HuntedåÊ,2003
+InstinctåÊ,1999
+Stuck on YouåÊ,2003
+Semi-ProåÊ,2008
+The Pirates! Band of MisfitsåÊ,2012
+ChangelingåÊ,2008
+Chain ReactionåÊ,1996
+The FanåÊ,1996
+The Phantom of the OperaåÊ,2004
+Elizabeth: The Golden AgeåÊ,2007
+Ì on FluxåÊ,2005
+Gods and GeneralsåÊ,2003
+TurbulenceåÊ,1997
+Imagine ThatåÊ,2009
+Muppets Most WantedåÊ,2014
+ThunderbirdsåÊ,2004
+BurlesqueåÊ,2010
+A Very Long EngagementåÊ,2004
+LolitaåÊ,1962
+Eye See YouåÊ,2002
+Blade IIåÊ,2002
+Seven PoundsåÊ,2008
+Bullet to the HeadåÊ,2012
+The Godfather: Part IIIåÊ,1990
+ElizabethtownåÊ,2005
+"You, Me and DupreeåÊ",2006
+Superman IIåÊ,1980
+GigliåÊ,2003
+All the King's MenåÊ,2006
+ShaftåÊ,2000
+AnastasiaåÊ,1997
+Moulin Rouge!åÊ,2001
+Domestic DisturbanceåÊ,2001
+Black MassåÊ,2015
+Flags of Our FathersåÊ,2006
+Law Abiding CitizenåÊ,2009
+GrindhouseåÊ,2007
+BelovedåÊ,1998
+Lucky YouåÊ,2007
+Catch Me If You CanåÊ,2002
+Zero Dark ThirtyåÊ,2012
+The Break-UpåÊ,2006
+Mamma Mia!åÊ,2008
+Valentine's DayåÊ,2010
+The Dukes of HazzardåÊ,2005
+The Thin Red LineåÊ,1998
+The Change-UpåÊ,2011
+Man on the MoonåÊ,1999
+CasinoåÊ,1995
+From Paris with LoveåÊ,2010
+Bulletproof MonkåÊ,2003
+"Me, Myself & IreneåÊ",2000
+BarnyardåÊ,2006
+Deck the HallsåÊ,2006
+The Twilight Saga: New MoonåÊ,2009
+ShrekåÊ,2001
+The Adjustment BureauåÊ,2011
+Robin Hood: Prince of ThievesåÊ,1991
+Jerry MaguireåÊ,1996
+TedåÊ,2012
+As Good as It GetsåÊ,1997
+Patch AdamsåÊ,1998
+Anchorman 2: The Legend ContinuesåÊ,2013
+Mr. DeedsåÊ,2002
+Super 8åÊ,2011
+Erin BrockovichåÊ,2000
+How to Lose a Guy in 10 DaysåÊ,2003
+22 Jump StreetåÊ,2014
+Interview with the Vampire: The Vampire ChroniclesåÊ,1994
+Yes ManåÊ,2008
+Central IntelligenceåÊ,2016
+StepmomåÊ,1998
+Daddy's HomeåÊ,2015
+Into the WoodsåÊ,2014
+Inside ManåÊ,2006
+PaybackåÊ,1999
+CongoåÊ,1995
+We Bought a ZooåÊ,2011
+KnowingåÊ,2009
+Failure to LaunchåÊ,2006
+The Ring TwoåÊ,2005
+"Crazy, Stupid, Love.åÊ",2011
+GarfieldåÊ,2004
+Christmas with the KranksåÊ,2004
+MoneyballåÊ,2011
+OutbreakåÊ,1995
+Non-StopåÊ,2014
+Race to Witch MountainåÊ,2009
+V for VendettaåÊ,2005
+Shanghai KnightsåÊ,2003
+UnforgottenåÊ            ,
+Curious GeorgeåÊ,2006
+Herbie Fully LoadedåÊ,2005
+Don't Say a WordåÊ,2001
+Hansel & Gretel: Witch HuntersåÊ,2013
+UnfaithfulåÊ,2002
+I Am Number FouråÊ,2011
+SyrianaåÊ,2005
+13 HoursåÊ,2016
+The Book of LifeåÊ,2014
+FirewallåÊ,2006
+Absolute PoweråÊ,1997
+G.I. JaneåÊ,1997
+The GameåÊ,1997
+Silent HillåÊ,2006
+The ReplacementsåÊ,2000
+American ReunionåÊ,2012
+The NegotiatoråÊ,1998
+Into the StormåÊ,2014
+Beverly Hills Cop IIIåÊ,1994
+Gremlins 2: The New BatchåÊ,1990
+The JudgeåÊ,2014
+The PeacemakeråÊ,1997
+Resident Evil: ApocalypseåÊ,2004
+Bridget Jones: The Edge of ReasonåÊ,2004
+Out of TimeåÊ,2003
+On Deadly GroundåÊ,1994
+The Adventures of Sharkboy and Lavagirl 3-DåÊ,2005
+The BeachåÊ,2000
+Raising HelenåÊ,2004
+Ninja AssassinåÊ,2009
+For Love of the GameåÊ,1999
+A Touch of FroståÊ            ,
+StripteaseåÊ,1996
+MarmadukeåÊ,2010
+HereafteråÊ,2010
+Murder by NumbersåÊ,2002
+AssassinsåÊ,1995
+Hannibal RisingåÊ,2007
+The Story of UsåÊ,1999
+The HoståÊ,2013
+BasicåÊ,2003
+Blood WorkåÊ,2002
+The InternationalåÊ,2009
+Escape from L.A.åÊ,1996
+TwistedåÊ            ,
+The Iron GiantåÊ,1999
+The Life Aquatic with Steve ZissouåÊ,2004
+Free State of JonesåÊ,2016
+The Life of David GaleåÊ,2003
+Man of the HouseåÊ,2005
+Run All NightåÊ,2015
+Eastern PromisesåÊ,2007
+Into the BlueåÊ,2005
+The Messenger: The Story of Joan of ArcåÊ,1999
+Your HighnessåÊ,2011
+Dream HouseåÊ,2011
+Mad CityåÊ,1997
+Baby's Day OutåÊ,1994
+The Scarlet LetteråÊ,1995
+Fair GameåÊ,2010
+DefianceåÊ            ,
+DominoåÊ,2005
+JadeåÊ,1995
+GameråÊ,2009
+Beautiful CreaturesåÊ,2013
+Death to SmoochyåÊ,2002
+Zoolander 2åÊ,2016
+The Big BounceåÊ,2004
+What Planet Are You From?åÊ,2000
+Drive AngryåÊ,2011
+Street Fighter: The Legend of Chun-LiåÊ,2009
+The OneåÊ,2001
+OutlanderåÊ            ,
+The Adventures of Ford FairlaneåÊ,1990
+Pirate RadioåÊ,2009
+TrafficåÊ,2000
+Indiana Jones and the Last CrusadeåÊ,1989
+Anna KareninaåÊ,2012
+ChappieåÊ,2015
+The Bone CollectoråÊ,1999
+Panic RoomåÊ,2002
+The Tooth FairyåÊ,2006
+Three KingsåÊ,1999
+Child 44åÊ,2015
+Rat RaceåÊ,2001
+K-PAXåÊ,2001
+Kate & LeopoldåÊ,2001
+BedazzledåÊ,2000
+The Cotton ClubåÊ,1984
+3:10 to YumaåÊ,2007
+Taken 3åÊ,2014
+Out of SightåÊ,1998
+The Cable GuyåÊ,1996
+EarthåÊ,1998
+Dick TracyåÊ,1990
+The Thomas Crown AffairåÊ,1999
+Riding in Cars with BoysåÊ,2001
+First BloodåÊ,1982
+SolarisåÊ,1972
+Happily N'Ever AfteråÊ,2006
+Mary ReillyåÊ,1996
+My Best Friend's WeddingåÊ,1997
+America's SweetheartsåÊ,2001
+InsomniaåÊ,2002
+Star Trek: First ContactåÊ,1996
+Jonah HexåÊ,2010
+Courage Under FireåÊ,1996
+Liar LiaråÊ,1997
+The InfiltratoråÊ,2016
+InchonåÊ,1981
+The FlintstonesåÊ,1994
+Taken 2åÊ,2012
+Scary Movie 3åÊ,2003
+Miss CongenialityåÊ,2000
+Journey to the Center of the EarthåÊ,2008
+The Princess Diaries 2: Royal EngagementåÊ,2004
+The Pelican BriefåÊ,1993
+The ClientåÊ,1994
+The Bucket ListåÊ,2007
+Patriot GamesåÊ,1992
+Monster-in-LawåÊ,2005
+PrisonersåÊ,2013
+Training DayåÊ,2001
+Galaxy QueståÊ,1999
+Scary Movie 2åÊ,2001
+The MuppetsåÊ,2011
+BladeåÊ,1998
+Coach CarteråÊ,2005
+Changing LanesåÊ,2002
+AnacondaåÊ,1997
+Coyote UglyåÊ,2000
+Love ActuallyåÊ,2003
+A Bug's LifeåÊ,1998
+From HellåÊ,2001
+The SpecialiståÊ,1994
+Tin CupåÊ,1996
+"Yours, Mine and OursåÊ",1968
+Kicking & ScreamingåÊ,2005
+The Hitchhiker's Guide to the GalaxyåÊ,2005
+Fat AlbertåÊ,2004
+Resident Evil: ExtinctionåÊ,2007
+BlendedåÊ,2014
+Last HolidayåÊ,2006
+The River WildåÊ,1994
+The Indian in the CupboardåÊ,1995
+SavagesåÊ,2012
+CellularåÊ,2004
+Johnny EnglishåÊ,2003
+The Ant BullyåÊ,2006
+DuneåÊ,1984
+Across the UniverseåÊ,2007
+Revolutionary RoadåÊ,2008
+16 BlocksåÊ,2006
+Babylon A.D.åÊ,2008
+The Glimmer ManåÊ,1996
+MultiplicityåÊ,1996
+Aliens in the AtticåÊ,2009
+The PledgeåÊ,2001
+The ProducersåÊ,2005
+DreddåÊ,2012
+The PhantomåÊ,1996
+All the Pretty HorsesåÊ,2000
+NixonåÊ,1995
+The Ghost WriteråÊ,2010
+Deep RisingåÊ,1998
+Miracle at St. AnnaåÊ,2008
+Curse of the Golden FloweråÊ,2006
+Bangkok DangerousåÊ,2008
+Big TroubleåÊ,2002
+Love in the Time of CholeraåÊ,2007
+The ReturnedåÊ            ,
+Shadow ConspiracyåÊ,1997
+Johnny English RebornåÊ,2011
+Foodfight!åÊ,2012
+ArgoåÊ,2012
+The FugitiveåÊ,1993
+The Bounty HunteråÊ,2010
+SleepersåÊ,1996
+Rambo: First Blood Part IIåÊ,1985
+The JuroråÊ,1996
+PinocchioåÊ,1940
+Heaven's GateåÊ,1980
+Underworld: EvolutionåÊ,2006
+Victor FrankensteinåÊ,2015
+Finding ForresteråÊ,2000
+28 DaysåÊ,2000
+UnleashedåÊ,2005
+The Sweetest ThingåÊ,2002
+The FirmåÊ,1993
+Charlie St. CloudåÊ,2010
+The MechanicåÊ,2011
+21 Jump StreetåÊ,2012
+Notting HillåÊ,1999
+Chicken RunåÊ,2000
+Along Came PollyåÊ,2004
+BoomerangåÊ,1992
+The HeatåÊ,2013
+CleopatraåÊ,1963
+Here Comes the BoomåÊ,2012
+High CrimesåÊ,2002
+The Mirror Has Two FacesåÊ,1996
+The Mothman PropheciesåÊ,2002
+BrÌ_noåÊ,2009
+Licence to KillåÊ,1989
+Red Riding HoodåÊ,2011
+15 MinutesåÊ,2001
+Super Mario Bros.åÊ,1993
+Lord of WaråÊ,2005
+HeroåÊ,2002
+One for the MoneyåÊ,2012
+The InterviewåÊ,2014
+The Warrior's WayåÊ,2010
+McHale's NavyåÊ            ,
+MicmacsåÊ,2009
+8 MileåÊ,2002
+Animal Kingdom: Let's go ApeåÊ,2015
+A Knight's TaleåÊ,2001
+The MedallionåÊ,2003
+The Sixth SenseåÊ,1999
+Man on a LedgeåÊ,2012
+The Big YearåÊ,2011
+The Karate KidåÊ,1984
+American HustleåÊ,2013
+The ProposalåÊ,2009
+Double JeopardyåÊ,1999
+Back to the Future Part IIåÊ,1989
+LucyåÊ,2014
+Fifty Shades of GreyåÊ,2015
+Spy Kids 3-D: Game OveråÊ,2003
+A Time to KillåÊ,1996
+Cheaper by the DozenåÊ,2003
+Lone SurvivoråÊ,2013
+A League of Their OwnåÊ,1992
+The Conjuring 2åÊ,2016
+The Social NetworkåÊ,2010
+He's Just Not That Into YouåÊ,2009
+Scary Movie 4åÊ,2006
+Scream 3åÊ,2000
+Back to the Future Part IIIåÊ,1990
+Get HardåÊ,2015
+Bram Stoker's DraculaåÊ,1992
+Julie & JuliaåÊ,2009
+42åÊ,2013
+The Talented Mr. RipleyåÊ,1999
+Dumb and Dumber ToåÊ,2014
+Eight BelowåÊ,2006
+The InternåÊ,2015
+Ride Along 2åÊ,2016
+The Last of the MohicansåÊ,1992
+RayåÊ,2004
+Sin CityåÊ,2005
+Vantage PointåÊ,2008
+"I Love You, ManåÊ",2009
+Shallow HalåÊ,2001
+JFKåÊ,1991
+Big Momma's House 2åÊ,2006
+The MexicanåÊ,2001
+UnbrokenåÊ,2014
+17 AgainåÊ,2009
+The Other WomanåÊ,2014
+The Final DestinationåÊ,2009
+Bridge of SpiesåÊ,2015
+Behind Enemy LinesåÊ,2001
+Get Him to the GreekåÊ,2010
+Shall We DanceåÊ,2004
+Small SoldiersåÊ,1998
+SpawnåÊ,1997
+The Count of Monte CristoåÊ,2002
+The Lincoln LawyeråÊ,2011
+UnknownåÊ,2011
+The PrestigeåÊ,2006
+Horrible Bosses 2åÊ,2014
+Escape from Planet EarthåÊ,2013
+ApocalyptoåÊ,2006
+The Living DaylightsåÊ,1987
+PredatorsåÊ,2010
+Legal EaglesåÊ,1986
+Secret WindowåÊ,2004
+The Lake HouseåÊ,2006
+The Skeleton KeyåÊ,2005
+The Odd Life of Timothy GreenåÊ,2012
+Made of HonoråÊ,2008
+Jersey BoysåÊ,2014
+The RainmakeråÊ,1997
+GothikaåÊ,2003
+AmistadåÊ,1997
+Medicine ManåÊ,1992
+Aliens vs. Predator: RequiemåÊ,2007
+Riå¢hie Riå¢håÊ,1994
+Autumn in New YorkåÊ,2000
+Music and LyricsåÊ,2007
+PaulåÊ,2011
+The Guilt TripåÊ,2012
+Scream 4åÊ,2011
+8MMåÊ,1999
+The DoorsåÊ,1991
+Sex TapeåÊ,2014
+Hanging UpåÊ,2000
+Final Destination 5åÊ,2011
+Mickey Blue EyesåÊ,1999
+Pay It ForwardåÊ,2000
+Fever PitchåÊ,2005
+ArthuråÊ            ,
+Drillbit TayloråÊ,2008
+A Million Ways to Die in the WeståÊ,2014
+The ShadowåÊ,1994
+Extremely Loud & Incredibly CloseåÊ,2011
+Morning GloryåÊ,2010
+Get Rich or Die Tryin'åÊ,2005
+The Art of WaråÊ,2000
+RentåÊ,2005
+Bless the ChildåÊ,2000
+The Out-of-TownersåÊ,1999
+The Island of Dr. MoreauåÊ,1996
+The MusketeeråÊ,2001
+The Other Boleyn GirlåÊ,2008
+Sweet NovemberåÊ,2001
+The ReapingåÊ,2007
+Mean StreetsåÊ,1973
+Renaissance ManåÊ,1994
+ColombianaåÊ,2011
+The Magic Sword: Quest for CamelotåÊ,1998
+City by the SeaåÊ,2002
+At First SightåÊ,1999
+TorqueåÊ,2004
+City HallåÊ,1996
+ShowgirlsåÊ,1995
+Marie AntoinetteåÊ,2006
+Kiss of DeathåÊ,1995
+Get CarteråÊ,2000
+The ImpossibleåÊ,2012
+IshtaråÊ,1987
+Fantastic Mr. FoxåÊ,2009
+Life or Something Like ItåÊ,2002
+Memoirs of an Invisible ManåÊ,1992
+AmÌ©lieåÊ,2001
+New York MinuteåÊ,2004
+AlfieåÊ,2004
+Big MiracleåÊ,2012
+The Deep End of the OceanåÊ,1999
+FeardotcomåÊ,2002
+Cirque du Freak: The Vampire's AssistantåÊ,2009
+Victor FrankensteinåÊ,2015
+DuplexåÊ,2003
+Soul MenåÊ,2008
+Raise the TitanicåÊ,1980
+Universal Soldier: The ReturnåÊ,1999
+PandorumåÊ,2009
+ImpostoråÊ,2001
+Extreme OpsåÊ,2002
+Just VisitingåÊ,2001
+SunshineåÊ,2007
+A Thousand WordsåÊ,2012
+DelgoåÊ,2008
+The GunmanåÊ,2015
+Alex Rider: Operation StormbreakeråÊ,2006
+DisturbiaåÊ,2007
+HackersåÊ,1995
+The Hunting PartyåÊ,2007
+The Hudsucker ProxyåÊ,1994
+The WarlordsåÊ,2007
+Nomad: The WarrioråÊ,2005
+SnowpierceråÊ,2013
+A Monster in ParisåÊ,2011
+The Last ShotåÊ,2004
+The CrowåÊ,1994
+Baahubali: The BeginningåÊ,2015
+The Time Traveler's WifeåÊ,2009
+Because I Said SoåÊ,2007
+The Fast and the FuriousåÊ,2001
+FrankenweenieåÊ,2012
+SerenityåÊ,2005
+Against the RopesåÊ,2004
+Superman IIIåÊ,1983
+Grudge MatchåÊ,2013
+Red CliffåÊ,2008
+Sweet Home AlabamaåÊ,2002
+The Ugly TruthåÊ,2009
+Sgt. BilkoåÊ,1996
+Spy Kids 2: Island of Lost DreamsåÊ,2002
+Star Trek: GenerationsåÊ,1994
+The GrandmasteråÊ,2013
+Water for ElephantsåÊ,2011
+3rd Rock from the SunåÊ            ,
+Dragon Nest: Warriors' DawnåÊ,2014
+The HurricaneåÊ,1999
+EnoughåÊ,2002
+HeartbreakersåÊ,2001
+Paul Blart: Mall Cop 2åÊ,2015
+Angel EyesåÊ,2001
+Joe SomebodyåÊ,2001
+The Ninth GateåÊ,1999
+Extreme MeasuresåÊ,1996
+Rock StaråÊ,2001
+PreciousåÊ,2009
+White SquallåÊ,1996
+The ThingåÊ,1982
+RiddickåÊ,2013
+SwitchbackåÊ,1997
+Texas RangersåÊ,2001
+City of EmberåÊ,2008
+The MasteråÊ,2012
+Virgin TerritoryåÊ,2007
+The ExpressåÊ,2008
+The 5th WaveåÊ,2016
+CreedåÊ,2015
+The TownåÊ,2010
+What to Expect When You're ExpectingåÊ,2012
+Burn After ReadingåÊ,2008
+Nim's IslandåÊ,2008
+RushåÊ,2013
+MagnoliaåÊ,1999
+Cop OutåÊ,2010
+How to Be SingleåÊ,2016
+Dolphin TaleåÊ,2011
+TwilightåÊ,2008
+John QåÊ,2002
+Blue StreakåÊ,1999
+We're the MillersåÊ,2013
+Obitaemyy ostrovåÊ,2009
+BreakdownåÊ,1997
+Never Say Never AgainåÊ,1983
+Hot Tub Time MachineåÊ,2010
+Dolphin Tale 2åÊ,2014
+Reindeer GamesåÊ,2000
+A Man ApartåÊ,2003
+AlohaåÊ,2015
+Ghosts of MississippiåÊ,1996
+Snow Falling on CedarsåÊ,1999
+The RiteåÊ,2011
+GattacaåÊ,1997
+Isn't She GreatåÊ,2000
+Space ChimpsåÊ,2008
+Head of StateåÊ,2003
+The HangoveråÊ,2009
+Ip Man 3åÊ,2015
+Austin Powers: The Spy Who Shagged MeåÊ,1999
+BatmanåÊ,1989
+There Be DragonsåÊ,2011
+Lethal Weapon 3åÊ,1992
+The Blind SideåÊ,2009
+Rush HouråÊ            ,
+Spy KidsåÊ,2001
+Horrible BossesåÊ,2011
+True GritåÊ,2010
+The Devil Wears PradaåÊ,2006
+Star Trek: The Motion PictureåÊ,1979
+Identity ThiefåÊ,2013
+Cape FearåÊ,1991
+21åÊ,2008
+TrainwreckåÊ,2015
+Guess WhoåÊ,2005
+The English PatientåÊ,1996
+L.A. ConfidentialåÊ,1997
+Sky HighåÊ,2005
+In & OutåÊ,1997
+SpeciesåÊ,1995
+A Nightmare on Elm StreetåÊ,1984
+The CellåÊ,2000
+The Man in the Iron MaskåÊ,1998
+SecretariatåÊ,2010
+TMNTåÊ,2007
+RadioåÊ,2003
+Friends with BenefitsåÊ,2011
+Neighbors 2: Sorority RisingåÊ,2016
+Saving Mr. BanksåÊ,2013
+Malcolm XåÊ,1992
+This Is 40åÊ,2012
+Old DogsåÊ,2009
+Underworld: Rise of the LycansåÊ,2009
+License to WedåÊ,2007
+The BenchwarmersåÊ,2006
+Must Love DogsåÊ,2005
+Donnie BrascoåÊ,1997
+Resident EvilåÊ,2002
+PoltergeiståÊ,1982
+The LadykillersåÊ,2004
+Max PayneåÊ,2008
+In TimeåÊ,2011
+The Back-up PlanåÊ,2010
+Something BorrowedåÊ,2011
+Hit the FlooråÊ            ,
+Black KnightåÊ,2001
+The Bad News BearsåÊ,1976
+Street FighteråÊ,1994
+The PianiståÊ,2002
+From HellåÊ,2001
+The Nativity StoryåÊ,2006
+House of WaxåÊ,2005
+CloseråÊ,2004
+J. EdgaråÊ,2011
+MirrorsåÊ,2008
+Queen of the DamnedåÊ,2002
+Predator 2åÊ,1990
+UntraceableåÊ,2008
+Blast from the PaståÊ,1999
+Flash GordonåÊ,1980
+Jersey GirlåÊ,2004
+Alex CrossåÊ,2012
+Midnight in the Garden of Good and EvilåÊ,1997
+HeiståÊ,2015
+Nanny McPhee ReturnsåÊ,2010
+HoffaåÊ,1992
+The X Files: I Want to BelieveåÊ,2008
+Ella EnchantedåÊ,2004
+ConcussionåÊ,2015
+AbductionåÊ,2011
+ValiantåÊ,2005
+Wonder BoysåÊ,2000
+Superhero MovieåÊ,2008
+Broken CityåÊ,2013
+CursedåÊ,2005
+Premium RushåÊ,2012
+Hot PursuitåÊ,2015
+The Four FeathersåÊ,2002
+ParkeråÊ,2013
+WimbledonåÊ,2004
+Furry VengeanceåÊ,2010
+BaitåÊ,2012
+KrullåÊ,1983
+Lions for LambsåÊ,2007
+Flight of the IntruderåÊ,1991
+Walk Hard: The Dewey Cox StoryåÊ,2007
+The Shipping NewsåÊ,2001
+American OutlawsåÊ,2001
+The Young VictoriaåÊ,2009
+WhiteoutåÊ,2009
+The Tree of LifeåÊ,2011
+Knock OffåÊ,1998
+SabotageåÊ,2014
+The OrderåÊ,2003
+Punisher: War ZoneåÊ,2008
+ZoomåÊ,2006
+The WalkåÊ,2015
+Warriors of VirtueåÊ,1997
+A Good YearåÊ,2006
+LutheråÊ            ,
+Radio FlyeråÊ,1992
+"Blood In, Blood OutåÊ",1993
+Smilla's Sense of SnowåÊ,1997
+Femme FataleåÊ,2002
+Lion of the DesertåÊ,1980
+The Horseman on the RoofåÊ,1995
+Ride with the DevilåÊ,1999
+BiutifulåÊ,2010
+The LoversåÊ,2015
+BandidasåÊ,2006
+Black Water TransitåÊ,2009
+The Maze RunneråÊ,2014
+Unfinished BusinessåÊ,2015
+The Age of InnocenceåÊ,1993
+The FountainåÊ,2006
+Chill FactoråÊ,1999
+StolenåÊ,2012
+PonyoåÊ,2008
+The Longest RideåÊ,2015
+The Astronaut's WifeåÊ,1999
+I Dreamed of AfricaåÊ,2000
+Playing for KeepsåÊ,2012
+Mandela: Long Walk to FreedomåÊ,2013
+RedsåÊ,1981
+A Few Good MenåÊ,1992
+Exit WoundsåÊ,2001
+Big Momma's HouseåÊ,2000
+Thunder and the House of MagicåÊ,2013
+The Darkest HouråÊ,2011
+Step Up RevolutionåÊ,2012
+Snakes on a PlaneåÊ,2006
+The WatcheråÊ,2000
+The PunisheråÊ,2004
+Goal! The Dream BeginsåÊ,2005
+SafeåÊ,2012
+Pushing TinåÊ,1999
+Star Wars: Episode VI - Return of the JediåÊ,1983
+DoomsdayåÊ,2008
+The ReaderåÊ,2008
+WanderluståÊ,2012
+ElfåÊ,2003
+PhenomenonåÊ,1996
+Snow DogsåÊ,2002
+ScroogedåÊ,1988
+Nacho LibreåÊ,2006
+BridesmaidsåÊ,2011
+This Is the EndåÊ,2013
+StigmataåÊ,1999
+Men of HonoråÊ,2000
+TakersåÊ,2010
+The Big WeddingåÊ,2013
+"Big Mommas: Like Father, Like SonåÊ",2011
+Source CodeåÊ,2011
+AliveåÊ,1993
+The Number 23åÊ,2007
+The Young and Prodigious T.S. SpivetåÊ,2013
+1941åÊ,1979
+Dreamer: Inspired by a True StoryåÊ,2005
+A History of ViolenceåÊ,2005
+Transporter 2åÊ,2005
+The Quick and the DeadåÊ,1995
+Laws of AttractionåÊ,2004
+Bringing Out the DeadåÊ,1999
+Repo MenåÊ,2010
+Dragon Wars: D-WaråÊ,2007
+BogusåÊ,1996
+The Incredible Burt WonderstoneåÊ,2013
+Cats Don't DanceåÊ,1997
+Cradle Will RockåÊ,1999
+The Good GermanåÊ,2006
+George and the DragonåÊ,2004
+Apocalypse NowåÊ,1979
+Going the DistanceåÊ,2010
+Mr. Holland's OpusåÊ,1995
+CriminalåÊ,2016
+Out of AfricaåÊ,1985
+FlightåÊ,2012
+MoonrakeråÊ,1979
+The Grand Budapest HotelåÊ,2014
+Hearts in AtlantisåÊ,2001
+ArachnophobiaåÊ,1990
+FrequencyåÊ,2000
+GhostbustersåÊ,2016
+VacationåÊ,2015
+Get ShortyåÊ,1995
+ChicagoåÊ,2002
+Big DaddyåÊ,1999
+American Pie 2åÊ,2001
+Toy StoryåÊ,1995
+SpeedåÊ,1994
+The VowåÊ,2012
+Extraordinary MeasuresåÊ,2010
+Remember the TitansåÊ,2000
+The Hunt for Red OctoberåÊ,1990
+Lee Daniels' The ButleråÊ,2013
+Dodgeball: A True Underdog StoryåÊ,2004
+The Addams FamilyåÊ,1991
+Ace Ventura: When Nature CallsåÊ,1995
+The Princess DiariesåÊ,2001
+The First Wives ClubåÊ,1996
+Se7enåÊ,1995
+District 9åÊ,2009
+The SpongeBob SquarePants MovieåÊ,2004
+Mystic RiveråÊ,2003
+Million Dollar BabyåÊ,2004
+Analyze ThisåÊ,1999
+The NotebookåÊ,2004
+27 DressesåÊ,2008
+Hannah Montana: The MovieåÊ,2009
+Rugrats in Paris: The MovieåÊ,2000
+The Prince of TidesåÊ,1991
+Legends of the FallåÊ,1994
+Up in the AiråÊ,2009
+About SchmidtåÊ,2002
+Warm BodiesåÊ,2013
+LooperåÊ,2012
+Down to EarthåÊ,2001
+BabeåÊ,1995
+Hope SpringsåÊ,2012
+Forgetting Sarah MarshallåÊ,2008
+Friday Night LightsåÊ            ,
+Four BrothersåÊ,2005
+Baby MamaåÊ,2008
+Hope FloatsåÊ,1998
+Bride WarsåÊ,2009
+Without a PaddleåÊ,2004
+13 Going on 30åÊ,2004
+Midnight in ParisåÊ,2011
+The Nut JobåÊ,2014
+BlowåÊ,2001
+Message in a BottleåÊ,1999
+Star Trek V: The Final FrontieråÊ,1989
+Like MikeåÊ,2002
+Naked Gun 33 1/3: The Final InsultåÊ,1994
+A View to a KillåÊ,1985
+The Curse of the Were-RabbitåÊ,2005
+P.S. I Love YouåÊ,2007
+Racing StripesåÊ,2005
+AtonementåÊ,2007
+Letters to JulietåÊ,2010
+Black RainåÊ,1989
+The Three StoogesåÊ,2012
+Corpse BrideåÊ,2005
+Glory RoadåÊ,2006
+SicarioåÊ,2015
+SouthpawåÊ,2015
+Drag Me to HellåÊ,2009
+The Age of AdalineåÊ,2015
+Secondhand LionsåÊ,2003
+Step Up 3DåÊ,2010
+Blue CrushåÊ,2002
+Stranger Than FictionåÊ,2006
+30 Days of NightåÊ,2007
+The Cabin in the WoodsåÊ,2012
+Meet the SpartansåÊ,2008
+Midnight RunåÊ,1988
+The Running ManåÊ,1987
+Little Shop of HorrorsåÊ,1986
+HannaåÊ,2011
+The FamilyåÊ            ,
+Mortal Kombat: AnnihilationåÊ,1997
+Larry CrowneåÊ,2011
+CarrieåÊ,2013
+Take the LeadåÊ,2006
+EntourageåÊ            ,
+Gridiron GangåÊ,2006
+What's the Worst That Could Happen?åÊ,2001
+9åÊ,2009
+Side EffectsåÊ,2013
+The Prince and MeåÊ,2004
+Winnie the PoohåÊ,2011
+Dumb and Dumberer: When Harry Met LloydåÊ,2003
+BulworthåÊ,1998
+Get on UpåÊ,2014
+One True ThingåÊ,1998
+VirtuosityåÊ,1995
+My Super Ex-GirlfriendåÊ,2006
+Deliver Us from EvilåÊ,2014
+SanctumåÊ,2011
+Little Black BookåÊ,2004
+The Five-Year EngagementåÊ,2012
+Mr 3000åÊ,2004
+The Next Three DaysåÊ,2010
+UltravioletåÊ,2006
+Assault on Precinct 13åÊ,2005
+The Replacement KillersåÊ,1998
+FledåÊ,1996
+Eight Legged FreaksåÊ,2002
+Love & Other DrugsåÊ,2010
+88 MinutesåÊ,2007
+North CountryåÊ,2005
+The Whole Ten YardsåÊ,2004
+SpliceåÊ,2009
+Howard the DuckåÊ,1986
+Pride and GloryåÊ,2008
+The CaveåÊ,2005
+Alex & EmmaåÊ,2003
+Wicker ParkåÊ,2004
+Fright NightåÊ,2011
+The New WorldåÊ,2005
+Wing CommanderåÊ,1999
+In DreamsåÊ,1999
+Dragonball: EvolutionåÊ,2009
+The Last StandåÊ,2013
+GodsendåÊ,2004
+Chasing LibertyåÊ,2004
+Hoodwinked Too! Hood vs. EvilåÊ,2011
+An Unfinished LifeåÊ,2005
+The Imaginarium of Doctor ParnassusåÊ,2009
+Barney's VersionåÊ,2010
+TrappedåÊ            ,
+Runner RunneråÊ,2013
+AntitruståÊ,2001
+GloryåÊ,1989
+Once Upon a Time in AmericaåÊ,1984
+Dead Man DownåÊ,2013
+The Merchant of VeniceåÊ,2004
+The Good ThiefåÊ,2002
+SupercrossåÊ,2005
+Miss PotteråÊ,2006
+The PromiseåÊ,2005
+DOA: Dead or AliveåÊ,2006
+The Assassination of Jesse James by the Coward Robert FordåÊ,2007
+1911åÊ,2011
+Little NicholasåÊ,2009
+Wild CardåÊ,2015
+Machine Gun PreacheråÊ,2011
+Animals UnitedåÊ,2010
+The Color of FreedomåÊ,2007
+United PassionsåÊ,2014
+Grace of MonacoåÊ,2014
+A Warrior's TailåÊ,2015
+Ripley's GameåÊ,2002
+Sausage PartyåÊ,2016
+Pitch Perfect 2åÊ,2015
+Walk the LineåÊ,2005
+12 MonkeysåÊ            ,
+Keeping the FaithåÊ,2000
+The BorrowersåÊ,1997
+Frost/NixonåÊ,2008
+Confessions of a Dangerous MindåÊ,2002
+Serving SaraåÊ,2002
+The BossåÊ,2016
+Cry FreedomåÊ,1987
+MumfordåÊ,1999
+Seed of ChuckyåÊ,2004
+The JacketåÊ,2005
+AladdinåÊ,1992
+Straight Outta ComptonåÊ,2015
+Indiana Jones and the Temple of DoomåÊ,1984
+The Rugrats MovieåÊ,1998
+Along Came a SpideråÊ,2001
+Florence Foster JenkinsåÊ,2016
+Once Upon a Time in MexicoåÊ,2003
+Die HardåÊ,1988
+Role ModelsåÊ,2008
+The Big ShortåÊ,2015
+Taking WoodstockåÊ,2009
+MiracleåÊ,2004
+Dawn of the DeadåÊ,2004
+The Wedding PlanneråÊ,2001
+Harlock: Space PirateåÊ,2013
+The Royal TenenbaumsåÊ,2001
+IdentityåÊ,2003
+Last VegasåÊ,2013
+For Your Eyes OnlyåÊ,1981
+SerendipityåÊ,2001
+TimecopåÊ,1994
+ZoolanderåÊ,2001
+Safe HavenåÊ,2013
+Hocus PocusåÊ,1993
+No ReservationsåÊ,2007
+Kick-AssåÊ,2010
+30 Minutes or LessåÊ,2011
+Dracula 2000åÊ,2000
+"Alexander and the Terrible, Horrible, No Good, Very Bad DayåÊ",2014
+Pride & PrejudiceåÊ,2005
+Blade RunneråÊ,1982
+Rob RoyåÊ,1995
+3 Days to KillåÊ,2014
+We Own the NightåÊ,2007
+Lost SoulsåÊ,2000
+Winged MigrationåÊ,2001
+Just My LuckåÊ,2006
+"Mystery, AlaskaåÊ",1999
+The Spy Next DooråÊ,2010
+A Simple WishåÊ,1997
+Ghosts of MarsåÊ,2001
+Our Brand Is CrisisåÊ,2015
+Pride and Prejudice and ZombiesåÊ,2016
+KundunåÊ,1997
+How to Lose Friends & Alienate PeopleåÊ,2008
+Kick-Ass 2åÊ,2013
+Captain Alatriste: The Spanish MusketeeråÊ,2006
+Brick MansionsåÊ,2014
+OctopussyåÊ,1983
+Knocked UpåÊ,2007
+My Sister's KeeperåÊ,2009
+"Welcome Home, Roscoe JenkinsåÊ",2008
+A Passage to IndiaåÊ,1984
+Notes on a ScandalåÊ,2006
+RenditionåÊ,2007
+LimitlessåÊ            ,
+Star Trek VI: The Undiscovered CountryåÊ,1991
+Divine Secrets of the Ya-Ya SisterhoodåÊ,2002
+The Jungle BookåÊ,2016
+Kiss the GirlsåÊ,1997
+The Blues BrothersåÊ,1980
+The Sisterhood of the Traveling Pants 2åÊ,2008
+Joyful NoiseåÊ,2012
+About a BoyåÊ,2002
+Lake PlacidåÊ,1999
+Lucky Number SlevinåÊ,2006
+The Right StuffåÊ,1983
+AnonymousåÊ,2011
+The NeverEnding StoryåÊ,1984
+Dark CityåÊ,1998
+The DuchessåÊ,2008
+The HoneymoonersåÊ            ,
+Return to OzåÊ,1985
+The Newton BoysåÊ,1998
+Case 39åÊ,2009
+Suspect ZeroåÊ,2004
+Martian ChildåÊ,2007
+Spy Kids: All the Time in the World in 4DåÊ,2011
+Money MonsteråÊ,2016
+Formula 51åÊ,2001
+FlawlessåÊ,1999
+MindhuntersåÊ,2004
+What Just HappenedåÊ,2008
+The StatementåÊ,2003
+The Magic FluteåÊ,2006
+Paul Blart: Mall CopåÊ,2009
+Freaky FridayåÊ,2003
+The 40-Year-Old VirginåÊ,2005
+Shakespeare in LoveåÊ,1998
+A Walk Among the TombstonesåÊ,2014
+Kindergarten CopåÊ,1990
+Pineapple ExpressåÊ,2008
+Ever After: A Cinderella StoryåÊ,1998
+Open RangeåÊ,2003
+FlatlinersåÊ,1990
+It's Always Sunny in PhiladelphiaåÊ            ,
+A Bridge Too FaråÊ,1977
+Red EyeåÊ,2005
+Final Destination 2åÊ,2003
+"O Brother, Where Art Thou?åÊ",2000
+LegionåÊ,2010
+Pain & GainåÊ,2013
+In Good CompanyåÊ,2004
+ClockstoppersåÊ,2002
+SilveradoåÊ,1985
+BrothersåÊ,2009
+Agent Cody Banks 2: Destination LondonåÊ,2004
+New Year's EveåÊ,2011
+Original SinåÊ,2001
+The RavenåÊ,2012
+Welcome to MooseportåÊ,2004
+Highlander: The Final DimensionåÊ,1994
+Blood and WineåÊ,1996
+Snow White: A Tale of TerroråÊ,1997
+The Curse of the Jade ScorpionåÊ,2001
+Accidental LoveåÊ,2015
+FlipperåÊ,1996
+Self/lessåÊ,2015
+The Constant GardeneråÊ,2005
+The Passion of the ChriståÊ,2004
+Mrs. DoubtfireåÊ,1993
+Rain ManåÊ,1988
+Gran TorinoåÊ,2008
+W.åÊ,2008
+TakenåÊ,2008
+The Best of MeåÊ,2014
+The BodyguardåÊ,1992
+Schindler's ListåÊ,1993
+The HelpåÊ,2011
+The Fifth EstateåÊ,2013
+Scooby-Doo 2: Monsters UnleashedåÊ,2004
+ViyåÊ,2014
+Freddy vs. JasonåÊ,2003
+The Face of an AngelåÊ,2014
+Jimmy Neutron: Boy GeniusåÊ,2001
+CloverfieldåÊ,2008
+Teenage Mutant Ninja Turtles II: The Secret of the OozeåÊ,1991
+The UntouchablesåÊ,1987
+No Country for Old MenåÊ,2007
+Ride AlongåÊ,2014
+Bridget Jones's DiaryåÊ,2001
+ChocolatåÊ,2000
+"Legally Blonde 2: Red, White & BlondeåÊ",2003
+Parental GuidanceåÊ,2012
+No Strings AttachedåÊ,2011
+TombstoneåÊ,1993
+Romeo Must DieåÊ,2000
+The OmenåÊ,1976
+Final Destination 3åÊ,2006
+The Lucky OneåÊ,2012
+Bridge to TerabithiaåÊ,2007
+Finding NeverlandåÊ,2004
+A Madea ChristmasåÊ,2013
+The GreyåÊ,2011
+Hide and SeekåÊ,2005
+Anchorman: The Legend of Ron BurgundyåÊ,2004
+GoodfellasåÊ,1990
+Agent Cody BanksåÊ,2003
+Nanny McPheeåÊ,2005
+ScarfaceåÊ,1983
+Nothing to LoseåÊ,1997
+The Last EmperoråÊ,1987
+ContrabandåÊ,2012
+Money TalksåÊ,1997
+There Will Be BloodåÊ,2007
+The Wild Thornberrys MovieåÊ,2002
+Rugrats Go WildåÊ,2003
+Undercover BrotheråÊ,2002
+The Sisterhood of the Traveling PantsåÊ,2005
+Kiss of the DragonåÊ,2001
+The House BunnyåÊ,2008
+Beauty ShopåÊ,2005
+Million Dollar ArmåÊ,2014
+The GiveråÊ,2014
+What a Girl WantsåÊ,2003
+Jeepers Creepers IIåÊ,2003
+Good Luck ChuckåÊ,2007
+Cradle 2 the GraveåÊ,2003
+The HoursåÊ,2002
+She's the ManåÊ,2006
+Mr. Bean's HolidayåÊ,2007
+Anacondas: The Hunt for the Blood OrchidåÊ,2004
+Blood TiesåÊ,2013
+August RushåÊ,2007
+ElizabethåÊ,1998
+Bride of ChuckyåÊ,1998
+Tora! Tora! Tora!åÊ,1970
+Spice WorldåÊ,1997
+The SitteråÊ,2011
+Dance FlickåÊ,2009
+The Shawshank RedemptionåÊ,1994
+Crocodile Dundee in Los AngelesåÊ,2001
+KingpinåÊ,1996
+The GambleråÊ,2014
+August: Osage CountyåÊ,2013
+Ice PrincessåÊ,2005
+A Lot Like LoveåÊ,2005
+Eddie the EagleåÊ,2016
+He Got GameåÊ,1998
+Don Juan DeMarcoåÊ,1994
+Shaun the SheepåÊ            ,
+Dear JohnåÊ,2010
+The LosersåÊ,2010
+Don't Be Afraid of the DarkåÊ,2010
+WaråÊ,2007
+Punch-Drunk LoveåÊ,2002
+EuroTripåÊ,2004
+Half Past DeadåÊ,2002
+Unaccompanied MinorsåÊ,2006
+"Bright Lights, Big CityåÊ",1988
+The Adventures of PinocchioåÊ,1996
+The Greatest Game Ever PlayedåÊ,2005
+The BoxåÊ,2009
+The RuinsåÊ,2008
+The Next Best ThingåÊ,2000
+My Soul to TakeåÊ,2010
+The Girl Next DooråÊ,2004
+Maximum RiskåÊ,1996
+Stealing HarvardåÊ,2002
+LegendåÊ,2015
+Hot RodåÊ,2007
+Shark Night 3DåÊ,2011
+Angela's AshesåÊ,1999
+Draft DayåÊ,2014
+LifeforceåÊ,1985
+The Powerpuff GirlsåÊ            ,
+The ConspiratoråÊ,2010
+Lords of DogtownåÊ,2005
+The 33åÊ,2015
+Big Trouble in Little ChinaåÊ,1986
+A Perfect PlanåÊ,2012
+WarrioråÊ,2011
+Michael CollinsåÊ,1996
+GettysburgåÊ,1993
+Stop-LossåÊ,2008
+AbandonåÊ,2002
+Brokedown PalaceåÊ,1999
+The PossessionåÊ,2012
+Mrs. WinterbourneåÊ,1996
+Straw DogsåÊ,2011
+The HoaxåÊ,2006
+Stone ColdåÊ,1991
+The RoadåÊ,2009
+SheenaåÊ,1984
+UnderclassmanåÊ,2005
+Say It Isn't SoåÊ,2001
+The World's Fastest IndianåÊ,2005
+Snakes on a PlaneåÊ,2006
+Tank GirlåÊ,1995
+King's RansomåÊ,2005
+BlindnessåÊ,2008
+BloodRayneåÊ,2005
+CarnageåÊ,2011
+Where the Truth LiesåÊ,2005
+Cirque du Soleil: Worlds AwayåÊ,2012
+Without LimitsåÊ,1998
+Me and Orson WellesåÊ,2008
+The Best OfferåÊ,2013
+Bad Lieutenant: Port of Call New OrleansåÊ,2009
+A Turtle's Tale: Sammy's AdventuresåÊ,2010
+Little White LiesåÊ,2010
+Love RanchåÊ,2010
+The True Story of Puss'N BootsåÊ,2009
+Space DogsåÊ,2010
+The CounseloråÊ,2013
+IroncladåÊ,2011
+WaterlooåÊ,1970
+Kung Fu KilleråÊ,2014
+Red SkyåÊ,2014
+Dangerous LiaisonsåÊ,1988
+On the RoadåÊ,2012
+Star Trek IV: The Voyage HomeåÊ,1986
+Rocky BalboaåÊ,2006
+Point BreakåÊ,2015
+Scream 2åÊ,1997
+Jane Got a GunåÊ,2016
+Think Like a Man TooåÊ,2014
+The Whole Nine YardsåÊ,2000
+FootlooseåÊ,1984
+Old SchoolåÊ,2003
+The Fisher KingåÊ,1991
+I Still Know What You Did Last SummeråÊ,1998
+Return to MeåÊ,2000
+Zack and Miri Make a PornoåÊ,2008
+Nurse BettyåÊ,2000
+The Men Who Stare at GoatsåÊ,2009
+Double TakeåÊ,2001
+"Girl, InterruptedåÊ",1999
+Win a Date with Tad Hamilton!åÊ,2004
+Muppets from SpaceåÊ,1999
+The WizåÊ,1978
+Ready to RumbleåÊ,2000
+Play It to the BoneåÊ,1999
+I Don't Know How She Does ItåÊ,2011
+Piranha 3DåÊ,2010
+Beyond the SeaåÊ,2004
+Meet the DeedlesåÊ,1998
+The Princess and the CobbleråÊ,1993
+The Bridge of San Luis ReyåÊ,2004
+FasteråÊ,2010
+Howl's Moving CastleåÊ,2004
+ZombielandåÊ,2009
+King KongåÊ,2005
+The WaterboyåÊ,1998
+Star Wars: Episode V - The Empire Strikes BackåÊ,1980
+Bad BoysåÊ,1995
+The Naked Gun 2å_: The Smell of FearåÊ,1991
+Final DestinationåÊ,2000
+The Ides of MarchåÊ,2011
+Pitch BlackåÊ,2000
+Someone Like You...åÊ,2001
+HeråÊ,2013
+Eddie the EagleåÊ,2016
+Joy RideåÊ,2001
+The Adventurer: The Curse of the Midas BoxåÊ,2013
+Anywhere But HereåÊ,1999
+Chasing LibertyåÊ,2004
+The CrewåÊ,2000
+HaywireåÊ,2011
+Jaws: The RevengeåÊ,1987
+Marvin's RoomåÊ,1996
+The LongshotsåÊ,2008
+The End of the AffairåÊ,1999
+Harley Davidson and the Marlboro ManåÊ,1991
+In the Valley of ElahåÊ,2007
+Coco Before ChanelåÊ,2009
+ForsakenåÊ,2015
+ChÌ©riåÊ,2009
+RogueåÊ            ,
+Vanity FairåÊ,2004
+Bodyguards and AssassinsåÊ,2009
+1408åÊ,2007
+SpaceballsåÊ,1987
+The Water DivineråÊ,2014
+GhoståÊ,1990
+There's Something About MaryåÊ,1998
+The Santa ClauseåÊ,1994
+The RookieåÊ,2002
+The Game PlanåÊ,2007
+The Bridges of Madison CountyåÊ,1995
+The AnimalåÊ,2001
+GandhiåÊ,1982
+The Hundred-Foot JourneyåÊ,2014
+The NetåÊ,1995
+I Am SamåÊ,2001
+Son of GodåÊ,2014
+UnderworldåÊ,2003
+DerailedåÊ,2005
+The Informant!åÊ,2009
+ShadowlandsåÊ,1993
+Deuce Bigalow: European GigoloåÊ,2005
+Delivery ManåÊ,2013
+Victor FrankensteinåÊ,2015
+Our Kind of TraitoråÊ,2016
+Saving SilvermanåÊ,2001
+Diary of a Wimpy Kid: Dog DaysåÊ,2012
+Summer of SamåÊ,1999
+Jay and Silent Bob Strike BackåÊ,2001
+The IslandåÊ,2005
+The Glass HouseåÊ,2001
+"Hail, Caesar!åÊ",2016
+Josie and the PussycatsåÊ,2001
+HomefrontåÊ,2013
+The Little VampireåÊ,2000
+I Heart HuckabeesåÊ,2004
+RoboCop 3åÊ,1993
+Megiddo: The Omega Code 2åÊ,2001
+Darling LiliåÊ,1970
+Dudley Do-RightåÊ,1999
+The Transporter RefueledåÊ,2015
+The LibertineåÊ,2004
+Black BookåÊ,2006
+Joyeux NoelåÊ,2005
+Hit and RunåÊ,2012
+Mad MoneyåÊ,2008
+Before I Go to SleepåÊ,2014
+SorcereråÊ,1977
+StoneåÊ,2010
+MoliÌ¬reåÊ,2007
+Out of the FurnaceåÊ,2013
+Michael ClaytonåÊ,2007
+My Fellow AmericansåÊ,1996
+Arlington RoadåÊ,1999
+UnderdogsåÊ,2013
+To Rome with LoveåÊ,2012
+FirefoxåÊ,1982
+South Park: Bigger Longer & UncutåÊ,1999
+Death at a FuneralåÊ,2007
+Teenage Mutant Ninja Turtles IIIåÊ,1993
+HardballåÊ,2001
+Silver Linings PlaybookåÊ,2012
+Freedom WritersåÊ,2007
+For Colored GirlsåÊ,2010
+The TransporteråÊ,2002
+Never Back DownåÊ,2008
+The Rage: Carrie 2åÊ,1999
+The BacheloråÊ            ,
+Away We GoåÊ,2009
+Swing VoteåÊ,2008
+Moonlight MileåÊ,2002
+Tinker Tailor Soldier SpyåÊ,2011
+MollyåÊ,1999
+The BeaveråÊ,2011
+The Best Little Whorehouse in TexasåÊ,1982
+eXistenZåÊ,1999
+Raiders of the Lost ArkåÊ,1981
+Home Alone 2: Lost in New YorkåÊ,1992
+Close Encounters of the Third KindåÊ,1977
+PulseåÊ,2006
+Beverly Hills Cop IIåÊ,1987
+Bringing Down the HouseåÊ,2003
+The Silence of the LambsåÊ,1991
+Wayne's WorldåÊ,1992
+Jackass 3DåÊ,2010
+Jaws 2åÊ,1978
+Beverly Hills ChihuahuaåÊ,2008
+The ConjuringåÊ,2013
+Are We There Yet?åÊ,2005
+TammyåÊ,2014
+DisturbiaåÊ,2007
+School of RockåÊ,2003
+Mortal KombatåÊ,1995
+Wicker ParkåÊ,2004
+White ChicksåÊ,2004
+The DescendantsåÊ,2011
+HolesåÊ,2003
+The Last SongåÊ,2010
+12 Years a SlaveåÊ,2013
+DrumlineåÊ,2002
+Why Did I Get Married Too?åÊ,2010
+Edward ScissorhandsåÊ,1990
+Me Before YouåÊ,2016
+Madea's Witness ProtectionåÊ,2012
+The French ConnectionåÊ,1971
+Bad MomsåÊ,2016
+Date MovieåÊ,2006
+Return to Never LandåÊ,2002
+SelmaåÊ,2014
+The Jungle Book 2åÊ,2003
+BoogeymanåÊ,2005
+PremonitionåÊ,2007
+The Tigger MovieåÊ,2000
+OrphanåÊ,2009
+MaxåÊ,2015
+Meet the BrownsåÊ            ,
+Epic MovieåÊ,2007
+Conan the BarbarianåÊ,1982
+SpotlightåÊ,2015
+Lakeview TerraceåÊ,2008
+The Grudge 2åÊ,2006
+How Stella Got Her Groove BackåÊ,1998
+Bill & Ted's Bogus JourneyåÊ,1991
+Man of the YearåÊ,2006
+The Black HoleåÊ,1979
+The AmericanåÊ,2010
+SelenaåÊ,1997
+Vampires SuckåÊ,2010
+BabelåÊ,2006
+This Is Where I Leave YouåÊ,2014
+DoubtåÊ,2008
+Team America: World PoliceåÊ,2004
+Texas Chainsaw 3DåÊ,2013
+CopycatåÊ,1995
+Scary Movie 5åÊ,2013
+Paint Your WagonåÊ,1969
+MilkåÊ,2008
+RisenåÊ,2016
+Ghost ShipåÊ,2002
+A Very Harold & Kumar 3D ChristmasåÊ,2011
+Wild ThingsåÊ,1998
+The StepfatheråÊ,2009
+The DebtåÊ,2010
+High FidelityåÊ,2000
+One Missed CallåÊ,2008
+Eye for an EyeåÊ,1996
+The Bank JobåÊ,2008
+Eternal Sunshine of the Spotless MindåÊ,2004
+You AgainåÊ,2010
+Street KingsåÊ,2008
+The World's EndåÊ,2013
+Nancy DrewåÊ,2007
+DaybreakersåÊ,2009
+She's Out of My LeagueåÊ,2010
+Monte CarloåÊ,2011
+Stay AliveåÊ,2006
+Quigley Down UnderåÊ,1990
+Alpha and OmegaåÊ,2010
+The CovenantåÊ,2006
+Stick ItåÊ,2006
+ShortsåÊ,2009
+To Die ForåÊ,1995
+NerveåÊ,2016
+AppaloosaåÊ,2008
+VampiresåÊ,1998
+Yu-Gi-Oh! Duel MonstersåÊ            ,
+PsychoåÊ,1960
+My Best Friend's GirlåÊ,2008
+Endless LoveåÊ,2014
+Georgia RuleåÊ,2007
+Under the RainbowåÊ,1981
+LadyhawkeåÊ,1985
+Simon BirchåÊ,1998
+Reign Over MeåÊ,2007
+Into the WildåÊ,2007
+School for ScoundrelsåÊ,2006
+Silent Hill: Revelation 3DåÊ,2012
+From Dusk Till DawnåÊ,1996
+Pooh's Heffalump MovieåÊ,2005
+Home for the HolidaysåÊ,1995
+Kung Fu HustleåÊ,2004
+Fired UpåÊ            ,
+The Country BearsåÊ,2002
+The Kite RunneråÊ,2007
+21 GramsåÊ,2003
+PaparazziåÊ,2004
+TwilightåÊ,2008
+A Guy ThingåÊ,2003
+LoseråÊ,2000
+Capitalism: A Love StoryåÊ,2009
+The Greatest Story Ever ToldåÊ,1965
+Secret in Their EyesåÊ,2015
+Disaster MovieåÊ,2008
+ArmoredåÊ,2009
+The Man Who Knew Too LittleåÊ,1997
+What's Your Number?åÊ,2011
+LockoutåÊ,2012
+EnvyåÊ,2004
+Crank: High VoltageåÊ,2009
+Bullets Over BroadwayåÊ,1994
+One Night with the KingåÊ,2006
+The Quiet AmericanåÊ,2002
+The Weather ManåÊ,2005
+UndisputedåÊ,2002
+Ghost TownåÊ,2008
+12 RoundsåÊ,2009
+Let Me InåÊ,2010
+3 Ninjas Kick BackåÊ,1994
+Be Kind RewindåÊ,2008
+Mrs Henderson PresentsåÊ,2005
+Triple 9åÊ,2016
+Deconstructing HarryåÊ,1997
+Three to TangoåÊ,1999
+BurntåÊ,2015
+We're No AngelsåÊ,1989
+Everyone Says I Love YouåÊ,1996
+Death at a FuneralåÊ,2007
+Death SentenceåÊ,2007
+Everybody's FineåÊ,2009
+Superbabies: Baby Geniuses 2åÊ,2004
+The ManåÊ,2005
+Code Name: The CleaneråÊ,2007
+Connie and CarlaåÊ,2004
+Sweet CharityåÊ,1969
+Inherent ViceåÊ,2014
+DoogalåÊ,2006
+Battle of the YearåÊ,2013
+PerceptionåÊ            ,
+An American CarolåÊ,2008
+Machete KillsåÊ,2013
+WillardåÊ,2003
+Strange WildernessåÊ,2008
+Topsy-TurvyåÊ,1999
+Little BoyåÊ,2015
+A Dangerous MethodåÊ,2011
+A Scanner DarklyåÊ,2006
+Chasing MavericksåÊ,2012
+Alone in the DarkåÊ,2005
+BandslamåÊ,2009
+BirthåÊ,2004
+A Most Violent YearåÊ,2014
+PasschendaeleåÊ,2008
+Flash of GeniusåÊ,2008
+I'm Not There.åÊ,2007
+The Cold Light of DayåÊ,2012
+The Brothers BloomåÊ,2008
+"Synecdoche, New YorkåÊ",2008
+Princess MononokeåÊ,1997
+Bon voyageåÊ,2003
+Can't Stop the MusicåÊ,1980
+The PropositionåÊ,2005
+CourageåÊ,2015
+Marci XåÊ,2003
+EquilibriumåÊ,2002
+The Children of Huang ShiåÊ,2008
+The YardsåÊ,2000
+The Oogieloves in the Big Balloon AdventureåÊ,2012
+By the SeaåÊ,2015
+SteamboyåÊ,2004
+The Game of Their LivesåÊ,2005
+All Good ThingsåÊ,2010
+Rapa NuiåÊ,1994
+CJ7åÊ,2008
+Les couloirs du temps: Les visiteurs IIåÊ,1998
+Dylan Dog: Dead of NightåÊ,2010
+People I KnowåÊ,2002
+The Doombolt ChaseåÊ            ,
+The TempeståÊ,2010
+RegressionåÊ,2015
+The TouchåÊ,2007
+Three Kingdoms: Resurrection of the DragonåÊ,2008
+ShatteredåÊ,2007
+ZambeziaåÊ,2012
+RamanujanåÊ,2014
+Dwegons and LeprechaunsåÊ,2014
+Hands of StoneåÊ,2016
+SurvivoråÊ,2015
+The Frozen GroundåÊ,2013
+The Painted VeilåÊ,2006
+The Baader Meinhof ComplexåÊ,2008
+Dances with WolvesåÊ,1990
+Bad TeacheråÊ,2011
+Sea of LoveåÊ,1989
+A Cinderella StoryåÊ,2004
+ScreamåÊ,1996
+Thir13en GhostsåÊ,2001
+The ShiningåÊ,1980
+Back to the FutureåÊ,1985
+House on Haunted HillåÊ,1999
+I Can Do Bad All by MyselfåÊ,2009
+Fight ValleyåÊ,2016
+The SwitchåÊ,2010
+Just MarriedåÊ,2003
+The Devil's DoubleåÊ,2011
+"Gone, Baby, GoneåÊ            ",
+Thomas and the Magic RailroadåÊ,2000
+The CraziesåÊ,2010
+Spirited AwayåÊ,2001
+FirestormåÊ,2013
+The BountyåÊ,1984
+The Book ThiefåÊ,2013
+Sex DriveåÊ,2008
+Leap YearåÊ,2010
+The Fall of the Roman EmpireåÊ,1964
+Take Me Home TonightåÊ,2011
+Won't Back DownåÊ,2012
+The NutcrackeråÊ,1993
+Kansas CityåÊ,1996
+IndignationåÊ,2016
+The Amityville HorroråÊ,2005
+Adaptation.åÊ,2002
+Land of the DeadåÊ,2005
+Out of InfernoåÊ,2013
+Fear and Loathing in Las VegasåÊ,1998
+The Invention of LyingåÊ,2009
+NeighborsåÊ,2014
+The MaskåÊ,1994
+BigåÊ,1988
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of KazakhstanåÊ,2006
+Legally BlondeåÊ,2001
+Star Trek III: The Search for SpockåÊ,1984
+The Exorcism of Emily RoseåÊ,2005
+Deuce Bigalow: Male GigoloåÊ,1999
+Left BehindåÊ,2014
+The Family StoneåÊ,2005
+Barbershop 2: Back in BusinessåÊ,2004
+Bad SantaåÊ,2003
+Austin Powers: International Man of MysteryåÊ,1997
+My Big Fat Greek Wedding 2åÊ,2016
+Diary of a Wimpy Kid: Rodrick RulesåÊ,2011
+PredatoråÊ,1987
+AmadeusåÊ,1984
+Prom NightåÊ,2008
+Mean GirlsåÊ,2004
+Under the Tuscan SunåÊ,2003
+Gosford ParkåÊ,2001
+The O.C.åÊ            ,
+Peggy Sue Got MarriedåÊ,1986
+Birdman or (The Unexpected Virtue of Ignorance)åÊ,2014
+Blue JasmineåÊ,2013
+United 93åÊ,2006
+HoneyåÊ,2003
+GloryåÊ,1989
+Spy HardåÊ,1996
+The FogåÊ,1980
+Soul SurferåÊ,2011
+Catch-22åÊ,1970
+Observe and ReportåÊ,2009
+Conan the DestroyeråÊ,1984
+Raging BullåÊ,1980
+Love HappensåÊ,2009
+Young Sherlock HolmesåÊ,1985
+FameåÊ,2009
+127 HoursåÊ,2010
+Small Time CrooksåÊ,2000
+Center StageåÊ,2000
+Love the CoopersåÊ,2015
+Catch That KidåÊ,2004
+Life as a HouseåÊ,2001
+Steve JobsåÊ,2015
+"I Love You, Beth CooperåÊ",2009
+Youth in RevoltåÊ,2009
+The Legend of the Lone RangeråÊ,1981
+The Tailor of PanamaåÊ,2001
+Blow OutåÊ,1981
+GetawayåÊ,2013
+The Ice StormåÊ,1997
+And So It GoesåÊ,2014
+Troop Beverly HillsåÊ,1989
+Being JuliaåÊ,2004
+9å_ WeeksåÊ,1986
+DragonslayeråÊ,1981
+The Last StationåÊ,2009
+Ed WoodåÊ,1994
+Labor DayåÊ,2013
+Mongol: The Rise of Genghis KhanåÊ,2007
+RocknRollaåÊ,2008
+MegaforceåÊ,1982
+HamletåÊ,1996
+Mao's Last DanceråÊ,2009
+Midnight SpecialåÊ,2016
+Anything ElseåÊ,2003
+The Railway ManåÊ,2013
+UnforgettableåÊ            ,
+The White RibbonåÊ,2009
+RestorationåÊ,2016
+The WraithåÊ,1986
+The Salton SeaåÊ,2002
+Metallica Through the NeveråÊ,2013
+The InformersåÊ,2008
+CarlosåÊ            ,
+I Come with the RainåÊ,2009
+One Man's HeroåÊ,1999
+Day of the DeadåÊ,1985
+I Am WrathåÊ,2016
+RenaissanceåÊ,2006
+ForsakenåÊ,2015
+Red SonjaåÊ,1985
+Red LightsåÊ,2012
+SuperbadåÊ,2007
+Madea Goes to JailåÊ,2009
+WolvesåÊ,2014
+Step Up 2: The StreetsåÊ,2008
+Hoodwinked!åÊ,2005
+Hotel RwandaåÊ,2004
+HitmanåÊ,2007
+Black NativityåÊ,2013
+The PrinceåÊ,2014
+City of GhostsåÊ,2002
+The OthersåÊ,2001
+AliensåÊ,1986
+My Fair LadyåÊ,1964
+I Know What You Did Last SummeråÊ,1997
+Let's Be CopsåÊ,2014
+SidewaysåÊ,2004
+BeerfeståÊ,2006
+HalloweenåÊ,1978
+HeroåÊ,2002
+Good Boy!åÊ,2003
+The Best Man HolidayåÊ,2013
+Smokin' AcesåÊ,2006
+Saw 3D: The Final ChapteråÊ,2010
+40 Days and 40 NightsåÊ,2002
+TRON: LegacyåÊ,2010
+A Night at the RoxburyåÊ,1998
+BeastlyåÊ,2011
+The Hills Have EyesåÊ,2006
+Dickie Roberts: Former Child StaråÊ,2003
+"McFarland, USAåÊ",2015
+Lottery TicketåÊ,2010
+ATLåÊ,2006
+Pitch PerfectåÊ,2012
+Summer CatchåÊ,2001
+A Simple PlanåÊ,1998
+TheyåÊ,2002
+Larry the Cable Guy: Health InspectoråÊ,2006
+The Adventures of Elmo in GrouchlandåÊ,1999
+Brooklyn's FineståÊ,2009
+55 Days at PekingåÊ,1963
+Evil DeadåÊ,2013
+My Life in RuinsåÊ,2009
+American DreamzåÊ,2006
+Superman IV: The Quest for PeaceåÊ,1987
+How She MoveåÊ,2007
+Running ScaredåÊ,2006
+Bobby Jones: Stroke of GeniusåÊ,2004
+Shanghai SurpriseåÊ,1986
+The IllusioniståÊ,2006
+RoaråÊ,1981
+Veronica GuerinåÊ,2003
+Escobar: Paradise LoståÊ,2014
+Southland TalesåÊ,2006
+Dragon HuntersåÊ,2008
+Damnation AlleyåÊ,1977
+The ApparitionåÊ,2012
+My GirlåÊ,1991
+Fur: An Imaginary Portrait of Diane ArbusåÊ,2006
+The IllusioniståÊ,2006
+Wall StreetåÊ,1987
+Sense and SensibilityåÊ,1995
+Becoming JaneåÊ,2007
+Sydney WhiteåÊ,2007
+House of Sand and FogåÊ,2003
+Dead Poets SocietyåÊ,1989
+Dumb & DumberåÊ,1994
+When Harry Met Sally...åÊ,1989
+The VerdictåÊ,1982
+Road TripåÊ,2000
+Varsity BluesåÊ,1999
+The ArtiståÊ,2011
+The UnbornåÊ,2009
+Moonrise KingdomåÊ,2012
+The Texas Chainsaw Massacre: The BeginningåÊ,2006
+The Young MessiahåÊ,2016
+The Master of DisguiseåÊ,2002
+Pan's LabyrinthåÊ,2006
+The MessengersåÊ            ,
+See Spot RunåÊ,2001
+Baby BoyåÊ,2001
+The RoommateåÊ,2011
+Joe DirtåÊ,2001
+Double ImpactåÊ,1991
+Hot FuzzåÊ,2007
+The WomenåÊ,2008
+Vicky Cristina BarcelonaåÊ,2008
+Arn: The Knight TemplaråÊ,2007
+Bad MomsåÊ,2016
+Boys and GirlsåÊ,2000
+White OleanderåÊ,2002
+Jennifer's BodyåÊ,2009
+Drowning MonaåÊ,2000
+Radio DaysåÊ,1987
+Left BehindåÊ,2014
+Remember MeåÊ,2010
+How to DealåÊ,2003
+My Stepmother Is an AlienåÊ,1988
+PhiladelphiaåÊ,1993
+The Thirteenth FlooråÊ,1999
+The CookoutåÊ,2004
+MeteoråÊ,1979
+DuetsåÊ,2000
+Hollywood EndingåÊ,2002
+Detroit Rock CityåÊ,1999
+HighlanderåÊ,1986
+Things We Lost in the FireåÊ,2007
+SteelåÊ,1997
+The ImmigrantåÊ,2013
+The White CountessåÊ,2005
+TranceåÊ,2013
+Soul PlaneåÊ,2004
+Welcome to the SticksåÊ,2008
+GoodåÊ,2008
+Enter the VoidåÊ,2009
+VampsåÊ,2012
+Hachi: A Dog's TaleåÊ,2009
+ZuluåÊ,2013
+The HomesmanåÊ,2014
+Juwanna MannåÊ,2002
+LilyhammeråÊ            ,
+AraratåÊ,2002
+MadisonåÊ,2001
+Slow BurnåÊ,2005
+WasabiåÊ,2001
+SlitheråÊ,2006
+Beverly Hills CopåÊ,1984
+Home AloneåÊ,1990
+3 Men and a BabyåÊ,1987
+TootsieåÊ,1982
+Top GunåÊ,1986
+"Crouching Tiger, Hidden DragonåÊ",2000
+American BeautyåÊ,1999
+The King's SpeechåÊ,2010
+TwinsåÊ,1988
+Scream: The TV SeriesåÊ            ,
+The Yellow HandkerchiefåÊ,2008
+The Color PurpleåÊ,1985
+Tidal WaveåÊ,2009
+Ben-HuråÊ,2016
+The Imitation GameåÊ,2014
+Private BenjaminåÊ,1980
+Coal Miner's DaughteråÊ,1980
+Diary of a Wimpy KidåÊ,2010
+MamaåÊ,2013
+HalloweenåÊ,1978
+National Lampoon's VacationåÊ,1983
+Bad GrandpaåÊ,2013
+The QueenåÊ,2006
+BeetlejuiceåÊ,1988
+Why Did I Get Married?åÊ,2007
+Little WomenåÊ,1994
+The Woman in BlackåÊ,2012
+When a Stranger CallsåÊ,2006
+Big Fat LiaråÊ,2002
+The Deer HunteråÊ,1978
+Wag the DogåÊ,1997
+The Lizzie McGuire MovieåÊ,2003
+SnitchåÊ,2013
+KrampusåÊ,2015
+The FacultyåÊ,1998
+What's Love Got to Do with ItåÊ,1993
+Cop LandåÊ,1997
+Not Another Teen MovieåÊ,2001
+End of WatchåÊ,2012
+AlohaåÊ,2015
+The SkullsåÊ,2000
+The Theory of EverythingåÊ,2014
+Malibu's Most WantedåÊ,2003
+Where the Heart IsåÊ,2000
+Lawrence of ArabiaåÊ,1962
+Halloween IIåÊ,2009
+WildåÊ,2014
+The Last House on the LeftåÊ,2009
+The Wedding DateåÊ,2005
+Halloween: ResurrectionåÊ,2002
+Clash of the TitansåÊ,2010
+The Princess BrideåÊ,1987
+The Great DebatersåÊ,2007
+DriveåÊ,2011
+Confessions of a Teenage Drama QueenåÊ,2004
+The Object of My AffectionåÊ,1998
+28 Weeks LateråÊ,2007
+When the Game Stands TallåÊ,2014
+Because of Winn-DixieåÊ,2005
+Love & BasketballåÊ,2000
+Grosse Pointe BlankåÊ,1997
+All About SteveåÊ,2009
+Book of Shadows: Blair Witch 2åÊ,2000
+The CraftåÊ,1996
+Match PointåÊ,2005
+Ramona and BeezusåÊ,2010
+The Remains of the DayåÊ,1993
+Boogie NightsåÊ,1997
+Nowhere to RunåÊ,1993
+FlickaåÊ,2006
+The Hills Have Eyes IIåÊ,2007
+Urban Legends: Final CutåÊ,2000
+Tuck EverlastingåÊ,2002
+The MarineåÊ,2006
+KeanuåÊ,2016
+Country StrongåÊ,2010
+Disturbing BehavioråÊ,1998
+The Place Beyond the PinesåÊ,2012
+The November ManåÊ,2014
+Eye of the BeholderåÊ,1999
+The Hurt LockeråÊ,2008
+FirestarteråÊ,1984
+Killing Them SoftlyåÊ,2012
+A Most Wanted ManåÊ,2014
+Freddy Got FingeredåÊ,2001
+The Pirates Who Don't Do Anything: A VeggieTales MovieåÊ,2008
+U2 3DåÊ,2007
+Highlander: EndgameåÊ,2000
+IdlewildåÊ,2006
+One DayåÊ,2011
+Whip ItåÊ,2009
+Knockaround GuysåÊ,2001
+ConfidenceåÊ,2003
+The MuseåÊ,1999
+De-LovelyåÊ,2004
+New York StoriesåÊ,1989
+Barney's Great AdventureåÊ,1998
+The Man with the Iron FistsåÊ,2012
+Home FriesåÊ,1998
+Here on EarthåÊ,2000
+BrazilåÊ,1985
+Raise Your VoiceåÊ,2004
+The Dead ZoneåÊ            ,
+The Big LebowskiåÊ,1998
+Black Snake MoanåÊ,2006
+Dark BlueåÊ,2002
+A Mighty HeartåÊ,2007
+Whatever It TakesåÊ,2000
+Boat TripåÊ,2002
+The Importance of Being EarneståÊ,2002
+The Love LetteråÊ,1998
+HootåÊ,2006
+In BrugesåÊ,2008
+PeeplesåÊ,2013
+The RockeråÊ,2008
+Post GradåÊ,2009
+Promised LandåÊ,2012
+Whatever WorksåÊ,2009
+The In CrowdåÊ,2000
+Three BurialsåÊ,2005
+Jakob the LiaråÊ,1999
+Kiss Kiss Bang BangåÊ,2005
+Idle HandsåÊ,1999
+Mulholland DriveåÊ,2001
+Blood and ChocolateåÊ,2007
+You Will Meet a Tall Dark StrangeråÊ,2010
+Never Let Me GoåÊ,2010
+The CompanyåÊ            ,
+TranssiberianåÊ,2008
+The Clan of the Cave BearåÊ,1986
+Crazy in AlabamaåÊ,1999
+Funny GamesåÊ,2007
+ListeningåÊ,2014
+Felicia's JourneyåÊ,1999
+MetropolisåÊ,1927
+District B13åÊ,2004
+Things to Do in Denver When You're DeadåÊ,1995
+The AssassinåÊ,2015
+Buffalo SoldiersåÊ,2001
+The ReturnåÊ,2003
+Ong-bak 2åÊ,2008
+CenturionåÊ,2010
+Silent TriggeråÊ,1996
+The Midnight Meat TrainåÊ,2008
+Winnie MandelaåÊ,2011
+The Son of No OneåÊ,2011
+All the Queen's MenåÊ,2001
+The Good NightåÊ,2007
+Bathory: Countess of BloodåÊ,2008
+KhumbaåÊ,2013
+AutomataåÊ,2014
+Dungeons & Dragons: Wrath of the Dragon GodåÊ,2005
+Chiamatemi Francesco - Il Papa della genteåÊ,2015
+Shinjuku IncidentåÊ,2009
+PandaemoniumåÊ,2000
+Groundhog DayåÊ,1993
+Magic Mike XXLåÊ,2015
+Romeo + JulietåÊ,1996
+Sarah's KeyåÊ,2010
+FreedomåÊ,2014
+UnforgivenåÊ,1992
+ManderlayåÊ,2005
+Slumdog MillionaireåÊ,2008
+Fatal AttractionåÊ,1987
+Pretty WomanåÊ,1990
+Towering InfernoåÊ            ,
+Crocodile Dundee IIåÊ,1988
+Broken HorsesåÊ,2015
+Born on the Fourth of JulyåÊ,1989
+Cool RunningsåÊ,1993
+My Bloody ValentineåÊ,2009
+The PossessionåÊ,2012
+First BloodåÊ,1982
+Stomp the YardåÊ,2007
+The Spy Who Loved MeåÊ,1977
+Ghost HuntersåÊ            ,
+Urban LegendåÊ,1998
+Dangerous LiaisonsåÊ,1988
+Good DeedsåÊ,2012
+White FangåÊ,1991
+SuperstaråÊ,1999
+The Iron LadyåÊ,2011
+Jonah: A VeggieTales MovieåÊ,2002
+Poetic JusticeåÊ,1993
+All About the BenjaminsåÊ,2002
+Vampire in BrooklynåÊ,1995
+Exorcist II: The HereticåÊ,1977
+An American HauntingåÊ,2005
+My Boss's DaughteråÊ,2003
+A Perfect GetawayåÊ,2009
+Our Family WeddingåÊ,2010
+Dead Man on CampusåÊ,1998
+Tea with MussoliniåÊ,1999
+ThinneråÊ,1996
+"New York, New YorkåÊ",1977
+CrooklynåÊ,1994
+I Think I Love My WifeåÊ,2007
+Jason XåÊ,2001
+Big Fat LiaråÊ,2002
+BobbyåÊ,2006
+Head Over HeelsåÊ,2001
+Fun SizeåÊ,2012
+The Diving Bell and the ButterflyåÊ,2007
+Little ChildrenåÊ,2006
+GossipåÊ,2000
+A Walk on the MoonåÊ,1999
+Catch a FireåÊ,2006
+Soul SurvivorsåÊ,2001
+Jefferson in ParisåÊ,1995
+Easy VirtueåÊ,2008
+CaravansåÊ,1978
+Mr. TurneråÊ,2014
+Wild GrassåÊ,2009
+Amen.åÊ,2002
+Reign of AssassinsåÊ,2010
+The Lucky OnesåÊ,2008
+MargaretåÊ,2011
+Stan HelsingåÊ,2009
+FlippedåÊ,2010
+Brokeback MountainåÊ,2005
+Teenage Mutant Ninja TurtlesåÊ,2014
+CluelessåÊ,1995
+Far from HeavenåÊ,2002
+Hot Tub Time Machine 2åÊ,2015
+DekalogåÊ            ,
+QuillsåÊ,2000
+Seven PsychopathsåÊ,2012
+The Caveman's ValentineåÊ,2001
+The BorderåÊ            ,
+DownfallåÊ,2004
+The Sea InsideåÊ,2004
+Under the SkinåÊ,2013
+"Good Morning, VietnamåÊ",1987
+The Last GodfatheråÊ,2010
+Justin Bieber: Never Say NeveråÊ,2011
+Black SwanåÊ,2010
+RoboCopåÊ,2014
+The Godfather: Part IIåÊ,1974
+Save the Last DanceåÊ,2001
+A Nightmare on Elm Street 4: The Dream MasteråÊ,1988
+Miracles from HeavenåÊ,2016
+"Dude, Where's My Car?åÊ",2000
+Young GunsåÊ,1988
+St. VincentåÊ,2014
+About Last NightåÊ,2014
+10 Things I Hate About YouåÊ,1999
+The New GuyåÊ,2002
+Loaded Weapon 1åÊ,1993
+The ShallowsåÊ,2016
+The Butterfly EffectåÊ,2004
+Snow DayåÊ,2000
+This ChristmasåÊ,2007
+Baby GeniusesåÊ,1999
+The Big HitåÊ,1998
+Harriet the SpyåÊ,1996
+Child's Play 2åÊ,1990
+No Good DeedåÊ,2014
+The MiståÊ,2007
+Ex MachinaåÊ,2015
+Being John MalkovichåÊ,1999
+Two Can Play That GameåÊ,2001
+Earth to EchoåÊ,2014
+Crazy/BeautifulåÊ,2001
+Letters from Iwo JimaåÊ,2006
+The Astronaut FarmeråÊ,2006
+WooåÊ,1998
+RoomåÊ,2015
+Dirty WorkåÊ,1998
+Serial MomåÊ,1994
+DickåÊ,1999
+Del 1 - MÌ_n som hatar kvinnoråÊ            ,
+Light It UpåÊ,1999
+54åÊ,1998
+Bubble BoyåÊ,2001
+Birthday GirlåÊ,2001
+21 & OveråÊ,2013
+"Paris, je t'aimeåÊ",2006
+Resurrecting the ChampåÊ,2007
+AdmissionåÊ,2013
+The Widow of Saint-PierreåÊ,2000
+ChloeåÊ,2009
+FaithfulåÊ,1996
+BrothersåÊ,2009
+Find Me GuiltyåÊ,2006
+The Perks of Being a WallfloweråÊ,2012
+Excessive ForceåÊ,1993
+InfamousåÊ,2006
+The ClaimåÊ,2000
+The Vatican TapesåÊ,2015
+Attack the BlockåÊ,2011
+In the Land of Blood and HoneyåÊ,2011
+The CallåÊ,2013
+Operation ChromiteåÊ,2016
+The Crocodile Hunter: Collision CourseåÊ,2002
+I Love You Phillip MorrisåÊ,2009
+Quest for FireåÊ,1981
+Antwone FisheråÊ,2002
+The Emperor's ClubåÊ,2002
+True RomanceåÊ,1993
+WombåÊ,2010
+Glengarry Glen RossåÊ,1992
+The Killer Inside MeåÊ,2010
+Cat PeopleåÊ,1982
+Sorority RowåÊ,2009
+The Prisoner of ZendaåÊ,1937
+Lars and the Real GirlåÊ,2007
+The Boy in the Striped PajamasåÊ,2008
+Dancer in the DarkåÊ,2000
+Oscar and LucindaåÊ,1997
+The FuneralåÊ,1996
+Solitary ManåÊ,2009
+MacheteåÊ,2010
+Casino JackåÊ,2010
+The Land Before TimeåÊ,1988
+Tae Guk Gi: The Brotherhood of WaråÊ,2004
+The Perfect GameåÊ,2009
+The ExorciståÊ,1973
+JawsåÊ,1975
+American PieåÊ,1999
+Ernest & CelestineåÊ,2012
+The Golden ChildåÊ,1986
+Think Like a ManåÊ,2012
+BarbershopåÊ,2002
+Star Trek II: The Wrath of KhanåÊ,1982
+Ace Ventura: Pet DetectiveåÊ,1994
+WarGamesåÊ,1983
+WitnessåÊ,1985
+Act of ValoråÊ,2012
+Step UpåÊ,2006
+Beavis and Butt-Head Do AmericaåÊ,1996
+Jackie BrownåÊ,1997
+Harold & Kumar Escape from Guantanamo BayåÊ,2008
+ChronicleåÊ,2012
+YentlåÊ,1983
+Time BanditsåÊ,1981
+CrossroadsåÊ,2002
+Project XåÊ,2012
+PattonåÊ,1970
+One Hour PhotoåÊ,2002
+QuarantineåÊ,2008
+The EyeåÊ,2008
+Johnson Family VacationåÊ,2004
+How HighåÊ,2001
+The Muppet Christmas CarolåÊ,1992
+Casino RoyaleåÊ,2006
+FridaåÊ,2002
+Katy Perry: Part of MeåÊ,2012
+The Fault in Our StarsåÊ,2014
+RoundersåÊ,1998
+Top FiveåÊ,2014
+ProphecyåÊ,1979
+Stir of EchoesåÊ,1999
+Spartacus: War of the DamnedåÊ            ,
+PhilomenaåÊ,2013
+The Upside of AngeråÊ,2005
+The Boys from BrazilåÊ,1978
+AquamarineåÊ,2006
+Paper TownsåÊ,2015
+My Baby's DaddyåÊ,2004
+NebraskaåÊ,2013
+Tales from the Crypt: Demon KnightåÊ,1995
+Max Keeble's Big MoveåÊ,2001
+Young AdultåÊ,2011
+CrankåÊ,2006
+How to Be a PlayeråÊ,1997
+Living Out LoudåÊ,1998
+Just WrightåÊ,2010
+Rachel Getting MarriedåÊ,2008
+The Postman Always Rings TwiceåÊ,1981
+Girl with a Pearl EarringåÊ,2003
+Das BootåÊ,1981
+The AlamoåÊ,2004
+Sorority BoysåÊ,2002
+About TimeåÊ,2013
+House of Flying DaggersåÊ,2004
+ArbitrageåÊ,2012
+Project AlmanacåÊ,2015
+Cadillac RecordsåÊ,2008
+ScrewedåÊ,2000
+FortressåÊ,1992
+For Your ConsiderationåÊ,2006
+CelebrityåÊ,1998
+Running with ScissorsåÊ,2006
+From Justin to KellyåÊ,2003
+Girl 6åÊ,1996
+In the CutåÊ,2003
+Two LoversåÊ,2008
+Last OrdersåÊ,2001
+The HoståÊ,2006
+The Pursuit of D.B. CooperåÊ,1981
+RavenousåÊ,1999
+Charlie BartlettåÊ,2007
+The Great BeautyåÊ,2013
+The Dangerous Lives of Altar BoysåÊ,2002
+StokeråÊ,2013
+2046åÊ,2004
+Married LifeåÊ,2007
+DumaåÊ,2005
+OndineåÊ,2009
+BrotheråÊ,2000
+Welcome to CollinwoodåÊ,2002
+Critical CareåÊ,1997
+The Life Before Her EyesåÊ,2007
+Darling CompanionåÊ,2012
+TradeåÊ,2007
+FatelessåÊ,2005
+Breakfast of ChampionsåÊ,1999
+"A Woman, a Gun and a Noodle ShopåÊ",2009
+CypheråÊ,2002
+City of Life and DeathåÊ,2009
+HomeåÊ,2015
+Legend of Kung Fu RabbitåÊ,2011
+Space Battleship YamatoåÊ,2010
+5 Days of WaråÊ,2011
+TriangleåÊ,2009
+10 Days in a MadhouseåÊ,2015
+Heaven Is for RealåÊ,2014
+SnatchåÊ,2000
+Dancin' It's OnåÊ,2015
+Pet SemataryåÊ,1989
+MadadayoåÊ,1993
+The Cry of the OwlåÊ,2009
+A Tale of Three CitiesåÊ,2015
+GremlinsåÊ,1984
+Star Wars: Episode IV - A New HopeåÊ,1977
+Dirty GrandpaåÊ,2016
+Doctor ZhivagoåÊ,1965
+TrashåÊ,2014
+High School Musical 3: Senior YearåÊ,2008
+The FighteråÊ,2010
+Jackass Number TwoåÊ,2006
+My Cousin VinnyåÊ,1992
+If I StayåÊ,2014
+Drive HardåÊ,2014
+Major LeagueåÊ,1989
+St. Trinian'såÊ,2007
+Phone BoothåÊ,2002
+A Walk to RememberåÊ,2002
+Dead Man WalkingåÊ,1995
+Cruel IntentionsåÊ,1999
+Saw VIåÊ,2009
+History of the World: Part IåÊ,1981
+The Secret Life of BeesåÊ,2008
+Corky RomanoåÊ,2001
+Raising CainåÊ,1992
+F.I.S.T.åÊ,1978
+Invaders from MarsåÊ,1986
+BrooklynåÊ,2015
+Barry LyndonåÊ,1975
+Out ColdåÊ,2001
+The Ladies ManåÊ,2000
+QuartetåÊ,2012
+TomcatsåÊ,2001
+FrailtyåÊ,2001
+Woman in GoldåÊ,2015
+KinseyåÊ,2004
+Army of DarknessåÊ,1992
+SlackersåÊ,2002
+What's Eating Gilbert GrapeåÊ,1993
+The Visual Bible: The Gospel of JohnåÊ,2003
+Vera DrakeåÊ,2004
+The GuruåÊ,2002
+The Perez FamilyåÊ,1995
+Inside Llewyn DavisåÊ,2013
+OåÊ,2001
+Return to the Blue LagoonåÊ,1991
+The Molly MaguiresåÊ,1970
+Romance & CigarettesåÊ,2005
+Copying BeethovenåÊ,2006
+PoltergeiståÊ,1982
+Brighton RockåÊ,2010
+Saw VåÊ,2008
+Machine Gun McCainåÊ,1969
+LOLåÊ,2012
+JindabyneåÊ,2006
+Kabhi Alvida Naa KehnaåÊ,2006
+An Ideal HusbandåÊ,1999
+The Last Days on MarsåÊ,2013
+DarknessåÊ,2002
+2001: A Space OdysseyåÊ,1968
+E.T. the Extra-TerrestrialåÊ,1982
+In the Land of WomenåÊ,2007
+The Blue ButterflyåÊ,2004
+There Goes My BabyåÊ,1994
+LovesickåÊ            ,
+HousefullåÊ,2010
+September DawnåÊ,2007
+For Greater Glory: The True Story of CristiadaåÊ,2012
+La Famille BÌ©lieråÊ,2014
+Good Will HuntingåÊ,1997
+MisconductåÊ,2016
+Saw IIIåÊ,2006
+StripesåÊ,1981
+Bring It OnåÊ,2000
+The Purge: Election YearåÊ,2016
+She's All ThatåÊ,1999
+PreciousåÊ,2009
+Saw IVåÊ,2007
+White NoiseåÊ,2005
+Madea's Family ReunionåÊ,2006
+The Color of MoneyåÊ,1986
+The Longest DayåÊ,1962
+The Mighty DucksåÊ,1992
+The GrudgeåÊ,2004
+Happy GilmoreåÊ,1996
+Jeepers CreepersåÊ,2001
+Bill & Ted's Excellent AdventureåÊ,1989
+Oliver!åÊ,1968
+The Best Exotic Marigold HotelåÊ,2011
+Recess: School's OutåÊ,2001
+Mad Max Beyond ThunderdomeåÊ,1985
+CommandoåÊ,1985
+The BoyåÊ,2016
+DevilåÊ,2010
+Friday After NextåÊ,2002
+Insidious: Chapter 3åÊ,2015
+The Last DragonåÊ,1985
+SnatchåÊ,2000
+The Lawnmower ManåÊ,1992
+Nick and Norah's Infinite PlayliståÊ,2008
+DogmaåÊ,1999
+The Banger SistersåÊ,2002
+Twilight Zone: The MovieåÊ,1983
+Road HouseåÊ,1989
+A Low Down Dirty ShameåÊ,1994
+SwimfanåÊ,2002
+Employee of the MonthåÊ,2006
+Can't Hardly WaitåÊ,1998
+The OutsidersåÊ,1983
+Pete's DragonåÊ,2016
+The Dead ZoneåÊ,1983
+Sinister 2åÊ,2015
+SparkleåÊ,2012
+ValentineåÊ,2001
+The Fourth KindåÊ,2009
+A Prairie Home CompanionåÊ,2006
+Sugar HillåÊ,1993
+Invasion U.S.A.åÊ,1985
+Roll BounceåÊ,2005
+RushmoreåÊ,1998
+SkylineåÊ,2010
+The Second Best Exotic Marigold HotelåÊ,2015
+Kit Kittredge: An American GirlåÊ,2008
+The Perfect ManåÊ,2005
+Mo' Better BluesåÊ,1990
+Kung Pow: Enter the FiståÊ,2002
+TremorsåÊ,1990
+Wrong TurnåÊ,2003
+The Long RidersåÊ,1980
+The CorruptoråÊ,1999
+MudåÊ,2012
+Reno 911!: MiamiåÊ,2007
+One Direction: This Is UsåÊ,2013
+"The Goods: Live Hard, Sell HardåÊ",2009
+Hey Arnold! The MovieåÊ,2002
+My Week with MarilynåÊ,2011
+The MatadoråÊ,2005
+Love JonesåÊ,1997
+The GiftåÊ,2015
+End of the SpearåÊ,2005
+Get Over ItåÊ,2001
+Office SpaceåÊ,1999
+Drop Dead GorgeousåÊ,1999
+Big EyesåÊ,2014
+Very Bad ThingsåÊ,1998
+SleepoveråÊ,2004
+Body DoubleåÊ,1984
+MacGruberåÊ,2010
+Dirty Pretty ThingsåÊ,2002
+Movie 43åÊ,2013
+The TouriståÊ,2010
+Over Her Dead BodyåÊ,2008
+Seeking a Friend for the End of the WorldåÊ,2012
+Cedar RapidsåÊ,2011
+BonesåÊ            ,
+American History XåÊ,1998
+The CollectionåÊ,2012
+Teacher's PetåÊ,2004
+The Red ViolinåÊ,1998
+The Straight StoryåÊ,1999
+Deuces WildåÊ,2002
+Bad WordsåÊ,2013
+"Run, Fatboy, RunåÊ",2007
+HeartbeepsåÊ,1981
+Black or WhiteåÊ,2014
+On the LineåÊ,2001
+Rescue DawnåÊ,2006
+Danny CollinsåÊ,2015
+"Jeff, Who Lives at HomeåÊ",2011
+I Am LoveåÊ,2009
+Atlas Shrugged II: The StrikeåÊ,2012
+Romeo Is BleedingåÊ,1993
+The LimeyåÊ,1999
+CrashåÊ,2004
+The House of MirthåÊ,2000
+MaloneåÊ,1987
+Peaceful WarrioråÊ,2006
+Bucky Larson: Born to Be a StaråÊ,2011
+BamboozledåÊ,2000
+The ForeståÊ,2016
+SphinxåÊ,1981
+While We're YoungåÊ,2014
+A Better LifeåÊ,2011
+SpideråÊ,2002
+Gun ShyåÊ,2000
+Nicholas NicklebyåÊ,2002
+The IcemanåÊ,2012
+DekalogåÊ            ,
+KrrishåÊ,2006
+Cecil B. DeMentedåÊ,2000
+Killer JoeåÊ,2011
+The JonesesåÊ,2009
+Owning MahownyåÊ,2003
+The Brothers SolomonåÊ,2007
+My Blueberry NightsåÊ,2007
+IlluminataåÊ,1998
+Swept AwayåÊ,2002
+"War, Inc.åÊ",2008
+Shaolin SocceråÊ,2001
+The Brown BunnyåÊ,2003
+The SwindleåÊ,1997
+RosewateråÊ,2014
+The Chambermaid on the TitanicåÊ,1997
+CoriolanusåÊ,2011
+Imaginary HeroesåÊ,2004
+High Heels and Low LifesåÊ,2001
+World's Greatest DadåÊ,2009
+SeveranceåÊ,2006
+EdmondåÊ,2005
+Welcome to the RileysåÊ,2010
+Police Academy: Mission to MoscowåÊ,1994
+Blood Done Sign My NameåÊ,2010
+"Cinco de Mayo, La BatallaåÊ",2013
+Elsa & FredåÊ,2014
+An Alan Smithee Film: Burn Hollywood BurnåÊ,1997
+The Open RoadåÊ,2009
+The Good GuyåÊ,2009
+MotherhoodåÊ,2009
+Free StyleåÊ,2008
+StrangerlandåÊ,2015
+The Janky PromotersåÊ,2009
+Blonde AmbitionåÊ,2007
+The Oxford MurdersåÊ,2008
+The ReefåÊ,2010
+EulogyåÊ,2004
+White Noise 2: The LightåÊ,2007
+You Got Served: Beat the WorldåÊ,2011
+Fifty Dead Men WalkingåÊ,2008
+Jungle ShuffleåÊ,2014
+Adam ResurrectedåÊ,2008
+Of Horses and MenåÊ,2013
+It's a Wonderful AfterlifeåÊ,2010
+The Devil's TombåÊ,2009
+PartitionåÊ,2007
+Good IntentionsåÊ,2010
+"The Good, the Bad, the WeirdåÊ",2008
+Nurse 3DåÊ,2013
+GunlessåÊ,2010
+AdventurelandåÊ,2009
+The Lost CityåÊ,2005
+Next FridayåÊ,2000
+American HeiståÊ,2014
+You Only Live TwiceåÊ,1967
+PlasticåÊ,2014
+AmouråÊ,2012
+Poltergeist IIIåÊ,1988
+Re-KillåÊ,2015
+"It's a Mad, Mad, Mad, Mad WorldåÊ",1963
+VolveråÊ,2006
+Heavy MetalåÊ,1981
+Gentlemen BroncosåÊ,2009
+Richard IIIåÊ,1995
+Into the Grizzly MazeåÊ,2015
+KitesåÊ,2010
+MelancholiaåÊ,2011
+Red DogåÊ,2011
+Jab Tak Hai JaanåÊ,2012
+AlienåÊ,1979
+The Texas Chain Saw MassacreåÊ,1974
+The RunawaysåÊ,2010
+Fiddler on the RoofåÊ,1971
+ThunderballåÊ,1965
+DetentionåÊ,2011
+Loose CannonsåÊ,2010
+Set It OffåÊ,1996
+The Best ManåÊ,1999
+Child's PlayåÊ,1988
+SickoåÊ,2007
+The Purge: AnarchyåÊ,2014
+Down to YouåÊ,2000
+Harold & Kumar Go to White CastleåÊ,2004
+The ContenderåÊ,2000
+Boiler RoomåÊ,2000
+Trading PlacesåÊ,1983
+Black ChristmasåÊ,2006
+Breakin' All the RulesåÊ,2004
+Henry VåÊ,1989
+The SavagesåÊ,2007
+Chasing PapiåÊ,2003
+The Way of the GunåÊ,2000
+Igby Goes DownåÊ,2002
+PCUåÊ,1994
+The Ultimate GiftåÊ,2006
+The Bold and the BeautifulåÊ            ,
+The Ice PiratesåÊ,1984
+GracieåÊ,2007
+Trust the ManåÊ,2005
+Hamlet 2åÊ,2008
+Velvet GoldmineåÊ,1998
+The WailingåÊ,2016
+Glee: The 3D Concert MovieåÊ,2011
+The Legend of SuriyothaiåÊ,2001
+Two Evil EyesåÊ,1990
+BarbecueåÊ,2014
+All or NothingåÊ,2002
+Princess KaiulaniåÊ,2009
+Opal DreamåÊ,2006
+HeiståÊ,2015
+Flame and CitronåÊ,2008
+UndiscoveredåÊ,2005
+Red Riding: In the Year of Our Lord 1974åÊ,2009
+The Girl on the TrainåÊ,2009
+Veronika Decides to DieåÊ,2009
+Crocodile DundeeåÊ,1986
+"Ultramarines: A Warhammer 40,000 MovieåÊ",2010
+The I InsideåÊ,2004
+Beneath Hill 60åÊ,2010
+PolisseåÊ,2011
+AwakeåÊ,2007
+Star Wars: The Clone WarsåÊ            ,
+Skin TradeåÊ,2014
+The Lost BoysåÊ,1987
+Crazy HeartåÊ,2009
+The RoseåÊ,1979
+Baggage ClaimåÊ,2013
+BarbarellaåÊ,1968
+ShipwreckedåÊ,1990
+ElectionåÊ,1999
+The NamesakeåÊ,2006
+The DUFFåÊ,2015
+GlitteråÊ,2001
+The Haunting in Connecticut 2: Ghosts of GeorgiaåÊ,2013
+SilmidoåÊ,2003
+Bright StaråÊ,2009
+My Name Is KhanåÊ,2010
+FootlooseåÊ,1984
+All Is LoståÊ,2013
+LimboåÊ,1999
+Namastey LondonåÊ,2007
+The Wind That Shakes the BarleyåÊ,2006
+Yeh Jawaani Hai DeewaniåÊ,2013
+The Karate KidåÊ,1984
+Quo VadisåÊ,1951
+Repo! The Genetic OperaåÊ,2008
+Valley of the Wolves: IraqåÊ,2006
+Pulp FictionåÊ,1994
+The Muppet MovieåÊ,1979
+NightcrawleråÊ,2014
+Club DreadåÊ,2004
+The Sound of MusicåÊ,1965
+SplashåÊ,1984
+Little Miss SunshineåÊ,2006
+Stand by MeåÊ,1986
+28 Days Later...åÊ,2002
+You Got ServedåÊ,2004
+Escape from AlcatrazåÊ,1979
+Brown SugaråÊ,2002
+A Thin Line Between Love and HateåÊ,1996
+50/50åÊ,2011
+ShutteråÊ,2008
+CreepshowåÊ,1982
+That Awkward MomentåÊ,2014
+Modern ProblemsåÊ,1981
+KicksåÊ,2016
+Much Ado About NothingåÊ,1993
+On Her Majesty's Secret ServiceåÊ,1969
+The PlayeråÊ            ,
+New NightmareåÊ,1994
+Drive Me CrazyåÊ,1999
+Akeelah and the BeeåÊ,2006
+Half BakedåÊ,1998
+New in TownåÊ,2009
+SyrianaåÊ,2005
+American PsychoåÊ,2000
+The Good GirlåÊ,2002
+Bon Cop Bad CopåÊ,2006
+The Boondock Saints II: All Saints DayåÊ,2009
+The City of Your Final DestinationåÊ,2009
+Enough SaidåÊ,2013
+Easy AåÊ,2010
+The InkwellåÊ,1994
+Shadow of the VampireåÊ,2000
+PromåÊ,2011
+The PallbeareråÊ,1996
+Held UpåÊ,1999
+Woman on TopåÊ,2000
+Howards EndåÊ,1992
+PreacheråÊ            ,
+AnomalisaåÊ,2015
+Another YearåÊ,2010
+8 WomenåÊ,2002
+Showdown in Little TokyoåÊ,1991
+Clay PigeonsåÊ,1998
+It's Kind of a Funny StoryåÊ,2010
+Made in DagenhamåÊ,2010
+When Did You Last See Your Father?åÊ,2007
+PrefontaineåÊ,1997
+The Wicked LadyåÊ,1983
+The Secret of KellsåÊ,2009
+Begin AgainåÊ,2013
+Down in the ValleyåÊ,2005
+Brooklyn RulesåÊ,2007
+RestlessåÊ,2012
+The Singing DetectiveåÊ,2003
+The Land GirlsåÊ,1998
+FidoåÊ,2006
+The Wendell Baker StoryåÊ,2005
+Wild TargetåÊ,2010
+PathologyåÊ,2008
+Wuthering HeightsåÊ            ,
+10th & WolfåÊ,2006
+Dear WendyåÊ,2004
+AloftåÊ,2014
+AkiraåÊ,1988
+The Death and Life of Bobby ZåÊ,2007
+The Rocket: The Legend of Rocket RichardåÊ,2005
+SwelteråÊ,2014
+My Lucky StaråÊ,2013
+Imagine Me & YouåÊ,2005
+Mr. ChurchåÊ,2016
+Swimming PoolåÊ,2003
+Green Street 3: Never Back DownåÊ,2013
+The Blood of HeroesåÊ,1989
+Code of HonoråÊ,2016
+Driving Miss DaisyåÊ,1989
+Soul FoodåÊ,1997
+Rumble in the BronxåÊ,1995
+Far from MenåÊ,2014
+Thank You for SmokingåÊ,2005
+Hostel: Part IIåÊ,2007
+An EducationåÊ,2009
+ShopgirlåÊ,2005
+The Hotel New HampshireåÊ,1984
+NarcåÊ,2002
+Men with BroomsåÊ,2002
+Witless ProtectionåÊ,2008
+The Work and the GloryåÊ,2004
+ExtractåÊ,2009
+Masked and AnonymousåÊ,2003
+Alias BettyåÊ,2001
+Code 46åÊ,2003
+Outside BetåÊ,2012
+CrashåÊ,2004
+Albert NobbsåÊ,2011
+Black NovemberåÊ,2012
+Ta Ra Rum PumåÊ,2007
+PersepolisåÊ,2007
+The HoleåÊ,2009
+The WaveåÊ,2008
+The Neon DemonåÊ,2016
+Harry BrownåÊ,2009
+Spider-Man 3åÊ,2007
+The Omega CodeåÊ,1999
+JunoåÊ,2007
+Pound of FleshåÊ,2015
+Diamonds Are ForeveråÊ,1971
+The GodfatheråÊ,1972
+FlashdanceåÊ,1983
+500 Days of SummeråÊ,2009
+The PianoåÊ,1993
+Magic MikeåÊ,2012
+Darkness FallsåÊ,2003
+Live and Let DieåÊ,1973
+My Dog SkipåÊ,2000
+"Definitely, MaybeåÊ",2008
+Jumping the BroomåÊ,2011
+The Great GatsbyåÊ,2013
+"Good Night, and Good Luck.åÊ",2005
+CapoteåÊ,2005
+DesperadoåÊ,1995
+The ClaimåÊ,2000
+FargoåÊ            ,
+Logan's RunåÊ,1976
+The Man with the Golden GunåÊ,1974
+Action JacksonåÊ,1988
+The DescentåÊ,2005
+Michael Jordan to the MaxåÊ,2000
+Devil's DueåÊ,2014
+Flirting with DisasteråÊ,1996
+The Devil's RejectsåÊ,2005
+Buffy the Vampire SlayeråÊ            ,
+DopeåÊ,2015
+In Too DeepåÊ,1999
+SkyfallåÊ,2012
+House of 1000 CorpsesåÊ,2003
+Alien ZoneåÊ,1978
+A Serious ManåÊ,2009
+Get LowåÊ,2009
+WarlockåÊ,1989
+Beyond the LightsåÊ,2014
+A Single ManåÊ,2009
+The Last Temptation of ChriståÊ,1988
+Outside ProvidenceåÊ,1999
+Bride & PrejudiceåÊ,2004
+Rabbit-Proof FenceåÊ,2002
+Who's Your Caddy?åÊ,2007
+Split SecondåÊ,1992
+NikitaåÊ            ,
+The Other Side of HeavenåÊ,2001
+Dark AngelåÊ            ,
+Veer-ZaaraåÊ,2004
+RedbeltåÊ,2008
+CyrusåÊ,2010
+A Dog of FlandersåÊ,1999
+Auto FocusåÊ,2002
+Factory GirlåÊ,2006
+We Need to Talk About KevinåÊ,2011
+The Christmas CandleåÊ,2013
+The Mighty MacsåÊ,2009
+Losin' ItåÊ,1983
+Mother and ChildåÊ,2009
+March or DieåÊ,1977
+Les visiteursåÊ,1993
+SomewhereåÊ,2010
+I Hope They Serve Beer in HellåÊ,2009
+Chairman of the BoardåÊ,1998
+HesheråÊ,2010
+Dom HemingwayåÊ,2013
+GerryåÊ,2002
+The Heart of MeåÊ,2002
+FreeheldåÊ,2015
+The Extra ManåÊ,2010
+Hard to Be a GodåÊ,2013
+Ca$håÊ,2010
+Wah-WahåÊ,2005
+The Boondock SaintsåÊ,1999
+Z StormåÊ,2014
+TwixtåÊ,2011
+Snow QueenåÊ,2012
+Alpha and Omega 4: The Legend of the Saw Toothed CaveåÊ,2014
+Pale RideråÊ,1985
+Stargate: The Ark of TruthåÊ,2008
+Dazed and ConfusedåÊ,1993
+High School Musical 2åÊ,2007
+Two Lovers and a BearåÊ,2016
+Criminal ActivitiesåÊ,2015
+Aimee & JaguaråÊ,1999
+The ChumscrubberåÊ,2005
+ShadeåÊ,2003
+House at the End of the StreetåÊ,2012
+IncendiesåÊ,2010
+"Remember Me, My LoveåÊ",2003
+Perrier's BountyåÊ,2009
+Elite SquadåÊ,2007
+AnnabelleåÊ,2014
+Bran Nue DaeåÊ,2009
+Boyz n the HoodåÊ,1991
+La BambaåÊ,1987
+The Four SeasonsåÊ,1981
+Dressed to KillåÊ,1980
+The Adventures of Huck FinnåÊ,1993
+GoåÊ,1999
+Friends with MoneyåÊ,2006
+The Andromeda StrainåÊ,1971
+BatsåÊ,1999
+Nowhere in AfricaåÊ,2001
+ShameåÊ,2011
+Layer CakeåÊ,2004
+The Work and the Glory II: American ZionåÊ,2005
+The EaståÊ,2013
+A Home at the End of the WorldåÊ,2004
+AberdeenåÊ,2000
+The MessengeråÊ,2009
+TrackeråÊ,2010
+ControlåÊ,2007
+The TerminatoråÊ,1984
+Good Bye Lenin!åÊ,2003
+The Damned UnitedåÊ,2009
+The Return of the Living DeadåÊ,1985
+GomorrahåÊ            ,
+MallratsåÊ,1995
+GreaseåÊ,1978
+PlatoonåÊ,1986
+Fahrenheit 9/11åÊ,2004
+Butch Cassidy and the Sundance KidåÊ,1969
+Mary PoppinsåÊ,1964
+Ordinary PeopleåÊ,1980
+Around the World in 80 DaysåÊ,2004
+West Side StoryåÊ,1961
+CaddyshackåÊ,1980
+The BrothersåÊ,2001
+The WoodåÊ,1999
+The Usual SuspectsåÊ,1995
+A Nightmare on Elm Street 5: The Dream ChildåÊ,1989
+Van Wilder: Party LiaisonåÊ,2002
+The WrestleråÊ,2008
+Duel in the SunåÊ,1946
+Best in ShowåÊ,2000
+Escape from New YorkåÊ,1981
+School DazeåÊ,1988
+Daddy Day CampåÊ,2007
+Mr. Nice GuyåÊ,1997
+A Mighty WindåÊ,2003
+Mystic PizzaåÊ,1988
+War & PeaceåÊ            ,
+Sliding DoorsåÊ,1998
+Tales from the HoodåÊ,1995
+The Last King of ScotlandåÊ,2006
+Halloween 5åÊ,1989
+BernieåÊ,2011
+Dolphins and Whales 3D: Tribes of the OceanåÊ,2008
+PollockåÊ,2000
+200 CigarettesåÊ,1999
+The WordsåÊ,2012
+Casa de mi PadreåÊ,2012
+City IslandåÊ,2009
+The GuardåÊ,2011
+CollegeåÊ,2008
+The Virgin SuicidesåÊ,1999
+Little VoiceåÊ,1998
+Miss MarchåÊ,2009
+Wish I Was HereåÊ,2014
+Simply IrresistibleåÊ,1999
+Veronica MarsåÊ            ,
+Hedwig and the Angry InchåÊ,2001
+Only the StrongåÊ,1993
+Goddess of LoveåÊ,2015
+Shattered GlassåÊ,2003
+NovocaineåÊ,2001
+The Business of StrangersåÊ,2001
+The Wild BunchåÊ,1969
+The WacknessåÊ,2008
+The Great Train RobberyåÊ,1979
+Morvern CallaråÊ,2002
+Beastmaster 2: Through the Portal of TimeåÊ,1991
+The 5th QuarteråÊ,2010
+The Flower of EvilåÊ,2003
+The GreateståÊ,2009
+Snow Flower and the Secret FanåÊ,2011
+Come Early MorningåÊ,2006
+Lucky BreakåÊ,2001
+JuliaåÊ,1977
+"Surfer, DudeåÊ",2008
+Lake of FireåÊ,2006
+11:14åÊ,2003
+Men of WaråÊ,1994
+Don McKayåÊ,2009
+DeadfallåÊ,2012
+A Shine of RainbowsåÊ,2009
+The Hit ListåÊ,2011
+EmmaåÊ            ,
+VideodromeåÊ,1983
+L'auberge espagnoleåÊ,2002
+Song OneåÊ,2014
+Murder by NumbersåÊ,2002
+Winter in WartimeåÊ,2008
+Freaky DeakyåÊ,2012
+The TrainåÊ,1964
+Trade of InnocentsåÊ,2012
+The ProtectoråÊ,2005
+Stiff Upper LipsåÊ,1998
+The InbetweenersåÊ            ,
+Bend It Like BeckhamåÊ,2002
+Sunshine StateåÊ,2002
+CrossoveråÊ,2006
+Khiladi 786åÊ,2012
+[Rec] 2åÊ,2009
+Standing OvationåÊ,2010
+The StingåÊ,1973
+Chariots of FireåÊ,1981
+Diary of a Mad Black WomanåÊ,2005
+ShineåÊ,1996
+Don JonåÊ,2013
+High Plains DrifteråÊ,1973
+Ghost WorldåÊ,2001
+IrisåÊ,2001
+GalaxinaåÊ,1980
+The ChorusåÊ,2004
+Mambo ItalianoåÊ,2003
+WonderlandåÊ,2003
+Do the Right ThingåÊ,1989
+Harvard ManåÊ,2001
+Le HavreåÊ,2011
+IrreversibleåÊ,2002
+R100åÊ,2013
+Rang De BasantiåÊ,2006
+AnimalsåÊ,2014
+Salvation BoulevardåÊ,2011
+The TenåÊ,2007
+A Room for Romeo BrassåÊ,1999
+HeadhuntersåÊ,2011
+GrabbersåÊ,2012
+Saint RalphåÊ,2004
+Miss JulieåÊ,2014
+Somewhere in TimeåÊ,1980
+Dum Maaro DumåÊ,2011
+Insidious: Chapter 2åÊ,2013
+Saw IIåÊ,2005
+10 Cloverfield LaneåÊ,2016
+Jackass: The MovieåÊ,2002
+Lights OutåÊ,2016
+Paranormal Activity 3åÊ,2011
+OuijaåÊ,2014
+A Nightmare on Elm Street 3: Dream WarriorsåÊ,1987
+The GiftåÊ,2015
+Instructions Not IncludedåÊ,2013
+Paranormal Activity 4åÊ,2012
+The RobeåÊ,1953
+The Return of the Pink PantheråÊ,1975
+Freddy's Dead: The Final NightmareåÊ,1991
+MonsteråÊ,2003
+"20,000 Leagues Under the SeaåÊ",1954
+Paranormal Activity: The Marked OnesåÊ,2014
+The Elephant ManåÊ,1980
+Dallas Buyers ClubåÊ,2013
+The Lazarus EffectåÊ,2015
+MementoåÊ,2000
+OculusåÊ,2013
+Clerks IIåÊ,2006
+Billy ElliotåÊ,2000
+The Way Way BackåÊ,2013
+House Party 2åÊ,1991
+The Man from Snowy RiveråÊ,1982
+Doug's 1st MovieåÊ,1999
+The ApostleåÊ,1997
+Mommie DeareståÊ,1981
+Our Idiot BrotheråÊ,2011
+RaceåÊ,2016
+The Players ClubåÊ,1998
+OåÊ,2001
+"As Above, So BelowåÊ",2014
+AddictedåÊ,2014
+Eve's BayouåÊ,1997
+Still AliceåÊ,2014
+The EgyptianåÊ,1954
+NighthawksåÊ,1981
+Friday the 13th Part VIII: Jason Takes ManhattanåÊ,1989
+My Big Fat Greek WeddingåÊ,2002
+Spring BreakersåÊ,2012
+Halloween: The Curse of Michael MyersåÊ,1995
+Y Tu MamÌÁ TambiÌ©nåÊ,2001
+Shaun of the DeadåÊ,2004
+The Haunting of Molly HartleyåÊ,2008
+Lone StaråÊ,1996
+Halloween 4: The Return of Michael MyersåÊ,1988
+April Fool's DayåÊ,1986
+DineråÊ,1982
+Lone Wolf McQuadeåÊ,1983
+Apollo 18åÊ,2011
+Sunshine CleaningåÊ,2008
+No EscapeåÊ,2015
+The BeastmasteråÊ,1982
+Solomon and ShebaåÊ,1959
+Fifty Shades of BlackåÊ,2016
+Not Easily BrokenåÊ,2009
+A Farewell to ArmsåÊ,1932
+The Perfect MatchåÊ,2016
+Digimon: The MovieåÊ,2000
+Saved!åÊ,2004
+The Barbarian InvasionsåÊ,2003
+Robin and MarianåÊ,1976
+The ForsakenåÊ,2001
+Force 10 from NavaroneåÊ,1978
+UHFåÊ,1989
+Grandma's BoyåÊ,2006
+Slums of Beverly HillsåÊ,1998
+Once Upon a Time in the WeståÊ,1968
+MadeåÊ,2001
+MoonåÊ,2009
+Keeping Up with the SteinsåÊ,2006
+Sea Rex 3D: Journey to a Prehistoric WorldåÊ,2010
+The Sweet HereafteråÊ,1997
+Of Gods and MenåÊ,2010
+Bottle ShockåÊ,2008
+Jekyll and Hyde... Together AgainåÊ,1982
+Heavenly CreaturesåÊ,1994
+90 Minutes in HeavenåÊ,2015
+Everything Must GoåÊ,2010
+Zero EffectåÊ,1998
+The MachiniståÊ,2004
+Light SleeperåÊ,1992
+Kill the MessengeråÊ,2014
+Rabbit HoleåÊ,2010
+Party MonsteråÊ,2003
+Green RoomåÊ,2015
+The Oh in OhioåÊ,2006
+Atlas Shrugged: Who Is John Galt?åÊ,2014
+Bottle RocketåÊ,1996
+Albino AlligatoråÊ,1996
+"Gandhi, My FatheråÊ",2007
+Standard Operating ProcedureåÊ,2008
+Out of the BlueåÊ,1980
+Tucker and Dale vs EvilåÊ,2010
+"Lovely, StillåÊ",2008
+TycoonåÊ,1947
+Desert BlueåÊ,1998
+DecoysåÊ,2004
+The VisitåÊ,2015
+RedactedåÊ,2007
+FascinationåÊ,2004
+Saving GraceåÊ            ,
+Area 51åÊ,2015
+Sleep TightåÊ,2011
+The CottageåÊ,2008
+Dead Like Me: Life After DeathåÊ,2009
+Farce of the PenguinsåÊ,2006
+Flying ByåÊ,2009
+PsychåÊ            ,
+RudderlessåÊ,2014
+Henry & MeåÊ,2014
+Christmas EveåÊ,2015
+We Have Your HusbandåÊ,2011
+Dying of the LightåÊ,2014
+Born of WaråÊ,2014
+Capricorn OneåÊ,1977
+Should've Been RomeoåÊ,2012
+Running ForeveråÊ,2015
+Yoga HosersåÊ,2016
+Navy Seals vs. ZombiesåÊ,2015
+I Served the King of EnglandåÊ,2006
+Soul KitchenåÊ,2009
+Sling BladeåÊ,1996
+The AwakeningåÊ,2011
+HostelåÊ,2005
+Tristram Shandy: A Cock and Bull StoryåÊ,2005
+Take ShelteråÊ,2011
+Lady in WhiteåÊ,1988
+Driving LessonsåÊ,2006
+Let's Kill Ward's WifeåÊ,2014
+The Texas Chainsaw Massacre 2åÊ,1986
+Pat Garrett & Billy the KidåÊ,1973
+Only God ForgivesåÊ,2013
+Camping sauvageåÊ,2005
+Without MenåÊ,2011
+BarfiåÊ,2013
+Dear FrankieåÊ,2004
+All HatåÊ,2007
+The Names of LoveåÊ,2010
+Treading WateråÊ,2013
+Savage GraceåÊ,2007
+Out of the BlueåÊ,2006
+Police AcademyåÊ,1984
+The Blue LagoonåÊ,1980
+Four Weddings and a FuneralåÊ,1994
+Fast Times at Ridgemont HighåÊ,1982
+Moby DickåÊ,1956
+25th HouråÊ,2002
+Secrets and LiesåÊ            ,
+BoundåÊ,1996
+Requiem for a DreamåÊ,2000
+State FairåÊ,1945
+TangoåÊ,1998
+SalvadoråÊ,1986
+Moms' Night OutåÊ,2014
+Donnie DarkoåÊ,2001
+Saving Private PerezåÊ,2011
+CharacteråÊ,1997
+SpunåÊ,2002
+Life During WartimeåÊ,2009
+Lady VengeanceåÊ,2005
+Mozart's SisteråÊ,2010
+Mean MachineåÊ,2001
+ExiledåÊ,2006
+BlackthornåÊ,2011
+Lilya 4-EveråÊ,2002
+After.LifeåÊ,2009
+FuglyåÊ,2014
+One Flew Over the Cuckoo's NeståÊ,1975
+R.L. Stine's Monsterville: The Cabinet of SoulsåÊ,2015
+Silent MovieåÊ,1976
+AirliftåÊ,2016
+Anne of Green GablesåÊ            ,
+Falcon RisingåÊ,2014
+The SweeneyåÊ,2012
+Sexy BeaståÊ,2000
+Easy MoneyåÊ,2010
+Whale RideråÊ,2002
+PaaåÊ,2009
+CargoåÊ,2009
+PanåÊ,2015
+High School MusicalåÊ,2006
+Animal KingdomåÊ            ,
+Love and Death on Long IslandåÊ,1997
+Night WatchåÊ,2004
+The Crying GameåÊ,1992
+Porky'såÊ,1981
+Survival of the DeadåÊ,2009
+Night of the Living DeadåÊ,1968
+Lost in TranslationåÊ,2003
+Annie HallåÊ,1977
+The Greatest Show on EarthåÊ,1952
+Exodus: Gods and KingsåÊ,2014
+Monster's BallåÊ,2001
+MaggieåÊ,2015
+Leaving Las VegasåÊ,1995
+Hansel & Gretel Get BakedåÊ,2013
+The Return of the Living DeadåÊ,1985
+The Front PageåÊ,1974
+The Boy Next DooråÊ,2015
+TrapezeåÊ,1956
+Saving GraceåÊ            ,
+The Kids Are All RightåÊ,2010
+They LiveåÊ,1988
+The Great EscapeåÊ,1963
+What the #$*! Do We (K)now!?åÊ,2004
+The Last Exorcism Part IIåÊ,2013
+BoyhoodåÊ,2014
+ScoopåÊ,2006
+Planet of the ApesåÊ,2001
+The WashåÊ,2001
+3 StrikesåÊ,2000
+The CooleråÊ,2003
+The MisfitsåÊ,1961
+The Night ListeneråÊ,2006
+The Jerky BoysåÊ,1995
+My Soul to TakeåÊ,2010
+The OrphanageåÊ,2007
+A Haunted House 2åÊ,2014
+The Rules of AttractionåÊ,2002
+TopazåÊ,1969
+Let's Go to PrisonåÊ,2006
+Four RoomsåÊ,1995
+SecretaryåÊ,2002
+The Real CancunåÊ,2003
+Talk RadioåÊ,1988
+Waiting for GuffmanåÊ,1996
+Love StinksåÊ,1999
+You Kill MeåÊ,2007
+ThumbsuckeråÊ,2005
+Red StateåÊ,2011
+MirrormaskåÊ,2005
+SamsaraåÊ,2011
+The BarbariansåÊ,1987
+The Art of Getting ByåÊ,2011
+ZipperåÊ,2015
+Poolhall JunkiesåÊ,2002
+The Loss of Sexual InnocenceåÊ,1999
+Holy MotorsåÊ,2012
+JoeåÊ,2013
+Shooting FishåÊ,1997
+PrisonåÊ,1987
+Psycho Beach PartyåÊ,2000
+The Big TeaseåÊ,1999
+"Buen DÌ_a, RamÌ_nåÊ",2013
+TruståÊ,2010
+An Everlasting PieceåÊ,2000
+Among GiantsåÊ,1998
+AdoreåÊ,2013
+The Velocity of GaryåÊ,1998
+Mondays in the SunåÊ,2002
+Stake LandåÊ,2010
+Sonny with a ChanceåÊ            ,
+The Last Time I Committed SuicideåÊ,1997
+Futuro BeachåÊ,2014
+Another Happy DayåÊ,2011
+A Lonely Place to DieåÊ,2011
+NothingåÊ,2003
+The Geographer Drank His Globe AwayåÊ,2013
+1776åÊ,1972
+InescapableåÊ,2012
+Hell's AngelsåÊ,1930
+Purple VioletsåÊ,2007
+The VeilåÊ,2016
+The Loved OnesåÊ,2009
+No VacancyåÊ,2012
+How to Fall in LoveåÊ,2012
+The Perfect WaveåÊ,2014
+Ben-HuråÊ,2016
+A Man for All SeasonsåÊ,1966
+NetworkåÊ,1976
+Gone with the WindåÊ,1939
+Desert DanceråÊ,2014
+Major DundeeåÊ,1965
+Down for LifeåÊ,2009
+Annie Get Your GunåÊ,1950
+Four LionsåÊ,2010
+House of SandåÊ,2005
+DefendoråÊ,2009
+The PirateåÊ,1948
+The Good HeartåÊ,2009
+The History BoysåÊ,2006
+UnknownåÊ,2011
+M*A*S*HåÊ            ,
+Midnight CowboyåÊ,1969
+The Full MontyåÊ,1997
+Airplane!åÊ,1980
+Chain of CommandåÊ,2015
+FridayåÊ,1995
+Menace II SocietyåÊ,1993
+EmpireåÊ            ,
+Creepshow 2åÊ,1987
+The Ballad of Cable HogueåÊ,1970
+In Cold BloodåÊ,1967
+The Nun's StoryåÊ,1959
+HarperåÊ,1966
+FrenzyåÊ,1972
+The WitchåÊ,2015
+I Got the Hook UpåÊ,1998
+She's the OneåÊ,1996
+Gods and MonstersåÊ,1998
+The Secret in Their EyesåÊ,2009
+Day of the DeadåÊ,1985
+TrainåÊ,2008
+Evil Dead IIåÊ,1987
+Pootie TangåÊ,2001
+SharknadoåÊ,2013
+La otra conquistaåÊ,1998
+TrollhunteråÊ,2010
+Ira & AbbyåÊ,2006
+The WatchåÊ,2012
+Winter PassingåÊ,2005
+D.E.B.S.åÊ,2004
+The Masked SaintåÊ,2016
+The BetrayedåÊ,2008
+TaxmanåÊ,1998
+The SecretåÊ            ,
+2:13åÊ,2009
+"Batman: The Dark Knight Returns, Part 2åÊ",2013
+Time to ChooseåÊ,2015
+In the Name of the King: The Last JobåÊ,2014
+Wicked BloodåÊ,2014
+Dawn PatrolåÊ,2014
+Lords of LondonåÊ,2014
+High AnxietyåÊ,1977
+March of the PenguinsåÊ,2005
+Margin CallåÊ,2011
+AuguståÊ,2011
+ChokeåÊ,2008
+WhiplashåÊ,2014
+City of GodåÊ,2002
+Human TrafficåÊ,1999
+Day OneåÊ,2012
+The Dead GirlåÊ,2006
+The HuntåÊ,2012
+A Christmas StoryåÊ,1983
+BellaåÊ,2006
+Class of 1984åÊ,1982
+The Opposite SexåÊ,2014
+Dreaming of Joseph LeesåÊ,1999
+The ClassåÊ,2008
+Rosemary's BabyåÊ,1968
+The Man Who Shot Liberty ValanceåÊ,1962
+AdamåÊ,2009
+Maria Full of GraceåÊ,2004
+BeginnersåÊ,2010
+FeaståÊ,2005
+Animal HouseåÊ,1978
+GoldfingeråÊ,1964
+AntiviralåÊ,2012
+It's a Wonderful LifeåÊ,1946
+TrainspottingåÊ,1996
+The Original Kings of ComedyåÊ,2000
+Paranormal Activity 2åÊ,2010
+Waking Ned DevineåÊ,1998
+Bowling for ColumbineåÊ,2002
+Coming HomeåÊ,2014
+A Nightmare on Elm Street 2: Freddy's RevengeåÊ,1985
+A Room with a ViewåÊ,1985
+The PurgeåÊ,2013
+SinisteråÊ,2012
+Martin Lawrence Live: RunteldatåÊ,2002
+Cat on a Hot Tin RoofåÊ,1958
+Beneath the Planet of the ApesåÊ,1970
+Air BudåÊ,1997
+PokÌ©mon 3: The MovieåÊ,2000
+Jason Lives: Friday the 13th Part VIåÊ,1986
+The Bridge on the River KwaiåÊ,1957
+Spaced InvadersåÊ,1990
+Family PlotåÊ,1976
+The ApartmentåÊ,1960
+Jason Goes to Hell: The Final FridayåÊ,1993
+Torn CurtainåÊ,1966
+Dave Chappelle's Block PartyåÊ,2005
+Slow WeståÊ,2015
+Krush GrooveåÊ,1985
+Next Day AiråÊ,2009
+Elmer GantryåÊ,1960
+Judgment at NurembergåÊ,1961
+Trippin'åÊ,1999
+Robot ChickenåÊ            ,
+Red RiveråÊ,1948
+Phat GirlzåÊ,2006
+Before MidnightåÊ,2013
+Teen Wolf TooåÊ,1987
+Phantasm IIåÊ,1988
+Woman Thou Art LoosedåÊ,2004
+Real Women Have CurvesåÊ,2002
+Deadline GallipoliåÊ            ,
+WateråÊ,2005
+East Is EaståÊ,1999
+WhippedåÊ,2000
+Kama Sutra: A Tale of LoveåÊ,1996
+Please GiveåÊ,2010
+Willy Wonka & the Chocolate FactoryåÊ,1971
+Warlock: The ArmageddonåÊ,1993
+8 Heads in a Duffel BagåÊ,1997
+Days of HeavenåÊ,1978
+Thirteen Conversations About One ThingåÊ,2001
+JawbreakeråÊ,1999
+BasquiatåÊ,1996
+Frances HaåÊ,2012
+TsotsiåÊ,2005
+HappinessåÊ,1998
+DysFunktional FamilyåÊ,2003
+TuskåÊ,2014
+OldboyåÊ,2003
+Letters to GodåÊ,2010
+Hobo with a ShotgunåÊ,2011
+CompadresåÊ,2016
+FreewayåÊ,1996
+Love's Abiding JoyåÊ,2006
+Fish TankåÊ,2009
+Damsels in DistressåÊ,2011
+CreatureåÊ            ,
+BacheloretteåÊ,2012
+BrainDeadåÊ            ,
+Brave New GirlåÊ,2004
+Tim and Eric's Billion Dollar MovieåÊ,2012
+The GambleråÊ,2014
+The GrandåÊ            ,
+Summer StormåÊ,2004
+Fort McCoyåÊ,2011
+Chain LetteråÊ,2009
+Just LookingåÊ,1999
+The DivideåÊ,2011
+The EclipseåÊ,2009
+DemonicåÊ,2015
+My Big Fat Independent MovieåÊ,2005
+Alice in WonderlandåÊ,2010
+The DeportedåÊ,2009
+Tanner HallåÊ,2009
+Open RoadåÊ,2013
+They Came TogetheråÊ,2014
+30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon TattooåÊ,2013
+Never Back Down 2: The BeatdownåÊ,2011
+Point BlankåÊ,1967
+Four Single FathersåÊ,2009
+Enter the Dangerous MindåÊ,2013
+Something WickedåÊ,2014
+AWOL-72åÊ,2015
+IguanaåÊ,1988
+CinderellaåÊ,2015
+Chicago OvercoatåÊ,2009
+Barry MundayåÊ,2010
+Central StationåÊ,1998
+Pocketful of MiraclesåÊ,1961
+Close RangeåÊ,2015
+Boynton Beach ClubåÊ,2005
+AmnesiacåÊ,2014
+FreakonomicsåÊ,2010
+The OmenåÊ,1976
+High TensionåÊ,2003
+Griff the InvisibleåÊ,2010
+UnnaturalåÊ,2015
+Hustle & FlowåÊ,2005
+Some Like It HotåÊ,1959
+Friday the 13th Part VII: The New BloodåÊ,1988
+The Wizard of OzåÊ,1939
+Young FrankensteinåÊ,1974
+Diary of the DeadåÊ,2007
+Lage Raho Munna BhaiåÊ,2006
+Ulee's GoldåÊ,1997
+The Black StallionåÊ,1979
+Sardaar JiåÊ,2015
+Journey to SaturnåÊ,2008
+Donovan's ReefåÊ,1963
+The DressåÊ,1996
+A Guy Named JoeåÊ,1943
+Blazing SaddlesåÊ,1974
+Friday the 13th: The Final ChapteråÊ,1984
+IdaåÊ,2013
+MauriceåÊ,1987
+Beer LeagueåÊ,2006
+The Astronaut's WifeåÊ,1999
+Riding GiantsåÊ,2004
+TimecrimesåÊ,2007
+Silver MedalliståÊ,2009
+Timber FallsåÊ,2007
+Singin' in the RainåÊ,1952
+"Fat, Sick & Nearly DeadåÊ",2010
+A Haunted HouseåÊ,2013
+2016: Obama's AmericaåÊ,2012
+Halloween IIåÊ,2009
+That Thing You Do!åÊ,1996
+Halloween III: Season of the WitchåÊ,1982
+Escape from the Planet of the ApesåÊ,1971
+HudåÊ,1963
+Kevin Hart: Let Me ExplainåÊ,2013
+My Own Private IdahoåÊ,1991
+Garden StateåÊ,2004
+Before SunriseåÊ,1995
+Sur le seuilåÊ,2003
+Jesus' SonåÊ,1999
+Saving FaceåÊ,2004
+Brick LaneåÊ,2007
+Robot & FrankåÊ,2012
+My Life Without MeåÊ,2003
+The Spectacular NowåÊ,2013
+Marilyn Hotchkiss' Ballroom Dancing and Charm SchoolåÊ,1990
+ReligulousåÊ,2008
+FuelåÊ,2008
+Valley of the Heart's DelightåÊ,2006
+Dodgeball: A True Underdog StoryåÊ,2004
+Eye of the DolphinåÊ,2006
+8: The Mormon PropositionåÊ,2010
+The Other End of the LineåÊ,2008
+AnatomyåÊ,2000
+Sleep DealeråÊ,2008
+SuperåÊ,2010
+Christmas MailåÊ,2010
+StungåÊ,2015
+AntibirthåÊ,2016
+Get on the BusåÊ,1996
+Thr3eåÊ,2006
+IdiocracyåÊ,2006
+The Rise of the KraysåÊ,2015
+This Is EnglandåÊ,2006
+Alien UprisingåÊ,2012
+Bathing BeautyåÊ,1944
+Go for It!åÊ,2011
+"Dancer, Texas Pop. 81åÊ",1998
+Show BoatåÊ,1951
+Redemption RoadåÊ,2010
+The CallingåÊ,2014
+The Brave Little ToasteråÊ,1987
+FantasiaåÊ,1940
+The French ConnectionåÊ,1971
+8 DaysåÊ,2014
+Friday the 13th Part IIIåÊ,1982
+Friday the 13th: A New BeginningåÊ,1985
+The Last Sin EateråÊ,2007
+Do You Believe?åÊ,2015
+Impact PointåÊ,2008
+The Valley of DecisionåÊ,1945
+EdenåÊ,2015
+Chicken Tikka MasalaåÊ,2005
+Always WoodstockåÊ,2014
+Jack Brooks: Monster SlayeråÊ,2007
+The Best Years of Our LivesåÊ,1946
+BullyåÊ,2001
+EllingåÊ,2001
+Mi AmericaåÊ,2015
+[Rec]åÊ,2007
+Lies in Plain SightåÊ,2010
+SharkskinåÊ,2015
+ContainmentåÊ,2015
+The TimberåÊ,2015
+From Russia with LoveåÊ,1963
+The Toxic Avenger Part IIåÊ,1989
+In the Heat of the NightåÊ            ,
+SleeperåÊ,1973
+It FollowsåÊ,2014
+Everything You Always Wanted to Know About Sex * But Were Afraid to AskåÊ,1972
+To Kill a MockingbirdåÊ,1962
+Mad Max 2: The Road WarrioråÊ,1981
+The Legend of Drunken MasteråÊ,1994
+LolitaåÊ,1962
+Boys Don't CryåÊ,1999
+Silent HouseåÊ,2011
+The Lives of OthersåÊ,2006
+CourageousåÊ,2011
+The HustleråÊ,1961
+Boom TownåÊ,1940
+The Triplets of BellevilleåÊ,2003
+Smoke SignalsåÊ,1998
+American SplendoråÊ,2003
+Before SunsetåÊ,2004
+Amores PerrosåÊ,2000
+ThirteenåÊ,2003
+Gentleman's AgreementåÊ,1947
+Winter's BoneåÊ,2010
+Touching the VoidåÊ,2003
+Alexander's Ragtime BandåÊ,1938
+Me and You and Everyone We KnowåÊ,2005
+Inside JobåÊ,2010
+We Are Your FriendsåÊ,2015
+Ghost Dog: The Way of the SamuraiåÊ,1999
+Harsh TimesåÊ,2005
+CaptiveåÊ,2015
+Full FrontalåÊ,2002
+WitchboardåÊ,1986
+Strangers with CandyåÊ            ,
+HamletåÊ,1996
+ShortbusåÊ,2006
+Waltz with BashiråÊ,2008
+"The Book of Mormon Movie, Volume 1: The JourneyåÊ",2003
+No End in SightåÊ,2007
+The Diary of a Teenage GirlåÊ,2015
+Get RealåÊ            ,
+In the Shadow of the MoonåÊ,2007
+Meek's CutoffåÊ,2010
+Inside Deep ThroatåÊ,2005
+Dinner RushåÊ,2000
+ClockwatchersåÊ,1997
+The Virginity HitåÊ,2010
+SubwayåÊ,1985
+House of DåÊ,2004
+TeethåÊ,2007
+Six-String SamuraiåÊ,1998
+Hum To Mohabbat KaregaåÊ,2000
+It's All Gone Pete TongåÊ,2004
+Saint John of Las VegasåÊ,2009
+24 7: Twenty Four SevenåÊ,1997
+StonewallåÊ,2015
+EurekaåÊ            ,
+Roadside RomeoåÊ,2008
+This Thing of OursåÊ,2003
+The Lost Medallion: The Adventures of Billy StoneåÊ,2013
+The Last Five YearsåÊ,2014
+The Missing PersonåÊ,2009
+Return of the Living Dead IIIåÊ,1993
+LondonåÊ,2005
+SherrybabyåÊ,2006
+Stealing HarvardåÊ,2002
+CircleåÊ,2015
+Eden LakeåÊ,2008
+PlushåÊ,2013
+Vampire KillersåÊ,2009
+Gangster's Paradise: JerusalemaåÊ,2008
+Freeze FrameåÊ,2004
+Grave EncountersåÊ,2011
+StitchesåÊ,2012
+Nine DeadåÊ,2010
+"To Be Frank, Sinatra at 100åÊ",2015
+BananasåÊ,1971
+SupercapitaliståÊ,2012
+RockawayåÊ,2007
+WingsåÊ            ,
+The Lady from ShanghaiåÊ,1947
+No Man's Land: The Rise of ReekeråÊ,2008
+HighwayåÊ,2002
+Small ApartmentsåÊ,2012
+Coffee TownåÊ,2013
+The Ghastly Love of Johnny XåÊ,2012
+All Is BrightåÊ,2013
+The Torture Chamber of Dr. SadismåÊ,1967
+Straight A'såÊ,2013
+A Funny Thing Happened on the Way to the ForumåÊ,1966
+Slacker UprisingåÊ,2007
+The Legend of Hell's Gate: An American ConspiracyåÊ,2011
+The Walking DeceasedåÊ,2015
+The Curse of Downers GroveåÊ,2015
+Shark LakeåÊ,2015
+River's EdgeåÊ,1986
+NorthforkåÊ,2003
+The Marine 4: Moving TargetåÊ,2015
+BuriedåÊ,2010
+SubmarineåÊ,2010
+The SquareåÊ,2013
+One to AnotheråÊ,2006
+CarrieåÊ,2013
+ABCD (Any Body Can Dance)åÊ,2013
+A Nightmare on Elm StreetåÊ,1984
+Man on WireåÊ,2008
+AbandonedåÊ,2015
+Brotherly LoveåÊ,2015
+The Last ExorcismåÊ,2010
+Nowhere BoyåÊ,2009
+A Streetcar Named DesireåÊ,1951
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the BombåÊ,1964
+El crimen del padre AmaroåÊ,2002
+Beasts of the Southern WildåÊ,2012
+Battle for the Planet of the ApesåÊ,1973
+SongcatcheråÊ,2000
+Higher GroundåÊ,2011
+VaaluåÊ,2015
+The Greatest Movie Ever SoldåÊ,2011
+Ed and His Dead MotheråÊ,1993
+Travelers and MagiciansåÊ,2003
+Hang 'Em HighåÊ,1968
+Deadline - U.S.A.åÊ,1952
+SublimeåÊ,2007
+A Beginner's Guide to SnuffåÊ,2016
+Independence DaysasteråÊ,2013
+Dysfunctional FriendsåÊ,2012
+Run Lola RunåÊ,1998
+MayåÊ,2002
+Against the WildåÊ,2013
+Living Dark: The Story of Ted the CaveråÊ,2013
+Under the Same MoonåÊ,2007
+Conquest of the Planet of the ApesåÊ,1972
+In the BedroomåÊ,2001
+I Spit on Your GraveåÊ,2010
+"Happy, TexasåÊ",1999
+My Summer of LoveåÊ,2004
+The LunchboxåÊ,2013
+YesåÊ,2004
+You Can't Take It with YouåÊ,1938
+From Here to EternityåÊ,1953
+She Wore a Yellow RibbonåÊ,1949
+Grace UnpluggedåÊ,2013
+FoolishåÊ,1999
+N-SecureåÊ,2010
+CaramelåÊ,2007
+Out of the DarkåÊ,2014
+The BubbleåÊ,2006
+The ConversationåÊ,1974
+Dil Jo Bhi Kahey...åÊ,2005
+Mississippi MermaidåÊ,1969
+I Love Your WorkåÊ,2003
+Cabin FeveråÊ,2016
+Dawn of the DeadåÊ,2004
+WaitressåÊ,2007
+BloodsportåÊ,1988
+Mr. Smith Goes to WashingtonåÊ,1939
+KidsåÊ,1995
+The Squid and the WhaleåÊ,2005
+Kissing Jessica SteinåÊ,2001
+"A Woman, a Gun and a Noodle ShopåÊ",2009
+Kickboxer: VengeanceåÊ,2016
+SpellboundåÊ,1945
+ExoticaåÊ,1994
+Buffalo '66åÊ,1998
+InsidiousåÊ,2010
+Repo ManåÊ,1984
+Nine QueensåÊ,2000
+The GatekeepersåÊ,2012
+The Ballad of Jack and RoseåÊ,2005
+The To Do ListåÊ,2013
+Killing ZoeåÊ,1993
+The BelieveråÊ,2001
+Snow AngelsåÊ,2007
+UnsulliedåÊ,2014
+Session 9åÊ,2001
+I Want Someone to Eat Cheese WithåÊ,2006
+Mooz-LumåÊ,2010
+HatchetåÊ,2006
+Modern TimesåÊ,1936
+Stolen SummeråÊ,2002
+My Name Is BruceåÊ,2007
+The SalonåÊ,2005
+Road HardåÊ,2015
+Forty Shades of BlueåÊ,2005
+AmigoåÊ,2010
+PontypoolåÊ,2008
+TruckeråÊ,2008
+Me You and Five BucksåÊ,2015
+The Lords of SalemåÊ,2012
+HouseboundåÊ,2014
+Wal-Mart: The High Cost of Low PriceåÊ,2005
+Fetching CodyåÊ,2005
+Once Upon a Time in QueensåÊ,2013
+Closer to the MoonåÊ,2014
+Mutant WorldåÊ,2014
+Growing Up SmithåÊ,2015
+CheckmateåÊ,2015
+Jack ReacheråÊ,2012
+#HorroråÊ,2015
+Wind WalkersåÊ,2015
+Snow White and the Seven DwarfsåÊ,1937
+The Holy GirlåÊ,2004
+ShalakoåÊ,1968
+Incident at Loch NessåÊ,2004
+The Dog LoveråÊ,2016
+Girl HouseåÊ,2014
+The Blue RoomåÊ,2014
+House at the End of the DriveåÊ,2014
+Batman: The MovieåÊ,1966
+"Lock, Stock and Two Smoking BarrelsåÊ",1998
+The Ballad of Gregorio CortezåÊ,1982
+The Streets of San FranciscoåÊ            ,
+The CelebrationåÊ,1998
+Trees LoungeåÊ,1996
+Journey from the FallåÊ,2006
+The BasketåÊ,1999
+Eddie: The Sleepwalking CannibalåÊ,2012
+Mercury RisingåÊ,1998
+Space: Above and BeyondåÊ            ,
+Queen of the MountainsåÊ,2014
+Def-Con 4åÊ,1985
+The Hebrew HammeråÊ,2003
+Neal 'N' NikkiåÊ,2005
+The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About ItåÊ,2010
+Forget Me NotåÊ,2009
+RebeccaåÊ,1940
+Friday the 13th Part 2åÊ,1981
+The Lost WeekendåÊ,1945
+C.H.U.D.åÊ,1984
+Filly BrownåÊ,2012
+The Lion of JudahåÊ,2011
+NiagaraåÊ,1953
+How Green Was My ValleyåÊ,1941
+The Girlfriend ExperienceåÊ            ,
+Da Sweet Blood of JesusåÊ,2014
+"Sex, Lies, and VideotapeåÊ",1989
+SawåÊ,2004
+Super TroopersåÊ,2001
+The AlgerianåÊ,2014
+The Amazing CatfishåÊ,2013
+The Day the Earth Stood StillåÊ,2008
+Monsoon WeddingåÊ,2001
+You Can Count on MeåÊ,2000
+The Trouble with HarryåÊ,1955
+Lucky Number SlevinåÊ,2006
+But I'm a CheerleaderåÊ,1999
+Home RunåÊ,2013
+Reservoir DogsåÊ,1992
+The Blue BirdåÊ,1940
+"The Good, the Bad and the UglyåÊ",1966
+The Second MotheråÊ,2015
+Blue Like JazzåÊ,2012
+Down and Out with the DollsåÊ,2001
+"Pink Ribbons, Inc.åÊ",2011
+Certifiably JonathanåÊ,2007
+QåÊ,2011
+The Knife of Don JuanåÊ,2013
+Grand Theft ParsonsåÊ,2003
+Extreme MovieåÊ,2008
+The Charge of the Light BrigadeåÊ,1936
+Below ZeroåÊ,2011
+CrowsneståÊ,2012
+AirborneåÊ,1993
+Cotton Comes to HarlemåÊ,1970
+The Wicked WithinåÊ,2015
+Bleeding HeartsåÊ,2015
+Waiting...åÊ,2005
+Dead Man's ShoesåÊ,2004
+Wolf CreekåÊ            ,
+From a Whisper to a ScreamåÊ,1987
+Sex with StrangersåÊ,2002
+Dracula: Pages from a Virgin's DiaryåÊ,2002
+Faith Like PotatoesåÊ,2006
+Beyond the Black RainbowåÊ,2010
+The Raid: RedemptionåÊ,2011
+The Dead UndeadåÊ,2010
+The Vatican ExorcismsåÊ,2013
+CasablancaåÊ,1942
+Lake MungoåÊ,2008
+Rocket Singh: Salesman of the YearåÊ,2009
+Silent RunningåÊ,1972
+RockyåÊ,1976
+The SleepwalkeråÊ,2014
+The FogåÊ,1980
+Tom JonesåÊ,1963
+UnfriendedåÊ,2014
+Taxi DriveråÊ,1976
+The HowlingåÊ,1981
+Dr. NoåÊ,1962
+Chernobyl DiariesåÊ,2012
+HellraiseråÊ,1987
+God's Not Dead 2åÊ,2016
+Cry_WolfåÊ,2005
+Godzilla 2000åÊ,1999
+Blue ValentineåÊ,2010
+TransamericaåÊ,2005
+The Devil InsideåÊ,2012
+Beyond the Valley of the DollsåÊ,1970
+Love Me TenderåÊ,1956
+An Inconvenient TruthåÊ,2006
+Sands of Iwo JimaåÊ,1949
+Shine a LightåÊ,2008
+The Green InfernoåÊ,2013
+DepartureåÊ,2015
+The SessionsåÊ,2012
+"Food, Inc.åÊ",2008
+October BabyåÊ,2011
+Next Stop WonderlandåÊ,1998
+JunoåÊ,2007
+The Skeleton TwinsåÊ,2014
+Martha Marcy May MarleneåÊ,2011
+Obvious ChildåÊ,2014
+Frozen RiveråÊ,2008
+20 Feet from StardomåÊ,2013
+Two Girls and a GuyåÊ,1997
+Walking and TalkingåÊ,1996
+The Full MontyåÊ,1997
+Who Killed the Electric Car?åÊ,2006
+The Broken Hearts Club: A Romantic ComedyåÊ,2000
+Bubba Ho-TepåÊ,2002
+GoosebumpsåÊ,2015
+SlamåÊ,1998
+Brigham CityåÊ,2001
+FizaåÊ,2000
+History of the World: Part IåÊ,1981
+OrgazmoåÊ,1997
+All the Real GirlsåÊ,2003
+Dream with the FishesåÊ,1997
+Blue CaråÊ,2002
+LuminariasåÊ,2000
+Palo AltoåÊ,2013
+AjamiåÊ,2009
+Wristcutters: A Love StoryåÊ,2006
+I OriginsåÊ,2014
+The Battle of Shaker HeightsåÊ,2003
+The Lovely BonesåÊ,2009
+The Act of KillingåÊ,2012
+Taxi to the Dark SideåÊ,2007
+Once in a Lifetime: The Extraordinary Story of the New York CosmosåÊ,2006
+Guiana 1838åÊ,2004
+Lisa Picard Is FamousåÊ,2000
+Antarctica: A Year on IceåÊ,2013
+A Lego BrickumentaryåÊ,2014
+HardflipåÊ,2012
+Chocolate: Deep Dark SecretsåÊ,2005
+The House of the DevilåÊ,2009
+The Perfect HoståÊ,2010
+Safe MenåÊ,1998
+Speedway JunkyåÊ,1999
+The Last Big ThingåÊ,1996
+The SpecialsåÊ,2000
+16 to LifeåÊ,2009
+Alone with HeråÊ,2006
+Creative ControlåÊ,2015
+SpecialåÊ,2006
+SparkleråÊ,1997
+The Helix... LoadedåÊ,2005
+In Her Line of FireåÊ,2006
+The Jimmy ShowåÊ,2001
+HeliåÊ,2013
+Karachi se LahoreåÊ,2015
+Loving AnnabelleåÊ,2006
+HitsåÊ,2014
+Jimmy and JudyåÊ,2006
+Frat PartyåÊ,2009
+The Party's OveråÊ,1965
+ProudåÊ,2004
+The Poker HouseåÊ,2008
+ChildlessåÊ,2008
+ZMD: Zombies of Mass DestructionåÊ,2009
+Snow White: A Deadly SummeråÊ,2012
+Hidden AwayåÊ,2014
+My Last Day Without YouåÊ,2011
+Steppin: The MovieåÊ,2009
+Doc Holliday's RevengeåÊ,2014
+Black RockåÊ,2012
+Truth or DieåÊ,2012
+The PetåÊ,2006
+Bang Bang BabyåÊ,2014
+Fear ClinicåÊ,2015
+Zombie HunteråÊ,2013
+A Fine StepåÊ,2014
+TranceåÊ,2013
+CharlyåÊ,1968
+Banshee ChapteråÊ,2013
+JesseåÊ            ,
+Ask Me AnythingåÊ,2014
+And Then Came LoveåÊ,2007
+Food ChainsåÊ,2014
+On the WaterfrontåÊ,1954
+L!fe HappensåÊ,2011
+"4 Months, 3 Weeks and 2 DaysåÊ",2007
+The Horror Network Vol. 1åÊ,2015
+Hard CandyåÊ,2005
+The QuietåÊ,2005
+CircumstanceåÊ,2011
+Fruitvale StationåÊ,2013
+The Brass TeapotåÊ,2012
+BambiåÊ,1942
+The HammeråÊ,2007
+SnitchåÊ,2013
+Latter DaysåÊ,2003
+ElzaåÊ,2011
+1982åÊ,2013
+"For a Good Time, Call...åÊ",2012
+Celeste & Jesse ForeveråÊ,2012
+Time ChangeråÊ,2002
+London to BrightonåÊ,2006
+American HeroåÊ,2015
+Windsor DriveåÊ,2015
+A SeparationåÊ,2011
+Crying with LaughteråÊ,2009
+Welcome to the DollhouseåÊ,1995
+Ruby in ParadiseåÊ,1993
+Raising Victor VargasåÊ,2002
+Pandora's BoxåÊ,1929
+Harrison MontgomeryåÊ,2008
+Live-In MaidåÊ,2004
+DeterrenceåÊ,1999
+The Mudge BoyåÊ,2003
+The Young UnknownsåÊ,2000
+Not CoolåÊ,2014
+Dead SnowåÊ,2009
+Saints and SoldiersåÊ,2003
+VesselåÊ,2012
+American GraffitiåÊ,1973
+Iraq for Sale: The War ProfiteersåÊ,2006
+Aqua Teen Hunger Force Colon Movie Film for TheatersåÊ,2007
+Safety Not GuaranteedåÊ,2012
+Kevin Hart: Laugh at My PainåÊ,2011
+Kill ListåÊ,2011
+The InnkeepersåÊ,2011
+The UnbornåÊ,2009
+The ConformiståÊ,1970
+Interview with the AssassinåÊ,2002
+Donkey PunchåÊ,2008
+All the Boys Love Mandy LaneåÊ,2006
+BledåÊ,2009
+High NoonåÊ,1952
+Hoop DreamsåÊ,1994
+RizeåÊ,2005
+DestinyåÊ,2014
+L.I.E.åÊ,2001
+The Sisterhood of NightåÊ,2014
+B-GirlåÊ,2009
+King KongåÊ,2005
+House of WaxåÊ,2005
+Half NelsonåÊ,2006
+Naturally NativeåÊ,1998
+Hav PlentyåÊ,1997
+AdulterersåÊ,2015
+Escape from TomorrowåÊ,2013
+StarsuckersåÊ,2009
+The Hadza: Last of the FirståÊ,2014
+AfteråÊ,2012
+TreacheryåÊ,2013
+WalteråÊ,2015
+Top HatåÊ,1935
+The Blair Witch ProjectåÊ,1999
+WoodstockåÊ,1970
+The Kentucky Fried MovieåÊ,1977
+Mercy StreetsåÊ,2000
+Arnolds ParkåÊ,2007
+Broken VesselsåÊ,1998
+Water & PoweråÊ,2013
+They Will Have to Kill Us FirståÊ,2015
+Crop Circles: Quest for TruthåÊ,2002
+Light from the DarkroomåÊ,2014
+IrreplaceableåÊ,2016
+The Maid's RoomåÊ,2013
+A Hard Day's NightåÊ,1964
+The Harvest/La CosechaåÊ,2011
+Love LettersåÊ,1983
+Julija in alfa RomeoåÊ,2015
+FireproofåÊ,2008
+Faith ConnectionsåÊ,2013
+BenjiåÊ,1974
+Open WateråÊ,2003
+High RoadåÊ,2011
+Kingdom of the SpidersåÊ,1977
+Mad Hot BallroomåÊ,2005
+The Station AgentåÊ,2003
+To Save a LifeåÊ,2009
+WordplayåÊ,2006
+Beyond the MatåÊ,1999
+The Singles WardåÊ,2002
+OsamaåÊ,2003
+Sholem Aleichem: Laughing in the DarknessåÊ,2011
+GrooveåÊ,2000
+The R.M.åÊ,2003
+Twin Falls IdahoåÊ,1999
+Mean CreekåÊ,2004
+Hurricane StreetsåÊ,1997
+Never AgainåÊ,2001
+Civil BrandåÊ,2002
+Lonesome JimåÊ,2005
+Drinking BuddiesåÊ,2013
+Deceptive Practice: The Mysteries and Mentors of Ricky JayåÊ,2012
+Seven SamuraiåÊ,1954
+The Other Dream TeamåÊ,2012
+Johnny SuedeåÊ,1991
+Finishing the Game: The Search for a New Bruce LeeåÊ,2007
+RubberåÊ,2010
+HomeåÊ,2015
+Kiss the BrideåÊ,2007
+The Slaughter RuleåÊ,2002
+MonstersåÊ,2010
+The CaliforniansåÊ,2005
+The Living WakeåÊ,2007
+Detention of the DeadåÊ,2012
+Crazy StoneåÊ,2006
+Scott Walker: 30 Century ManåÊ,2006
+Everything Put TogetheråÊ,2000
+Good KillåÊ,2014
+Insomnia ManicaåÊ,2005
+The Outrageous Sophie TuckeråÊ,2014
+Now Is GoodåÊ,2012
+Girls Gone DeadåÊ,2012
+America Is Still the PlaceåÊ,2015
+SubconsciousåÊ,2015
+CrossroadsåÊ,2002
+Enter NowhereåÊ,2011
+The King of NajayoåÊ,2012
+Fight to the FinishåÊ,2016
+Alleluia! The Devil's CarnivalåÊ,2016
+The Sound and the ShadowåÊ,2014
+Rodeo GirlåÊ,2016
+Born to Fly: Elizabeth Streb vs. GravityåÊ,2014
+The Little Ponderosa ZooåÊ,2016
+Oz the Great and PowerfulåÊ,2013
+The Toxic AvengeråÊ,1984
+Straight Out of BrooklynåÊ,1991
+Bloody SundayåÊ,2002
+Diamond RuffåÊ,2015
+Conversations with Other WomenåÊ,2005
+Poultrygeist: Night of the Chicken DeadåÊ,2006
+Mutual FriendsåÊ,2013
+42nd StreetåÊ,1933
+Rise of the Entrepreneur: The Search for a Better WayåÊ,2014
+MetropolitanåÊ,1990
+As It Is in HeavenåÊ,2004
+RoadsideåÊ,2013
+Napoleon DynamiteåÊ,2004
+Blue RuinåÊ,2013
+Paranormal ActivityåÊ,2007
+Dogtown and Z-BoysåÊ,2001
+Monty Python and the Holy GrailåÊ,1975
+QuinceaÌ±eraåÊ,2006
+Gory Gory HallelujahåÊ,2003
+HeroesåÊ            ,
+TarnationåÊ,2003
+I Want Your MoneyåÊ,2010
+Love in the Time of MonstersåÊ,2014
+The BeyondåÊ,1981
+Home MoviesåÊ            ,
+What Happens in VegasåÊ,2008
+The Dark HoursåÊ,2005
+My Beautiful LaundretteåÊ,1985
+FabledåÊ,2002
+Show MeåÊ,2004
+Cries & WhispersåÊ,1972
+Intolerance: Love's Struggle Throughout the AgesåÊ,1916
+TrekkiesåÊ,1997
+The Broadway MelodyåÊ,1929
+The Evil DeadåÊ,1981
+ManiacåÊ,2012
+Censored VoicesåÊ,2015
+MurderballåÊ,2005
+American Ninja 2: The ConfrontationåÊ,1987
+51 Birch StreetåÊ,2005
+RevolutionåÊ            ,
+Rotor DR1åÊ,2015
+HalloweenåÊ,1978
+12 Angry MenåÊ,1957
+My Dog TulipåÊ,2009
+It Happened One NightåÊ,1934
+DogtoothåÊ,2009
+Tupac: ResurrectionåÊ,2003
+TumbleweedsåÊ,1999
+The ProphecyåÊ,1995
+When the Cat's AwayåÊ,1996
+Pieces of AprilåÊ,2003
+The Big SwapåÊ,1998
+Old JoyåÊ,2006
+Wendy and LucyåÊ,2008
+3 BackyardsåÊ,2010
+Pierrot le FouåÊ,1965
+Sisters in LawåÊ,2005
+Ayurveda: Art of BeingåÊ,2001
+Nothing But a ManåÊ,1964
+"First Love, Last RitesåÊ",1997
+Fighting Tommy RileyåÊ,2004
+Royal KillåÊ,2009
+Across the UniverseåÊ,2007
+The Looking GlassåÊ,2015
+Death Race 2000åÊ,1975
+Locker 13åÊ,2014
+Midnight CabaretåÊ,1990
+Anderson's CrossåÊ,2010
+BizarreåÊ,2015
+Graduation DayåÊ,1981
+Some Guy Who Kills PeopleåÊ,2011
+ComplianceåÊ,2012
+Chasing AmyåÊ,1997
+Lovely & AmazingåÊ,2001
+Death CallsåÊ,2010
+Better Luck TomorrowåÊ,2002
+The Incredibly True Adventure of Two Girls in LoveåÊ,1995
+Chuck & BuckåÊ,2000
+American DesiåÊ,2001
+Amidst the Devil's WingsåÊ,2014
+CubeåÊ,1997
+Love and Other CatastrophesåÊ,1996
+I Married a Strange Person!åÊ,1997
+NovemberåÊ,2004
+Like CrazyåÊ,2011
+Teeth and BloodåÊ,2015
+Sugar TownåÊ,1999
+The MotelåÊ,2005
+The CanyonsåÊ,2013
+Happy ValleyåÊ            ,
+On the OutsåÊ,2004
+Shotgun StoriesåÊ,2007
+ExamåÊ,2009
+The Sticky Fingers of TimeåÊ,1997
+Sunday School MusicalåÊ,2008
+RuståÊ,2010
+InkåÊ,2009
+The Christmas BunnyåÊ,2010
+Jesus PeopleåÊ,2007
+ButterflyåÊ,1982
+UnDividedåÊ,2013
+The FrozenåÊ,2012
+The Love LetteråÊ,1998
+Horse CampåÊ,2014
+Give Me ShelteråÊ,2014
+The Big ParadeåÊ,1925
+Little Big TopåÊ,2006
+Along the RoadsideåÊ,2013
+BronsonåÊ,2008
+Western ReligionåÊ,2015
+BurnåÊ,2012
+UrbaniaåÊ,2000
+The StewardessesåÊ,1969
+"The Beast from 20,000 FathomsåÊ",1953
+"20,000 Leagues Under the SeaåÊ",1954
+Mad MaxåÊ,1979
+SwingersåÊ,1996
+A Fistful of DollarsåÊ,1964
+She Done Him WrongåÊ,1933
+Short Cut to Nirvana: Kumbh MelaåÊ,2004
+The Grace CardåÊ,2010
+Middle of NowhereåÊ,2012
+3åÊ,2010
+The Business of FancydancingåÊ,2002
+Call + ResponseåÊ,2008
+Side EffectsåÊ,2013
+MalevolenceåÊ,2003
+Shooting the WarwicksåÊ,2015
+Super HybridåÊ,2010
+BagheadåÊ,2008
+SolitudeåÊ,2014
+The Case of the Grinning CatåÊ,2004
+OrdetåÊ,1955
+Good DickåÊ,2008
+The Man from EarthåÊ,2007
+The Trials of Darryl HuntåÊ,2006
+An American Girl HolidayåÊ,2004
+Yesterday Was a LieåÊ,2008
+Theresa Is a MotheråÊ,2012
+H.åÊ,2014
+Archaeology of a WomanåÊ,2012
+Children of HeavenåÊ,1997
+WeekendåÊ,2011
+She's Gotta Have ItåÊ,1986
+Butterfly GirlåÊ,2014
+The World Is MineåÊ,2015
+Another EarthåÊ,2011
+The CallingåÊ,2014
+Sweet Sweetback's Baadasssss SongåÊ,1971
+Perfect CowboyåÊ,2014
+TadpoleåÊ,2000
+OnceåÊ,2007
+The Woman ChaseråÊ,1999
+The Horse BoyåÊ,2009
+When the Lights Went OutåÊ,2012
+Heroes of DirtåÊ,2015
+The Texas Chain Saw MassacreåÊ,1974
+A Charlie Brown ChristmasåÊ,1965
+Antarctic Edge: 70å¡ SouthåÊ,2015
+ArousedåÊ,2013
+Top SpinåÊ,2014
+Roger & MeåÊ,1989
+Cat PeopleåÊ,1982
+An American in HollywoodåÊ,2014
+Sound of My VoiceåÊ,2011
+The Brain That SingsåÊ,2013
+The Blood of My BrotheråÊ,2005
+Your Sister's SisteråÊ,2011
+Romantic SchemeråÊ,2015
+A Dog's BreakfaståÊ,2007
+A Dog's BreakfaståÊ,2007
+Night of the Living DeadåÊ,1968
+Une Femme MariÌ©eåÊ,1964
+The Birth of a NationåÊ,2016
+The Work and the StoryåÊ,2003
+Facing the GiantsåÊ,2006
+The GallowsåÊ,2015
+EraserheadåÊ,1977
+Over the Hill to the PoorhouseåÊ,1920
+Hollywood ShuffleåÊ,1987
+The MightyåÊ,1998
+PenitentiaryåÊ,1979
+The Lost Skeleton of CadavraåÊ,2001
+"Dude, Where's My Dog?!åÊ",2014
+Cheap ThrillsåÊ,2013
+Indie Game: The MovieåÊ,2012
+ClosureåÊ,2007
+Open SecretåÊ,1948
+Echo Dr.åÊ,2013
+The Night VisitoråÊ,1971
+The Past is a Grotesque AnimalåÊ,2014
+The Last House on the LeftåÊ,2009
+"Peace, Propaganda & the Promised LandåÊ",2004
+PiåÊ,1998
+"I Love You, Don't Touch Me!åÊ",1997
+20 DatesåÊ,1998
+Queen CrabåÊ,2015
+Super Size MeåÊ,2004
+The FPåÊ,2011
+Happy ChristmasåÊ,2014
+The Brain That Wouldn't DieåÊ,1962
+Tiger OrangeåÊ,2014
+Supporting CharactersåÊ,2012
+AbsentiaåÊ,2011
+The Brothers McMullenåÊ,1995
+The DirtiesåÊ,2013
+GabrielaåÊ,1983
+Tiny FurnitureåÊ,2010
+HayrideåÊ,2012
+The Naked ApeåÊ,2006
+CountingåÊ,2015
+The Call of CthulhuåÊ,2005
+Bending SteelåÊ,2013
+The SignalåÊ,2014
+The Image RevolutionåÊ,2014
+This Is Martin BonneråÊ,2013
+A True StoryåÊ,2013
+George WashingtonåÊ,2000
+Smiling Fish & Goat on FireåÊ,1999
+Dawn of the Crescent MoonåÊ,2014
+Raymond Did ItåÊ,2011
+The Last WaltzåÊ,1978
+"Run, Hide, DieåÊ",2012
+The Exploding GirlåÊ,2009
+The Legend of God's GunåÊ,2007
+Mutual AppreciationåÊ,2005
+Her Cry: La Llorona InvestigationåÊ,2013
+Down TerraceåÊ,2009
+ClerksåÊ,1994
+Pink NarcissusåÊ,1971
+Funny Ha HaåÊ,2002
+In the Company of MenåÊ,1997
+SabotageåÊ,2014
+ManitoåÊ,2002
+RampageåÊ,2009
+SlackeråÊ,1991
+Dutch KillsåÊ,2015
+Dry SpellåÊ,2013
+FlywheelåÊ,2003
+ExeteråÊ,2015
+The RidgesåÊ,2011
+The Puffy ChairåÊ,2005
+Stories of Our LivesåÊ,2014
+Breaking UpwardsåÊ,2009
+All Superheroes Must DieåÊ,2011
+Pink FlamingosåÊ,1972
+CleanåÊ,2004
+The CircleåÊ,2000
+Tin Can ManåÊ,2007
+The CureåÊ,1997
+On the DownlowåÊ,2004
+Sanctuary; Quite a ConundrumåÊ,2012
+BangåÊ,1995
+PrimeråÊ,2004
+CaviteåÊ,2005
+El MariachiåÊ,1992
+The Mongol KingåÊ,2005
+NewlywedsåÊ,2011
+Signed Sealed DeliveredåÊ,2013
+The FollowingåÊ            ,
+A Plague So PleasantåÊ,2013
+Shanghai CallingåÊ,2012
+My Date with DrewåÊ,2004
