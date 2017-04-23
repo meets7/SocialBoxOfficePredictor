@@ -1,4 +1,5 @@
 from imdb import IMDb
+import datetime
 import utility
 ia = IMDb()
 
@@ -19,29 +20,38 @@ def getLastThreeMovies(lastMovies):
 	return lastThreeMovies
 
 def ReadAllActors():
-	movies = utility.readCSV("MovieDetail.csv")
+	movies = utility.readCSV("data/MovieDetail.csv")
 	actorMoviesMap = {}
 	count = 1
-	for movie in movies[1:]:
-		if count % 20 == 0:
-			print count
-		count = count + 1
-		movieId = movie[1][2:]
-		if not movieId:
-			continue
-		movieInfo = ia.get_movie(movieId)
-		cast = movieInfo['cast']
+	for movie in movies[1:500]:
+		try:
+			if count % 20 == 0:
+				print count
+				print datetime.datetime.now()
+			count = count + 1
+			movieId = movie[1][2:]
+			if not movieId or len(movieId) != 7:
+				continue
+			movieInfo = ia.get_movie(movieId)
+			cast = movieInfo.get('cast')
+			if cast is None:
+				continue
 
-		for a in cast[:2]:
-			name = a.get('name')
-			if not name or name in actorMoviesMap:
-				continue
-			workedIn = ia.get_person(a.getID(), info=["filmography"])
-			lastMovies = workedIn.get("actor")
-			if lastMovies is None:
-				continue
-			lastThreeMovies = getLastThreeMovies(lastMovies)
-			actorMoviesMap[name] = lastThreeMovies
+			for a in cast[:2]:
+				name = a.get('name')
+				if not name or name in actorMoviesMap:
+					continue
+				workedIn = ia.get_person(a.getID(), info=["filmography"])
+				lastMovies = workedIn.get("actor")
+				if lastMovies is None:
+					continue
+				# lastThreeMovies = getLastThreeMovies(lastMovies)
+				if len(lastMovies) > 20:
+					actorMoviesMap[name] = lastMovies[:20]
+				else:
+					actorMoviesMap[name] = lastMovies
+		except:
+			continue
 
 	return actorMoviesMap
 
