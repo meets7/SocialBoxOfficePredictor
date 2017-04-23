@@ -13,13 +13,8 @@ class MovieBoxOfficeNumbersScrapper(scrapy.Spider):
 	movieActor = {}
 
 	def readNames(self):
-		movieData = utility.readCSV("data/last3Movies.csv")
+		movieData = utility.readCSV("last3Movies.csv")
 		for movie in movieData:
-			if len(movie) < 3:
-				continue
-			year = movie[2]
-			if not year or int(year) >= 2017:
-				continue
 			movieName = movie[1]
 			self.movieNames[movieName] = 0
 			actor = movie[0]
@@ -43,10 +38,7 @@ class MovieBoxOfficeNumbersScrapper(scrapy.Spider):
 			yield scrapy.Request(url=url, callback=self.parse)
 
 	def parse(self, response):
-		try:
-			boxOfficeRevenue = float(response.css('.data::text')[-1].extract().encode().replace('$','').replace(',',''))
-		except:
-			return
+		boxOfficeRevenue = float(response.css('.data::text')[-1].extract().encode().replace('$','').replace(',',''))
 		movieName = re.search(r"(?<=term=)[a-zA-Z.:+]+",urllib.unquote(response.url)).group(0).replace('+',' ')
 		self.movieNames[movieName] = boxOfficeRevenue
 
@@ -60,7 +52,7 @@ def getAverage(revenue, actormovie):
 		sum = 0
 		for movie in actormovie[actor]:
 			sum = sum + revenue[movie]
-		actorAverage[actor] = int(sum/len(actormovie[actor]))
+		actorAverage[actor] = sum/float(3)
 
 	return actorAverage
 

@@ -23,7 +23,7 @@ def ReadAllActors():
 	movies = utility.readCSV("data/MovieDetail.csv")
 	actorMoviesMap = {}
 	count = 1
-	for movie in movies[1:500]:
+	for movie in movies[1:]:
 		try:
 			if count % 20 == 0:
 				print count
