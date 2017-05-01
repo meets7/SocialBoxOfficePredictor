@@ -66,7 +66,7 @@ def getRevenueClass(budget,revenue):
 # In[25]:
 
 import statsmodels.formula.api as smf
-lm = smf.ols(formula='Revenue ~ YT_Count+ YT_Dislikes + IMDBVotes + Budget', data=trainData).fit()
+lm = smf.ols(formula='Revenue ~ YT_Count+ YT_Dislike + IMDBVotes + Budget', data=trainData).fit()
 
 preds = lm.predict(testData)
 predictions = []
