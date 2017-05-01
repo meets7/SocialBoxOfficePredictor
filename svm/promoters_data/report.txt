@@ -1,0 +1,9 @@
+kernel = 0
+Accuracy = 85.7143% (30/35) (classification)
+kernel = 1
+Accuracy = 74.2857% (26/35) (classification)
+kernel = 2
+Accuracy = 77.1429% (27/35) (classification)
+kernel = 3
+Accuracy = 45.7143% (16/35) (classification)
+
