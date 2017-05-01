@@ -30,7 +30,7 @@ def readCSV(fileName):
         return dataAsList
 
 def writeToFileMovieRevenue(averageRevenues):
-	with open("data/actorRevenue.csv", "w") as outfile:
+	with open("data/actorRevenue-final.csv", "w") as outfile:
 		for actor in averageRevenues:
 			if not actor:
 				continue
@@ -38,3 +38,18 @@ def writeToFileMovieRevenue(averageRevenues):
 			actorRow = [actor, averageRevenues[actor]]
 			wr = csv.writer(outfile, dialect='excel')
 			wr.writerow(actorRow)
+
+
+def writeToFileMovieActors(movieActorMap):
+	with open("data/movieActors.csv", "w") as outfile:
+		for movie in movieActorMap:
+			if not movie:
+				continue
+			# names = name.split(' ')
+			actorList = ",".join(movieActorMap[movie])
+			actorRow = [movie, actorList]
+			wr = csv.writer(outfile, dialect='excel')
+			try:
+				wr.writerow(actorRow)
+			except:
+				continue
