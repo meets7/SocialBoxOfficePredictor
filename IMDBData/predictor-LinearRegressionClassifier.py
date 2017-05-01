@@ -97,16 +97,7 @@ for realValue in revenueList:
 
 print correctCount
 print correctCount*100/float(698)
-print percentErrorCorrectCount*100/float(698)
-
-
-# In[23]:
-
-budgetList = testData['Budget'].tolist()
-budgetList
-
-
-# In[ ]:
+#print percentErrorCorrectCount*100/float(698)
 
 
 
